@@ -55,7 +55,25 @@ flexibility(document.documentElement);
 <link rel="icon" href="/wp-content/uploads/2022/04/glidIcon-2.png" sizes="192x192">
 <link rel="apple-touch-icon" href="/wp-content/uploads/2022/04/glidIcon-2.png">
 <meta name="msapplication-TileImage" content="/wp-content/uploads/2022/04/glidIcon-2.png">
-		<style id="wp-custom-css">{
+		<style id="wp-custom-css">/* Fixed background for tablet and mobile */
+@media all and (max-width:1024px) {
+    selector:after {
+        content: '';
+        width: 100%;
+        height: 100%;
+        background-position: inherit;
+        background-image: inherit;
+        background-size: inherit;
+        background-attachment: inherit;
+        background-repeat: inherit;
+        position: fixed;
+        top: 0;
+        z-index: -1;
+    }
+}
+
+/* Disable Scrollbars */
+{
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
