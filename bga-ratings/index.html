@@ -130,8 +130,8 @@ flexibility(document.documentElement);
 <li id="menu-item-918" class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-ancestor current-menu-parent menu-item-has-children menu-item-918">
 <a href="/category/uncategorised/" class="menu-link">Gliding</a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu Toggle</span><span class="ast-icon icon-arrow"></span></button>
 <ul class="sub-menu">
-	<li id="menu-item-723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="/tasks/" class="menu-link">Tasks</a></li>
 	<li id="menu-item-988" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-986 current_page_item menu-item-988"><a href="/bga-ratings/" aria-current="page" class="menu-link">BGA Ratings</a></li>
+	<li id="menu-item-723" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="/tasks/" class="menu-link">Tasks</a></li>
 </ul>
 </li>
 <li id="menu-item-622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622"><a href="/about/" class="menu-link">About</a></li>
@@ -209,37 +209,72 @@ flexibility(document.documentElement);
   border: 1px solid #ddd!important;
   margin-bottom: 12px!important;/
 }</style>
-<input type="text" onkeyup="searchList()" placeholder="Type here to filter">
+<script>
+function searchList(){
+  // Declare variables
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("searchPhrase");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("searchTable");
+  tr = table.getElementsByTagName("tr");
+
+  // Loop through all table rows, and hide those who don't match the search query
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }
+  }
+}
+</script>
+<input type="text" id="searchPhrase" onkeyup="searchList()" placeholder="Type here to filter">
 
 
 
-<figure class="wp-block-table is-style-stripes"><table>
-<thead><tr>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"> >
+var xmlFile=url '/wp-content/uploads/DataFiles/rankings.xml',
+$.ajax({
+    var xml=$.parseXML(xmlFile);
+    success:function(xml){
+          $("col",xml).each(function(){
+              var name=$(this).find("name").text();
+              var score=$(this).find("score").text();
+              var pos=$(this).find("pos").text();
+              $(searchTable).append(
+                      $('<tr/>').append($('<td/>',{text:name}))
+                              .append($('<td/>',{text:score}))
+                              .append($('<td/>',{text:pos}))
+              );
+          });
+        });
+    }
+})
+</script>
+
+<figure class="wp-block-table is-style-stripes">
+<table id="searchTable">
+<thead>
+<tr>
 <th class="has-text-align-left" data-align="left">Name</th>
 <th class="has-text-align-left" data-align="left">Points</th>
 <th class="has-text-align-left" data-align="left">Position</th>
-</tr></thead>
-<tbody>
-<tr>
-<td class="has-text-align-left" data-align="left">Ollie Wheeler</td>
-<td class="has-text-align-left" data-align="left">2000</td>
-<td class="has-text-align-left" data-align="left">1</td>
 </tr>
-<tr>
-<td class="has-text-align-left" data-align="left">Alistair Emson</td>
-<td class="has-text-align-left" data-align="left">2001</td>
-<td class="has-text-align-left" data-align="left">2</td>
-</tr>
-</tbody>
-</table></figure>
-
-
-
-<p class="has-text-align-center"><em><strong><a href="https://members.gliding.co.uk/library/competitions/">The data displayed is from the BGA and is public facing. The data may be out of date.</a></strong></em></p>
+</thead>
+</table>
+</figure>
 
 
 
 <p></p>
+
+
+
+<p class="has-text-align-center"><em><strong><a href="https://members.gliding.co.uk/library/competitions/">The data displayed is from the BGA and is public facing. The data may be out of date.</a></strong></em></p>
 
 		
 		
@@ -281,8 +316,8 @@ flexibility(document.documentElement);
 <li class="menu-item menu-item-type-taxonomy menu-item-object-category current-menu-ancestor current-menu-parent menu-item-has-children menu-item-918">
 <a href="/category/uncategorised/" class="menu-link">Gliding</a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu Toggle</span><span class="ast-icon icon-arrow"></span></button>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="/tasks/" class="menu-link">Tasks</a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-986 current_page_item menu-item-988"><a href="/bga-ratings/" aria-current="page" class="menu-link">BGA Ratings</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-723"><a href="/tasks/" class="menu-link">Tasks</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-622"><a href="/about/" class="menu-link">About</a></li>
