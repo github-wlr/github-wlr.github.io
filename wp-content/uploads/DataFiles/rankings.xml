@@ -1,0 +1,4080 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<col>
+		<name>T W Arscott</name>
+		<score>4225</score>
+		<pos>1</pos>
+	</col>
+	<col>
+		<name>J M Hood</name>
+		<score>2606</score>
+		<pos>2</pos>
+	</col>
+	<col>
+		<name>J C Brattle</name>
+		<score>4281</score>
+		<pos>3</pos>
+	</col>
+	<col>
+		<name>P R Jones</name>
+		<score>2602</score>
+		<pos>4</pos>
+	</col>
+	<col>
+		<name>D P Francis</name>
+		<score>2274</score>
+		<pos>5</pos>
+	</col>
+	<col>
+		<name>S J Eyles</name>
+		<score>2107</score>
+		<pos>6</pos>
+	</col>
+	<col>
+		<name>H Jones</name>
+		<score>2733</score>
+		<pos>7</pos>
+	</col>
+	<col>
+		<name>A J Davis</name>
+		<score>875</score>
+		<pos>8</pos>
+	</col>
+	<col>
+		<name>L M P Wells</name>
+		<score>2629</score>
+		<pos>9</pos>
+	</col>
+	<col>
+		<name>I Macarthur</name>
+		<score>3091</score>
+		<pos>10</pos>
+	</col>
+	<col>
+		<name>G G Dale</name>
+		<score>1887</score>
+		<pos>11</pos>
+	</col>
+	<col>
+		<name>S G Jones</name>
+		<score>1902</score>
+		<pos>12</pos>
+	</col>
+	<col>
+		<name>F Sleigh</name>
+		<score>4443</score>
+		<pos>13</pos>
+	</col>
+	<col>
+		<name>G D Coppin</name>
+		<score>2882</score>
+		<pos>14</pos>
+	</col>
+	<col>
+		<name>P J Harvey</name>
+		<score>2209</score>
+		<pos>15</pos>
+	</col>
+	<col>
+		<name>C G Starkey</name>
+		<score>1620</score>
+		<pos>16</pos>
+	</col>
+	<col>
+		<name>K B Tipple</name>
+		<score>2785</score>
+		<pos>17</pos>
+	</col>
+	<col>
+		<name>P C Fritche</name>
+		<score>2073</score>
+		<pos>18</pos>
+	</col>
+	<col>
+		<name>T Pavis</name>
+		<score>4512</score>
+		<pos>19</pos>
+	</col>
+	<col>
+		<name>D Bromley</name>
+		<score>2948</score>
+		<pos>20</pos>
+	</col>
+	<col>
+		<name>R S Hood</name>
+		<score>2618</score>
+		<pos>21</pos>
+	</col>
+	<col>
+		<name>T J Milner</name>
+		<score>2406</score>
+		<pos>22</pos>
+	</col>
+	<col>
+		<name>H Inigo-Jones</name>
+		<score>4495</score>
+		<pos>23</pos>
+	</col>
+	<col>
+		<name>I M Evans</name>
+		<score>2775</score>
+		<pos>24</pos>
+	</col>
+	<col>
+		<name>F Summerell</name>
+		<score>4551</score>
+		<pos>25</pos>
+	</col>
+	<col>
+		<name>T J Scott</name>
+		<score>1685</score>
+		<pos>26</pos>
+	</col>
+	<col>
+		<name>T J Webb</name>
+		<score>3125</score>
+		<pos>27</pos>
+	</col>
+	<col>
+		<name>S McLaughlin</name>
+		<score>3200</score>
+		<pos>28</pos>
+	</col>
+	<col>
+		<name>T P Jenkinson</name>
+		<score>4220</score>
+		<pos>29</pos>
+	</col>
+	<col>
+		<name>J D Ewence</name>
+		<score>2998</score>
+		<pos>30</pos>
+	</col>
+	<col>
+		<name>R A Cheetham</name>
+		<score>2005</score>
+		<pos>31</pos>
+	</col>
+	<col>
+		<name>T Freeland</name>
+		<score>4513</score>
+		<pos>32</pos>
+	</col>
+	<col>
+		<name>N McLaughlin</name>
+		<score>4317</score>
+		<pos>33</pos>
+	</col>
+	<col>
+		<name>S R Ell</name>
+		<score>2491</score>
+		<pos>34</pos>
+	</col>
+	<col>
+		<name>M Davis</name>
+		<score>3498</score>
+		<pos>35</pos>
+	</col>
+	<col>
+		<name>O J Walters</name>
+		<score>2828</score>
+		<pos>36</pos>
+	</col>
+	<col>
+		<name>A V W Nunn</name>
+		<score>2151</score>
+		<pos>37</pos>
+	</col>
+	<col>
+		<name>R A Browne</name>
+		<score>2110</score>
+		<pos>38</pos>
+	</col>
+	<col>
+		<name>J R Eccles</name>
+		<score>4351</score>
+		<pos>39</pos>
+	</col>
+	<col>
+		<name>A Mulder</name>
+		<score>3249</score>
+		<pos>40</pos>
+	</col>
+	<col>
+		<name>S Barter</name>
+		<score>3465</score>
+		<pos>41</pos>
+	</col>
+	<col>
+		<name>J A L Tanner</name>
+		<score>2589</score>
+		<pos>42</pos>
+	</col>
+	<col>
+		<name>T Fletcher</name>
+		<score>4165</score>
+		<pos>43</pos>
+	</col>
+	<col>
+		<name>B A Birlison</name>
+		<score>2781</score>
+		<pos>44</pos>
+	</col>
+	<col>
+		<name>J E Roberts</name>
+		<score>3089</score>
+		<pos>45</pos>
+	</col>
+	<col>
+		<name>E H C Downham</name>
+		<score>1996</score>
+		<pos>46</pos>
+	</col>
+	<col>
+		<name>M J Cook</name>
+		<score>2764</score>
+		<pos>47</pos>
+	</col>
+	<col>
+		<name>A F W Watson</name>
+		<score>2680</score>
+		<pos>48</pos>
+	</col>
+	<col>
+		<name>D S Watt</name>
+		<score>1009</score>
+		<pos>49</pos>
+	</col>
+	<col>
+		<name>L Hornsey</name>
+		<score>2810</score>
+		<pos>50</pos>
+	</col>
+	<col>
+		<name>J W White</name>
+		<score>3113</score>
+		<pos>50</pos>
+	</col>
+	<col>
+		<name>D E Williams</name>
+		<score>2316</score>
+		<pos>52</pos>
+	</col>
+	<col>
+		<name>W D G Chappel</name>
+		<score>3330</score>
+		<pos>53</pos>
+	</col>
+	<col>
+		<name>F C Aitken</name>
+		<score>3375</score>
+		<pos>54</pos>
+	</col>
+	<col>
+		<name>C B Hill</name>
+		<score>3349</score>
+		<pos>55</pos>
+	</col>
+	<col>
+		<name>S Pozerskis</name>
+		<score>3377</score>
+		<pos>56</pos>
+	</col>
+	<col>
+		<name>G R Green</name>
+		<score>2988</score>
+		<pos>57</pos>
+	</col>
+	<col>
+		<name>R C Bromwich</name>
+		<score>1273</score>
+		<pos>58</pos>
+	</col>
+	<col>
+		<name>A L Truelove</name>
+		<score>3234</score>
+		<pos>59</pos>
+	</col>
+	<col>
+		<name>G E McAndrew</name>
+		<score>1752</score>
+		<pos>60</pos>
+	</col>
+	<col>
+		<name>G P Stingemore</name>
+		<score>1592</score>
+		<pos>61</pos>
+	</col>
+	<col>
+		<name>D Brown</name>
+		<score>4208</score>
+		<pos>62</pos>
+	</col>
+	<col>
+		<name>J Pack</name>
+		<score>2088</score>
+		<pos>63</pos>
+	</col>
+	<col>
+		<name>G White</name>
+		<score>4585</score>
+		<pos>64</pos>
+	</col>
+	<col>
+		<name>M J Birch</name>
+		<score>2464</score>
+		<pos>65</pos>
+	</col>
+	<col>
+		<name>J K G Pack</name>
+		<score>2880</score>
+		<pos>66</pos>
+	</col>
+	<col>
+		<name>N T Mallender</name>
+		<score>4189</score>
+		<pos>67</pos>
+	</col>
+	<col>
+		<name>A O'Keefe</name>
+		<score>3280</score>
+		<pos>68</pos>
+	</col>
+	<col>
+		<name>F P J Turner</name>
+		<score>4402</score>
+		<pos>69</pos>
+	</col>
+	<col>
+		<name>A L Farr</name>
+		<score>2961</score>
+		<pos>70</pos>
+	</col>
+	<col>
+		<name>M R Fox</name>
+		<score>2488</score>
+		<pos>71</pos>
+	</col>
+	<col>
+		<name>M P Clark</name>
+		<score>4376</score>
+		<pos>72</pos>
+	</col>
+	<col>
+		<name>E Sparrow</name>
+		<score>2870</score>
+		<pos>73</pos>
+	</col>
+	<col>
+		<name>J W Otty</name>
+		<score>4400</score>
+		<pos>74</pos>
+	</col>
+	<col>
+		<name>G K Drury</name>
+		<score>2627</score>
+		<pos>75</pos>
+	</col>
+	<col>
+		<name>J Williams</name>
+		<score>2695</score>
+		<pos>76</pos>
+	</col>
+	<col>
+		<name>P Crabb</name>
+		<score>5107</score>
+		<pos>77</pos>
+	</col>
+	<col>
+		<name>P C Naegeli</name>
+		<score>2806</score>
+		<pos>78</pos>
+	</col>
+	<col>
+		<name>P Kaye</name>
+		<score>2630</score>
+		<pos>79</pos>
+	</col>
+	<col>
+		<name>T J Davies</name>
+		<score>3015</score>
+		<pos>80</pos>
+	</col>
+	<col>
+		<name>M J Smith</name>
+		<score>3094</score>
+		<pos>81</pos>
+	</col>
+	<col>
+		<name>C C Marshall</name>
+		<score>3367</score>
+		<pos>82</pos>
+	</col>
+	<col>
+		<name>A Neofytou</name>
+		<score>4570</score>
+		<pos>83</pos>
+	</col>
+	<col>
+		<name>J C Richards</name>
+		<score>4273</score>
+		<pos>84</pos>
+	</col>
+	<col>
+		<name>C A J Allen</name>
+		<score>4433</score>
+		<pos>85</pos>
+	</col>
+	<col>
+		<name>D A Booth</name>
+		<score>2132</score>
+		<pos>86</pos>
+	</col>
+	<col>
+		<name>T J Robson</name>
+		<score>2164</score>
+		<pos>87</pos>
+	</col>
+	<col>
+		<name>G N Thomas</name>
+		<score>2537</score>
+		<pos>88</pos>
+	</col>
+	<col>
+		<name>D R Campbell</name>
+		<score>1117</score>
+		<pos>89</pos>
+	</col>
+	<col>
+		<name>R F Thirkell</name>
+		<score>2626</score>
+		<pos>90</pos>
+	</col>
+	<col>
+		<name>M J Young</name>
+		<score>1783</score>
+		<pos>91</pos>
+	</col>
+	<col>
+		<name>G O'Hagan</name>
+		<score>4329</score>
+		<pos>92</pos>
+	</col>
+	<col>
+		<name>F B Jeynes</name>
+		<score>2893</score>
+		<pos>93</pos>
+	</col>
+	<col>
+		<name>H Joseph</name>
+		<score>4591</score>
+		<pos>94</pos>
+	</col>
+	<col>
+		<name>J A McCoshim</name>
+		<score>2345</score>
+		<pos>95</pos>
+	</col>
+	<col>
+		<name>D I Richmond</name>
+		<score>4474</score>
+		<pos>96</pos>
+	</col>
+	<col>
+		<name>M Coffee</name>
+		<score>4504</score>
+		<pos>97</pos>
+	</col>
+	<col>
+		<name>D H Gardner</name>
+		<score>1563</score>
+		<pos>98</pos>
+	</col>
+	<col>
+		<name>T Cook</name>
+		<score>4278</score>
+		<pos>99</pos>
+	</col>
+	<col>
+		<name>A P Moulang</name>
+		<score>1211</score>
+		<pos>100</pos>
+	</col>
+	<col>
+		<name>J R Reed</name>
+		<score>1928</score>
+		<pos>101</pos>
+	</col>
+	<col>
+		<name>P E Rice</name>
+		<score>2214</score>
+		<pos>102</pos>
+	</col>
+	<col>
+		<name>S Noujaim</name>
+		<score>4652</score>
+		<pos>103</pos>
+	</col>
+	<col>
+		<name>J G Arnold</name>
+		<score>2045</score>
+		<pos>104</pos>
+	</col>
+	<col>
+		<name>O Rzhondkovskyi</name>
+		<score>4595</score>
+		<pos>105</pos>
+	</col>
+	<col>
+		<name>S Hutchinson</name>
+		<score>4613</score>
+		<pos>106</pos>
+	</col>
+	<col>
+		<name>R B Witter</name>
+		<score>2632</score>
+		<pos>107</pos>
+	</col>
+	<col>
+		<name>M T Burton</name>
+		<score>3551</score>
+		<pos>108</pos>
+	</col>
+	<col>
+		<name>P Carter</name>
+		<score>4290</score>
+		<pos>109</pos>
+	</col>
+	<col>
+		<name>P E Baker</name>
+		<score>1579</score>
+		<pos>110</pos>
+	</col>
+	<col>
+		<name>A Balkwill</name>
+		<score>4523</score>
+		<pos>111</pos>
+	</col>
+	<col>
+		<name>B D Scougall</name>
+		<score>1547</score>
+		<pos>112</pos>
+	</col>
+	<col>
+		<name>N D Tillett</name>
+		<score>2228</score>
+		<pos>113</pos>
+	</col>
+	<col>
+		<name>K W Payne</name>
+		<score>2435</score>
+		<pos>114</pos>
+	</col>
+	<col>
+		<name>M J Webb</name>
+		<score>3360</score>
+		<pos>115</pos>
+	</col>
+	<col>
+		<name>B Nicholson</name>
+		<score>2029</score>
+		<pos>116</pos>
+	</col>
+	<col>
+		<name>G Smith</name>
+		<score>4135</score>
+		<pos>117</pos>
+	</col>
+	<col>
+		<name>R J Large</name>
+		<score>2535</score>
+		<pos>118</pos>
+	</col>
+	<col>
+		<name>J Thompson</name>
+		<score>4599</score>
+		<pos>119</pos>
+	</col>
+	<col>
+		<name>C Curtis</name>
+		<score>1339</score>
+		<pos>120</pos>
+	</col>
+	<col>
+		<name>M E Newland-
+Smith</name>
+		<score>1814</score>
+		<pos>121</pos>
+	</col>
+	<col>
+		<name>C P H Mutricy</name>
+		<score>4327</score>
+		<pos>122</pos>
+	</col>
+	<col>
+		<name>J C Bridge</name>
+		<score>4425</score>
+		<pos>123</pos>
+	</col>
+	<col>
+		<name>A Mayer</name>
+		<score>4560</score>
+		<pos>124</pos>
+	</col>
+	<col>
+		<name>A D Holmes</name>
+		<score>3048</score>
+		<pos>125</pos>
+	</col>
+	<col>
+		<name>A Elliott</name>
+		<score>2368</score>
+		<pos>126</pos>
+	</col>
+	<col>
+		<name>D Palmer</name>
+		<score>4644</score>
+		<pos>127</pos>
+	</col>
+	<col>
+		<name>A H Freeborn</name>
+		<score>2985</score>
+		<pos>128</pos>
+	</col>
+	<col>
+		<name>I R Cook</name>
+		<score>1040</score>
+		<pos>129</pos>
+	</col>
+	<col>
+		<name>C Luton</name>
+		<score>2863</score>
+		<pos>130</pos>
+	</col>
+	<col>
+		<name>A M Sanders</name>
+		<score>4132</score>
+		<pos>131</pos>
+	</col>
+	<col>
+		<name>W D Inglis</name>
+		<score>2939</score>
+		<pos>132</pos>
+	</col>
+	<col>
+		<name>A Emson</name>
+		<score>4381</score>
+		<pos>133</pos>
+	</col>
+	<col>
+		<name>M W Durham</name>
+		<score>1660</score>
+		<pos>134</pos>
+	</col>
+	<col>
+		<name>C Darlow</name>
+		<score>4634</score>
+		<pos>135</pos>
+	</col>
+	<col>
+		<name>R Kalin</name>
+		<score>2233</score>
+		<pos>136</pos>
+	</col>
+	<col>
+		<name>S D Codd</name>
+		<score>3218</score>
+		<pos>137</pos>
+	</col>
+	<col>
+		<name>A G W Hall</name>
+		<score>2652</score>
+		<pos>138</pos>
+	</col>
+	<col>
+		<name>M V Boydon</name>
+		<score>1182</score>
+		<pos>139</pos>
+	</col>
+	<col>
+		<name>P R Pentecost</name>
+		<score>1554</score>
+		<pos>140</pos>
+	</col>
+	<col>
+		<name>B Hughes</name>
+		<score>4387</score>
+		<pos>141</pos>
+	</col>
+	<col>
+		<name>K Reid</name>
+		<score>2396</score>
+		<pos>142</pos>
+	</col>
+	<col>
+		<name>P Freeland</name>
+		<score>4609</score>
+		<pos>143</pos>
+	</col>
+	<col>
+		<name>A C Bridges</name>
+		<score>4248</score>
+		<pos>144</pos>
+	</col>
+	<col>
+		<name>B Edkins</name>
+		<score>4642</score>
+		<pos>145</pos>
+	</col>
+	<col>
+		<name>O McCormack</name>
+		<score>4196</score>
+		<pos>146</pos>
+	</col>
+	<col>
+		<name>0 Atkin &amp; Watson</name>
+		<score>4651</score>
+		<pos>147</pos>
+	</col>
+	<col>
+		<name>R Arnall</name>
+		<score>4630</score>
+		<pos>148</pos>
+	</col>
+	<col>
+		<name>R L Smith</name>
+		<score>2804</score>
+		<pos>149</pos>
+	</col>
+	<col>
+		<name>D K McCarthy</name>
+		<score>2225</score>
+		<pos>150</pos>
+	</col>
+	<col>
+		<name>F J Davies</name>
+		<score>1053</score>
+		<pos>151</pos>
+	</col>
+	<col>
+		<name>L M Brady</name>
+		<score>3547</score>
+		<pos>152</pos>
+	</col>
+	<col>
+		<name>O L S Dale</name>
+		<score>4257</score>
+		<pos>153</pos>
+	</col>
+	<col>
+		<name>L P Davidson</name>
+		<score>4298</score>
+		<pos>154</pos>
+	</col>
+	<col>
+		<name>I R Campbell</name>
+		<score>3364</score>
+		<pos>155</pos>
+	</col>
+	<col>
+		<name>W J Head</name>
+		<score>3022</score>
+		<pos>156</pos>
+	</col>
+	<col>
+		<name>M Stephens</name>
+		<score>4584</score>
+		<pos>157</pos>
+	</col>
+	<col>
+		<name>C Scutter</name>
+		<score>4628</score>
+		<pos>158</pos>
+	</col>
+	<col>
+		<name>M Clarke</name>
+		<score>3496</score>
+		<pos>159</pos>
+	</col>
+	<col>
+		<name>H Ribeira</name>
+		<score>4611</score>
+		<pos>160</pos>
+	</col>
+	<col>
+		<name>S Lapworth</name>
+		<score>3193</score>
+		<pos>161</pos>
+	</col>
+	<col>
+		<name>C Bennett</name>
+		<score>4479</score>
+		<pos>162</pos>
+	</col>
+	<col>
+		<name>A D D'Arcy</name>
+		<score>3224</score>
+		<pos>163</pos>
+	</col>
+	<col>
+		<name>R C W Ellis</name>
+		<score>2397</score>
+		<pos>164</pos>
+	</col>
+	<col>
+		<name>D Hope</name>
+		<score>4997</score>
+		<pos>165</pos>
+	</col>
+	<col>
+		<name>O Wheeler</name>
+		<score>4542</score>
+		<pos>166</pos>
+	</col>
+	<col>
+		<name>T Chapman</name>
+		<score>4643</score>
+		<pos>167</pos>
+	</col>
+	<col>
+		<name>D W Briggs</name>
+		<score>4468</score>
+		<pos>168</pos>
+	</col>
+	<col>
+		<name>J Nash</name>
+		<score>1688</score>
+		<pos>169</pos>
+	</col>
+	<col>
+		<name>H Hingley</name>
+		<score>3548</score>
+		<pos>170</pos>
+	</col>
+	<col>
+		<name>D Rance</name>
+		<score>3047</score>
+		<pos>171</pos>
+	</col>
+	<col>
+		<name>P D Wright</name>
+		<score>3291</score>
+		<pos>172</pos>
+	</col>
+	<col>
+		<name>M Wells</name>
+		<score>853</score>
+		<pos>173</pos>
+	</col>
+	<col>
+		<name>R C Berry</name>
+		<score>3481</score>
+		<pos>174</pos>
+	</col>
+	<col>
+		<name>M J Gatfield</name>
+		<score>4174</score>
+		<pos>175</pos>
+	</col>
+	<col>
+		<name>T E Macfadyen</name>
+		<score>1048</score>
+		<pos>176</pos>
+	</col>
+	<col>
+		<name>J A Tonkin</name>
+		<score>4236</score>
+		<pos>177</pos>
+	</col>
+	<col>
+		<name>A Beatty</name>
+		<score>3578</score>
+		<pos>178</pos>
+	</col>
+	<col>
+		<name>A G Wallace</name>
+		<score>4207</score>
+		<pos>179</pos>
+	</col>
+	<col>
+		<name>B Kerby</name>
+		<score>4486</score>
+		<pos>180</pos>
+	</col>
+	<col>
+		<name>A Hippel</name>
+		<score>4256</score>
+		<pos>181</pos>
+	</col>
+	<col>
+		<name>D F Crowson</name>
+		<score>3006</score>
+		<pos>182</pos>
+	</col>
+	<col>
+		<name>P Dolan</name>
+		<score>4540</score>
+		<pos>183</pos>
+	</col>
+	<col>
+		<name>M G Stringer</name>
+		<score>2036</score>
+		<pos>184</pos>
+	</col>
+	<col>
+		<name>S Platt</name>
+		<score>4638</score>
+		<pos>185</pos>
+	</col>
+	<col>
+		<name>R J H Fack</name>
+		<score>2683</score>
+		<pos>186</pos>
+	</col>
+	<col>
+		<name>O P Metcalfe</name>
+		<score>4350</score>
+		<pos>187</pos>
+	</col>
+	<col>
+		<name>J Pring</name>
+		<score>4480</score>
+		<pos>188</pos>
+	</col>
+	<col>
+		<name>A D Langlands</name>
+		<score>3356</score>
+		<pos>189</pos>
+	</col>
+	<col>
+		<name>T L L Clark</name>
+		<score>4272</score>
+		<pos>190</pos>
+	</col>
+	<col>
+		<name>G W Craig</name>
+		<score>1734</score>
+		<pos>191</pos>
+	</col>
+	<col>
+		<name>S Astley</name>
+		<score>3512</score>
+		<pos>192</pos>
+	</col>
+	<col>
+		<name>J Steel</name>
+		<score>4490</score>
+		<pos>193</pos>
+	</col>
+	<col>
+		<name>R J Welford</name>
+		<score>2450</score>
+		<pos>194</pos>
+	</col>
+	<col>
+		<name>K Ahlner</name>
+		<score>4520</score>
+		<pos>195</pos>
+	</col>
+	<col>
+		<name>C Dawes</name>
+		<score>4629</score>
+		<pos>196</pos>
+	</col>
+	<col>
+		<name>S M Walker</name>
+		<score>4319</score>
+		<pos>197</pos>
+	</col>
+	<col>
+		<name>N Wedi</name>
+		<score>2317</score>
+		<pos>198</pos>
+	</col>
+	<col>
+		<name>J D Spencer</name>
+		<score>1775</score>
+		<pos>199</pos>
+	</col>
+	<col>
+		<name>K D Barker</name>
+		<score>2176</score>
+		<pos>200</pos>
+	</col>
+	<col>
+		<name>M A Hall</name>
+		<score>4475</score>
+		<pos>201</pos>
+	</col>
+	<col>
+		<name>B Payne</name>
+		<score>4605</score>
+		<pos>202</pos>
+	</col>
+	<col>
+		<name>P McLean</name>
+		<score>2234</score>
+		<pos>203</pos>
+	</col>
+	<col>
+		<name>R Roberts</name>
+		<score>4482</score>
+		<pos>204</pos>
+	</col>
+	<col>
+		<name>C Gough</name>
+		<score>3410</score>
+		<pos>205</pos>
+	</col>
+	<col>
+		<name>S J Armitage</name>
+		<score>3180</score>
+		<pos>206</pos>
+	</col>
+	<col>
+		<name>J D M Sharp</name>
+		<score>4175</score>
+		<pos>207</pos>
+	</col>
+	<col>
+		<name>A D Roch</name>
+		<score>2583</score>
+		<pos>208</pos>
+	</col>
+	<col>
+		<name>H Harris</name>
+		<score>4667</score>
+		<pos>209</pos>
+	</col>
+	<col>
+		<name>L Finlay</name>
+		<score>4597</score>
+		<pos>210</pos>
+	</col>
+	<col>
+		<name>G A Hunter</name>
+		<score>4405</score>
+		<pos>211</pos>
+	</col>
+	<col>
+		<name>S M Nock</name>
+		<score>3505</score>
+		<pos>212</pos>
+	</col>
+	<col>
+		<name>A Jelden</name>
+		<score>1950</score>
+		<pos>213</pos>
+	</col>
+	<col>
+		<name>W H Parker</name>
+		<score>2778</score>
+		<pos>214</pos>
+	</col>
+	<col>
+		<name>R A F King</name>
+		<score>2307</score>
+		<pos>215</pos>
+	</col>
+	<col>
+		<name>M Cobham</name>
+		<score>4515</score>
+		<pos>216</pos>
+	</col>
+	<col>
+		<name>E J D Foxon</name>
+		<score>2921</score>
+		<pos>217</pos>
+	</col>
+	<col>
+		<name>R D Grieve</name>
+		<score>2637</score>
+		<pos>218</pos>
+	</col>
+	<col>
+		<name>M T Davis</name>
+		<score>3017</score>
+		<pos>219</pos>
+	</col>
+	<col>
+		<name>W Brewis</name>
+		<score>4640</score>
+		<pos>220</pos>
+	</col>
+	<col>
+		<name>B A Fairston</name>
+		<score>1964</score>
+		<pos>221</pos>
+	</col>
+	<col>
+		<name>D E Findon</name>
+		<score>802</score>
+		<pos>222</pos>
+	</col>
+	<col>
+		<name>S A Brown</name>
+		<score>4358</score>
+		<pos>223</pos>
+	</col>
+	<col>
+		<name>G Francis</name>
+		<score>4547</score>
+		<pos>224</pos>
+	</col>
+	<col>
+		<name>P R Stafford-Allen</name>
+		<score>801</score>
+		<pos>225</pos>
+	</col>
+	<col>
+		<name>B Bradford</name>
+		<score>4569</score>
+		<pos>226</pos>
+	</col>
+	<col>
+		<name>H Bloxham</name>
+		<score>4665</score>
+		<pos>227</pos>
+	</col>
+	<col>
+		<name>O Constable</name>
+		<score>3314</score>
+		<pos>228</pos>
+	</col>
+	<col>
+		<name>O Sleigh</name>
+		<score>4511</score>
+		<pos>229</pos>
+	</col>
+	<col>
+		<name>S Thompson</name>
+		<score>4546</score>
+		<pos>230</pos>
+	</col>
+	<col>
+		<name>R Robertson</name>
+		<score>2610</score>
+		<pos>231</pos>
+	</col>
+	<col>
+		<name>W H E Blackburn</name>
+		<score>4424</score>
+		<pos>232</pos>
+	</col>
+	<col>
+		<name>J Ravenscroft</name>
+		<score>4233</score>
+		<pos>233</pos>
+	</col>
+	<col>
+		<name>D Heslop</name>
+		<score>2883</score>
+		<pos>234</pos>
+	</col>
+	<col>
+		<name>C Gill</name>
+		<score>4271</score>
+		<pos>235</pos>
+	</col>
+	<col>
+		<name>A Gibbs</name>
+		<score>4631</score>
+		<pos>236</pos>
+	</col>
+	<col>
+		<name>A Mutch</name>
+		<score>4564</score>
+		<pos>237</pos>
+	</col>
+	<col>
+		<name>A P C Sampson</name>
+		<score>3254</score>
+		<pos>238</pos>
+	</col>
+	<col>
+		<name>T M Mitchell</name>
+		<score>1580</score>
+		<pos>239</pos>
+	</col>
+	<col>
+		<name>J A Clark</name>
+		<score>3211</score>
+		<pos>240</pos>
+	</col>
+	<col>
+		<name>J Craig</name>
+		<score>3276</score>
+		<pos>241</pos>
+	</col>
+	<col>
+		<name>A Landau</name>
+		<score>4654</score>
+		<pos>242</pos>
+	</col>
+	<col>
+		<name>C Bessent</name>
+		<score>1736</score>
+		<pos>243</pos>
+	</col>
+	<col>
+		<name>J A Stephen</name>
+		<score>2430</score>
+		<pos>244</pos>
+	</col>
+	<col>
+		<name>J Beringer</name>
+		<score>1300</score>
+		<pos>245</pos>
+	</col>
+	<col>
+		<name>A D Tribe</name>
+		<score>1931</score>
+		<pos>246</pos>
+	</col>
+	<col>
+		<name>A J Birkbeck</name>
+		<score>2747</score>
+		<pos>247</pos>
+	</col>
+	<col>
+		<name>R J Pye</name>
+		<score>4245</score>
+		<pos>248</pos>
+	</col>
+	<col>
+		<name>P E Jessop</name>
+		<score>3305</score>
+		<pos>249</pos>
+	</col>
+	<col>
+		<name>C Cobham</name>
+		<score>4133</score>
+		<pos>250</pos>
+	</col>
+	<col>
+		<name>H Morris</name>
+		<score>4639</score>
+		<pos>251</pos>
+	</col>
+	<col>
+		<name>R Torr</name>
+		<score>4637</score>
+		<pos>252</pos>
+	</col>
+	<col>
+		<name>T M World</name>
+		<score>2305</score>
+		<pos>253</pos>
+	</col>
+	<col>
+		<name>N F Goudie</name>
+		<score>2568</score>
+		<pos>254</pos>
+	</col>
+	<col>
+		<name>A Parish</name>
+		<score>2595</score>
+		<pos>255</pos>
+	</col>
+	<col>
+		<name>B Murray</name>
+		<score>1757</score>
+		<pos>256</pos>
+	</col>
+	<col>
+		<name>J C Meyer</name>
+		<score>2839</score>
+		<pos>257</pos>
+	</col>
+	<col>
+		<name>G C Metcalfe</name>
+		<score>1359</score>
+		<pos>258</pos>
+	</col>
+	<col>
+		<name>B T Spreckley</name>
+		<score>838</score>
+		<pos>259</pos>
+	</col>
+	<col>
+		<name>K A Teagle</name>
+		<score>3164</score>
+		<pos>260</pos>
+	</col>
+	<col>
+		<name>S P Woolcock</name>
+		<score>3032</score>
+		<pos>261</pos>
+	</col>
+	<col>
+		<name>G R Glazebrook</name>
+		<score>3323</score>
+		<pos>262</pos>
+	</col>
+	<col>
+		<name>J Jones</name>
+		<score>4516</score>
+		<pos>263</pos>
+	</col>
+	<col>
+		<name>P Eaton</name>
+		<score>4650</score>
+		<pos>264</pos>
+	</col>
+	<col>
+		<name>J Gilbey</name>
+		<score>4461</score>
+		<pos>265</pos>
+	</col>
+	<col>
+		<name>T Brown</name>
+		<score>4538</score>
+		<pos>266</pos>
+	</col>
+	<col>
+		<name>C G Corbett</name>
+		<score>1181</score>
+		<pos>267</pos>
+	</col>
+	<col>
+		<name>P Atkinson</name>
+		<score>2010</score>
+		<pos>268</pos>
+	</col>
+	<col>
+		<name>R D Slater</name>
+		<score>3435</score>
+		<pos>269</pos>
+	</col>
+	<col>
+		<name>P Desmond</name>
+		<score>2991</score>
+		<pos>270</pos>
+	</col>
+	<col>
+		<name>M T Davenport</name>
+		<score>2862</score>
+		<pos>271</pos>
+	</col>
+	<col>
+		<name>A S Ramsay</name>
+		<score>3290</score>
+		<pos>272</pos>
+	</col>
+	<col>
+		<name>N F Perren</name>
+		<score>4313</score>
+		<pos>273</pos>
+	</col>
+	<col>
+		<name>A Fordham</name>
+		<score>4571</score>
+		<pos>274</pos>
+	</col>
+	<col>
+		<name>P D Ruskin</name>
+		<score>4123</score>
+		<pos>275</pos>
+	</col>
+	<col>
+		<name>J Best</name>
+		<score>4408</score>
+		<pos>276</pos>
+	</col>
+	<col>
+		<name>M C Foreman</name>
+		<score>1430</score>
+		<pos>277</pos>
+	</col>
+	<col>
+		<name>P L Hurd</name>
+		<score>2142</score>
+		<pos>278</pos>
+	</col>
+	<col>
+		<name>J M Bevan</name>
+		<score>2853</score>
+		<pos>279</pos>
+	</col>
+	<col>
+		<name>M M Bond</name>
+		<score>4162</score>
+		<pos>280</pos>
+	</col>
+	<col>
+		<name>M Holden</name>
+		<score>3111</score>
+		<pos>281</pos>
+	</col>
+	<col>
+		<name>A Lucas</name>
+		<score>4649</score>
+		<pos>282</pos>
+	</col>
+	<col>
+		<name>M Oliver</name>
+		<score>4627</score>
+		<pos>283</pos>
+	</col>
+	<col>
+		<name>J Clarke</name>
+		<score>2983</score>
+		<pos>284</pos>
+	</col>
+	<col>
+		<name>D J Langrick</name>
+		<score>1440</score>
+		<pos>285</pos>
+	</col>
+	<col>
+		<name>R J Hanks</name>
+		<score>2816</score>
+		<pos>286</pos>
+	</col>
+	<col>
+		<name>C Marren</name>
+		<score>1625</score>
+		<pos>287</pos>
+	</col>
+	<col>
+		<name>K Stokes</name>
+		<score>4633</score>
+		<pos>288</pos>
+	</col>
+	<col>
+		<name>J B Strzebrakowski</name>
+		<score>3365</score>
+		<pos>289</pos>
+	</col>
+	<col>
+		<name>M I Pike</name>
+		<score>2191</score>
+		<pos>290</pos>
+	</col>
+	<col>
+		<name>G J Lyons</name>
+		<score>1806</score>
+		<pos>291</pos>
+	</col>
+	<col>
+		<name>L Bricknell</name>
+		<score>4434</score>
+		<pos>292</pos>
+	</col>
+	<col>
+		<name>M A Robinson</name>
+		<score>3571</score>
+		<pos>293</pos>
+	</col>
+	<col>
+		<name>G Corbett</name>
+		<score>4137</score>
+		<pos>294</pos>
+	</col>
+	<col>
+		<name>R J L Maisonpierre</name>
+		<score>4369</score>
+		<pos>295</pos>
+	</col>
+	<col>
+		<name>M Bailey</name>
+		<score>4555</score>
+		<pos>296</pos>
+	</col>
+	<col>
+		<name>H Hudson</name>
+		<score>4517</score>
+		<pos>297</pos>
+	</col>
+	<col>
+		<name>S J Roddie</name>
+		<score>3442</score>
+		<pos>298</pos>
+	</col>
+	<col>
+		<name>G Paul</name>
+		<score>3137</score>
+		<pos>299</pos>
+	</col>
+	<col>
+		<name>A Docherty</name>
+		<score>4552</score>
+		<pos>300</pos>
+	</col>
+	<col>
+		<name>N Parry</name>
+		<score>1240</score>
+		<pos>301</pos>
+	</col>
+	<col>
+		<name>K MacGregor</name>
+		<score>4593</score>
+		<pos>302</pos>
+	</col>
+	<col>
+		<name>C Booker</name>
+		<score>4612</score>
+		<pos>303</pos>
+	</col>
+	<col>
+		<name>P Hibbard</name>
+		<score>3106</score>
+		<pos>304</pos>
+	</col>
+	<col>
+		<name>J R Klunder</name>
+		<score>3542</score>
+		<pos>305</pos>
+	</col>
+	<col>
+		<name>P J D Smith</name>
+		<score>3242</score>
+		<pos>306</pos>
+	</col>
+	<col>
+		<name>N Snirnov</name>
+		<score>4662</score>
+		<pos>307</pos>
+	</col>
+	<col>
+		<name>R Maskell</name>
+		<score>1924</score>
+		<pos>308</pos>
+	</col>
+	<col>
+		<name>C Bowden</name>
+		<score>4420</score>
+		<pos>309</pos>
+	</col>
+	<col>
+		<name>M C Jenkins</name>
+		<score>3334</score>
+		<pos>310</pos>
+	</col>
+	<col>
+		<name>T Williamson</name>
+		<score>4532</score>
+		<pos>311</pos>
+	</col>
+	<col>
+		<name>L Pike</name>
+		<score>4663</score>
+		<pos>312</pos>
+	</col>
+	<col>
+		<name>N Clements</name>
+		<score>4156</score>
+		<pos>313</pos>
+	</col>
+	<col>
+		<name>C J Bryning</name>
+		<score>2975</score>
+		<pos>314</pos>
+	</col>
+	<col>
+		<name>G Darby</name>
+		<score>4600</score>
+		<pos>315</pos>
+	</col>
+	<col>
+		<name>E W Johnston</name>
+		<score>1743</score>
+		<pos>316</pos>
+	</col>
+	<col>
+		<name>P G Roberts</name>
+		<score>3532</score>
+		<pos>317</pos>
+	</col>
+	<col>
+		<name>A S Miller</name>
+		<score>714</score>
+		<pos>318</pos>
+	</col>
+	<col>
+		<name>N O Atkins</name>
+		<score>3448</score>
+		<pos>319</pos>
+	</col>
+	<col>
+		<name>S Setford</name>
+		<score>4606</score>
+		<pos>320</pos>
+	</col>
+	<col>
+		<name>S C Williams</name>
+		<score>3229</score>
+		<pos>321</pos>
+	</col>
+	<col>
+		<name>P Murray</name>
+		<score>4413</score>
+		<pos>322</pos>
+	</col>
+	<col>
+		<name>G K Payne</name>
+		<score>2121</score>
+		<pos>323</pos>
+	</col>
+	<col>
+		<name>C P A Jeffery</name>
+		<score>1943</score>
+		<pos>324</pos>
+	</col>
+	<col>
+		<name>F K Russell</name>
+		<score>971</score>
+		<pos>325</pos>
+	</col>
+	<col>
+		<name>B Jenner</name>
+		<score>4622</score>
+		<pos>326</pos>
+	</col>
+	<col>
+		<name>M D Langford</name>
+		<score>3378</score>
+		<pos>327</pos>
+	</col>
+	<col>
+		<name>M A Hunton</name>
+		<score>4360</score>
+		<pos>328</pos>
+	</col>
+	<col>
+		<name>K R Atkinson</name>
+		<score>3310</score>
+		<pos>329</pos>
+	</col>
+	<col>
+		<name>O Bosanko</name>
+		<score>3345</score>
+		<pos>330</pos>
+	</col>
+	<col>
+		<name>J Butler</name>
+		<score>4446</score>
+		<pos>331</pos>
+	</col>
+	<col>
+		<name>G Cooksey</name>
+		<score>4535</score>
+		<pos>332</pos>
+	</col>
+	<col>
+		<name>R Connors</name>
+		<score>4466</score>
+		<pos>333</pos>
+	</col>
+	<col>
+		<name>A Swan</name>
+		<score>4251</score>
+		<pos>334</pos>
+	</col>
+	<col>
+		<name>W Amor</name>
+		<score>4289</score>
+		<pos>335</pos>
+	</col>
+	<col>
+		<name>N Taylor</name>
+		<score>4481</score>
+		<pos>336</pos>
+	</col>
+	<col>
+		<name>D A Roddie</name>
+		<score>3368</score>
+		<pos>337</pos>
+	</col>
+	<col>
+		<name>O Niessen</name>
+		<score>4598</score>
+		<pos>338</pos>
+	</col>
+	<col>
+		<name>W A Baumann</name>
+		<score>3222</score>
+		<pos>339</pos>
+	</col>
+	<col>
+		<name>M A R Porteous</name>
+		<score>4477</score>
+		<pos>340</pos>
+	</col>
+	<col>
+		<name>J T Hitchcock</name>
+		<score>2669</score>
+		<pos>341</pos>
+	</col>
+	<col>
+		<name>S R Wilkinson</name>
+		<score>3213</score>
+		<pos>342</pos>
+	</col>
+	<col>
+		<name>J M Robson</name>
+		<score>4178</score>
+		<pos>343</pos>
+	</col>
+	<col>
+		<name>R S Birch</name>
+		<score>4336</score>
+		<pos>344</pos>
+	</col>
+	<col>
+		<name>R Morriss</name>
+		<score>4658</score>
+		<pos>345</pos>
+	</col>
+	<col>
+		<name>C J Peters</name>
+		<score>2404</score>
+		<pos>346</pos>
+	</col>
+	<col>
+		<name>J Roberts</name>
+		<score>4457</score>
+		<pos>347</pos>
+	</col>
+	<col>
+		<name>M Lawrence-
+Jones</name>
+		<score>4561</score>
+		<pos>348</pos>
+	</col>
+	<col>
+		<name>A G Reid</name>
+		<score>1971</score>
+		<pos>349</pos>
+	</col>
+	<col>
+		<name>D G Glover</name>
+		<score>4167</score>
+		<pos>350</pos>
+	</col>
+	<col>
+		<name>P Gentil</name>
+		<score>1985</score>
+		<pos>351</pos>
+	</col>
+	<col>
+		<name>J S Wand</name>
+		<score>2924</score>
+		<pos>352</pos>
+	</col>
+	<col>
+		<name>C L Groves</name>
+		<score>4158</score>
+		<pos>353</pos>
+	</col>
+	<col>
+		<name>I R Gallacher</name>
+		<score>3374</score>
+		<pos>354</pos>
+	</col>
+	<col>
+		<name>K McPhee</name>
+		<score>4648</score>
+		<pos>355</pos>
+	</col>
+	<col>
+		<name>L Dale</name>
+		<score>3394</score>
+		<pos>356</pos>
+	</col>
+	<col>
+		<name>D S Pitman</name>
+		<score>2770</score>
+		<pos>357</pos>
+	</col>
+	<col>
+		<name>P Whipp</name>
+		<score>3109</score>
+		<pos>358</pos>
+	</col>
+	<col>
+		<name>M J Jordy</name>
+		<score>1630</score>
+		<pos>359</pos>
+	</col>
+	<col>
+		<name>R A Johnson</name>
+		<score>2776</score>
+		<pos>360</pos>
+	</col>
+	<col>
+		<name>T C J Hogarth</name>
+		<score>4308</score>
+		<pos>361</pos>
+	</col>
+	<col>
+		<name>T S Marwaha</name>
+		<score>2512</score>
+		<pos>362</pos>
+	</col>
+	<col>
+		<name>A Barr</name>
+		<score>4588</score>
+		<pos>363</pos>
+	</col>
+	<col>
+		<name>D Bray</name>
+		<score>3328</score>
+		<pos>364</pos>
+	</col>
+	<col>
+		<name>C J Alldis</name>
+		<score>1540</score>
+		<pos>365</pos>
+	</col>
+	<col>
+		<name>A Maitland</name>
+		<score>3455</score>
+		<pos>366</pos>
+	</col>
+	<col>
+		<name>M Pike</name>
+		<score>4558</score>
+		<pos>367</pos>
+	</col>
+	<col>
+		<name>J C Ferguson</name>
+		<score>2523</score>
+		<pos>368</pos>
+	</col>
+	<col>
+		<name>B Soanes</name>
+		<score>4417</score>
+		<pos>369</pos>
+	</col>
+	<col>
+		<name>R S Jobar</name>
+		<score>2000</score>
+		<pos>370</pos>
+	</col>
+	<col>
+		<name>D Hope</name>
+		<score>4494</score>
+		<pos>371</pos>
+	</col>
+	<col>
+		<name>C R I Emson</name>
+		<score>1953</score>
+		<pos>372</pos>
+	</col>
+	<col>
+		<name>B Porteous</name>
+		<score>4647</score>
+		<pos>373</pos>
+	</col>
+	<col>
+		<name>K F Byrne</name>
+		<score>4274</score>
+		<pos>374</pos>
+	</col>
+	<col>
+		<name>M J Witton</name>
+		<score>3219</score>
+		<pos>375</pos>
+	</col>
+	<col>
+		<name>C M Lewis</name>
+		<score>4219</score>
+		<pos>376</pos>
+	</col>
+	<col>
+		<name>T Brown</name>
+		<score>4579</score>
+		<pos>377</pos>
+	</col>
+	<col>
+		<name>P R Goodchild</name>
+		<score>4470</score>
+		<pos>378</pos>
+	</col>
+	<col>
+		<name>A Pozerskis</name>
+		<score>1126</score>
+		<pos>379</pos>
+	</col>
+	<col>
+		<name>T J Wheeler</name>
+		<score>3248</score>
+		<pos>380</pos>
+	</col>
+	<col>
+		<name>C Tooze</name>
+		<score>2718</score>
+		<pos>381</pos>
+	</col>
+	<col>
+		<name>R Carter</name>
+		<score>4536</score>
+		<pos>382</pos>
+	</col>
+	<col>
+		<name>C J Teagle</name>
+		<score>2555</score>
+		<pos>383</pos>
+	</col>
+	<col>
+		<name>A Lake</name>
+		<score>4657</score>
+		<pos>384</pos>
+	</col>
+	<col>
+		<name>C R Partington</name>
+		<score>4223</score>
+		<pos>385</pos>
+	</col>
+	<col>
+		<name>R Millen</name>
+		<score>4607</score>
+		<pos>386</pos>
+	</col>
+	<col>
+		<name>M S Armstrong</name>
+		<score>7</score>
+		<pos>387</pos>
+	</col>
+	<col>
+		<name>M G Lynes</name>
+		<score>4279</score>
+		<pos>388</pos>
+	</col>
+	<col>
+		<name>M G Entwisle</name>
+		<score>4163</score>
+		<pos>389</pos>
+	</col>
+	<col>
+		<name>D Wilson</name>
+		<score>4589</score>
+		<pos>390</pos>
+	</col>
+	<col>
+		<name>P D Candler</name>
+		<score>2717</score>
+		<pos>391</pos>
+	</col>
+	<col>
+		<name>A James</name>
+		<score>4572</score>
+		<pos>392</pos>
+	</col>
+	<col>
+		<name>G R Williams</name>
+		<score>4386</score>
+		<pos>393</pos>
+	</col>
+	<col>
+		<name>T Benson</name>
+		<score>4661</score>
+		<pos>394</pos>
+	</col>
+	<col>
+		<name>D Brown</name>
+		<score>4206</score>
+		<pos>395</pos>
+	</col>
+	<col>
+		<name>T Gooch</name>
+		<score>4318</score>
+		<pos>396</pos>
+	</col>
+	<col>
+		<name>P M Davey</name>
+		<score>3292</score>
+		<pos>397</pos>
+	</col>
+	<col>
+		<name>H Gamble</name>
+		<score>4583</score>
+		<pos>398</pos>
+	</col>
+	<col>
+		<name>B C P Crook</name>
+		<score>3526</score>
+		<pos>399</pos>
+	</col>
+	<col>
+		<name>J Dutton</name>
+		<score>4499</score>
+		<pos>400</pos>
+	</col>
+	<col>
+		<name>V A Watt</name>
+		<score>3527</score>
+		<pos>401</pos>
+	</col>
+	<col>
+		<name>R Vaughan</name>
+		<score>4653</score>
+		<pos>402</pos>
+	</col>
+	<col>
+		<name>D Rees</name>
+		<score>4610</score>
+		<pos>403</pos>
+	</col>
+	<col>
+		<name>M D White</name>
+		<score>1544</score>
+		<pos>404</pos>
+	</col>
+	<col>
+		<name>G S J Bambrook</name>
+		<score>4128</score>
+		<pos>405</pos>
+	</col>
+	<col>
+		<name>C Metcalf</name>
+		<score>4550</score>
+		<pos>406</pos>
+	</col>
+	<col>
+		<name>A C Giles</name>
+		<score>4423</score>
+		<pos>407</pos>
+	</col>
+	<col>
+		<name>C Knowles</name>
+		<score>4659</score>
+		<pos>408</pos>
+	</col>
+	<col>
+		<name>S Wilks</name>
+		<score>4406</score>
+		<pos>409</pos>
+	</col>
+	<col>
+		<name>E Burns</name>
+		<score>4660</score>
+		<pos>410</pos>
+	</col>
+	<col>
+		<name>A R J Hughes</name>
+		<score>2529</score>
+		<pos>411</pos>
+	</col>
+	<col>
+		<name>T Faver</name>
+		<score>4526</score>
+		<pos>412</pos>
+	</col>
+	<col>
+		<name>S Hepburn</name>
+		<score>4488</score>
+		<pos>413</pos>
+	</col>
+	<col>
+		<name>K G France</name>
+		<score>4371</score>
+		<pos>414</pos>
+	</col>
+	<col>
+		<name>J P Davies</name>
+		<score>2979</score>
+		<pos>415</pos>
+	</col>
+	<col>
+		<name>B Hilsenrath</name>
+		<score>4635</score>
+		<pos>416</pos>
+	</col>
+	<col>
+		<name>C Tooze</name>
+		<score>4545</score>
+		<pos>417</pos>
+	</col>
+	<col>
+		<name>G Lewis</name>
+		<score>4483</score>
+		<pos>418</pos>
+	</col>
+	<col>
+		<name>A A Darlington</name>
+		<score>2480</score>
+		<pos>419</pos>
+	</col>
+	<col>
+		<name>D d'Arcy</name>
+		<score>3445</score>
+		<pos>420</pos>
+	</col>
+	<col>
+		<name>L Walker</name>
+		<score>4618</score>
+		<pos>421</pos>
+	</col>
+	<col>
+		<name>L Wootton</name>
+		<score>4519</score>
+		<pos>422</pos>
+	</col>
+	<col>
+		<name>G D Morris</name>
+		<score>1360</score>
+		<pos>423</pos>
+	</col>
+	<col>
+		<name>P J Stratten</name>
+		<score>1770</score>
+		<pos>424</pos>
+	</col>
+	<col>
+		<name>G C Dutton</name>
+		<score>4344</score>
+		<pos>425</pos>
+	</col>
+	<col>
+		<name>D Callan-Mcgill</name>
+		<score>4666</score>
+		<pos>426</pos>
+	</col>
+	<col>
+		<name>T Barnes</name>
+		<score>2790</score>
+		<pos>427</pos>
+	</col>
+	<col>
+		<name>C Harkness</name>
+		<score>3574</score>
+		<pos>428</pos>
+	</col>
+	<col>
+		<name>W Ellis</name>
+		<score>3382</score>
+		<pos>429</pos>
+	</col>
+	<col>
+		<name>P W Copland</name>
+		<score>2275</score>
+		<pos>430</pos>
+	</col>
+	<col>
+		<name>P Dixon</name>
+		<score>4581</score>
+		<pos>431</pos>
+	</col>
+	<col>
+		<name>C Godard</name>
+		<score>4541</score>
+		<pos>432</pos>
+	</col>
+	<col>
+		<name>A J McNamara</name>
+		<score>2590</score>
+		<pos>433</pos>
+	</col>
+	<col>
+		<name>P Newman</name>
+		<score>4655</score>
+		<pos>434</pos>
+	</col>
+	<col>
+		<name>C R Smithers</name>
+		<score>2466</score>
+		<pos>435</pos>
+	</col>
+	<col>
+		<name>A Zuchora</name>
+		<score>4260</score>
+		<pos>436</pos>
+	</col>
+	<col>
+		<name>M K Lavender</name>
+		<score>3239</score>
+		<pos>437</pos>
+	</col>
+	<col>
+		<name>G Cooksey</name>
+		<score>4596</score>
+		<pos>438</pos>
+	</col>
+	<col>
+		<name>J Matthews</name>
+		<score>4514</score>
+		<pos>439</pos>
+	</col>
+	<col>
+		<name>B Wainwright</name>
+		<score>4646</score>
+		<pos>440</pos>
+	</col>
+	<col>
+		<name>D M Hurst</name>
+		<score>4321</score>
+		<pos>441</pos>
+	</col>
+	<col>
+		<name>D Adams</name>
+		<score>4407</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S A Adlard</name>
+		<score>2104</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Alexander</name>
+		<score>4528</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D W K Allison</name>
+		<score>2298</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J M Apperley</name>
+		<score>4447</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Archer</name>
+		<score>4525</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S E Archer-Jones</name>
+		<score>3388</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J C Armstrong</name>
+		<score>4177</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Armstrong</name>
+		<score>3508</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P W Armstrong</name>
+		<score>1748</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Arnall</name>
+		<score>1639</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Arnold</name>
+		<score>4493</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W Aspland</name>
+		<score>1473</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Bacic</name>
+		<score>4377</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Bailey</name>
+		<score>4276</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Baker</name>
+		<score>3172</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S H Baker</name>
+		<score>3369</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A A Baker</name>
+		<score>2203</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C J Ballance</name>
+		<score>4453</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S C J Barker</name>
+		<score>3004</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N Barnes</name>
+		<score>4445</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T Barnes</name>
+		<score>2796</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>O S Barter</name>
+		<score>3468</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A K Bartlett</name>
+		<score>4161</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G J Bass</name>
+		<score>2254</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J C Bastin</name>
+		<score>1791</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W Baumann</name>
+		<score>3322</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Bayford</name>
+		<score>2965</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G C Beardsley</name>
+		<score>1935</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P J Belcher</name>
+		<score>3336</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G C Bell</name>
+		<score>2358</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Bennett</name>
+		<score>3550</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D R Bennett</name>
+		<score>4399</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P W Berridge</name>
+		<score>3533</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D P Bieniasz</name>
+		<score>4285</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Bieniasz</name>
+		<score>2485</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Birch</name>
+		<score>3403</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G S Bird</name>
+		<score>2898</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Bird</name>
+		<score>2168</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T R Bird</name>
+		<score>3354</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Bishop</name>
+		<score>4421</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>E H Bittenbender</name>
+		<score>4412</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M C Boik</name>
+		<score>3319</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A E Boyle</name>
+		<score>2693</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D S Bramwell</name>
+		<score>4280</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Breeze</name>
+		<score>1049</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R I Brickwood</name>
+		<score>3525</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R C Bridges</name>
+		<score>974</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R J Brimfield</name>
+		<score>2712</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R P Brisbourne</name>
+		<score>918</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A C Broadbridge</name>
+		<score>2942</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G B D Brown</name>
+		<score>2379</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P J G Brown</name>
+		<score>4315</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A P Brown</name>
+		<score>2937</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Bryan</name>
+		<score>4574</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W H L Bullimore</name>
+		<score>3461</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D M Byass</name>
+		<score>2415</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Capron</name>
+		<score>4484</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P S Carder</name>
+		<score>4431</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P K Carpenter</name>
+		<score>4352</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Carpenter</name>
+		<score>4487</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M J Carruthers</name>
+		<score>2689</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Carter</name>
+		<score>3520</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Cenzartowicz</name>
+		<score>4608</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Cervantes</name>
+		<score>1433</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R A Chapman</name>
+		<score>3149</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Chidley</name>
+		<score>4563</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N M Claiden</name>
+		<score>2918</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T Clark</name>
+		<score>4603</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A J Clarke</name>
+		<score>1578</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J B Clarke</name>
+		<score>3132</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Cleworth</name>
+		<score>4373</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N L Clowes</name>
+		<score>2309</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Cluskey</name>
+		<score>3347</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A S Cobbett</name>
+		<score>4442</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Cobham</name>
+		<score>1658</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A J Cockerell</name>
+		<score>3401</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D A Coker</name>
+		<score>2237</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Cole</name>
+		<score>3405</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Cole</name>
+		<score>811</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Collings</name>
+		<score>4297</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Collins</name>
+		<score>4507</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Colton</name>
+		<score>4341</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R N Cook</name>
+		<score>1178</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B L Cooper</name>
+		<score>1286</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D D Copeland</name>
+		<score>1778</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M C Costin</name>
+		<score>451</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C F Cownden</name>
+		<score>3126</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N L Craig</name>
+		<score>4265</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W T Craig</name>
+		<score>2356</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Crisp</name>
+		<score>4415</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C S Crocker</name>
+		<score>4164</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J A Crowhurst</name>
+		<score>2986</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N Croxford</name>
+		<score>4577</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Curio</name>
+		<score>10001</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C M Davey</name>
+		<score>1565</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C E Davies</name>
+		<score>4304</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C K Davis</name>
+		<score>3157</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Davison</name>
+		<score>2933</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B M Dews</name>
+		<score>4438</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Dews</name>
+		<score>4518</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M W Dickson</name>
+		<score>2592</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>E Dillon</name>
+		<score>4450</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G R Dixon</name>
+		<score>4467</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D P Draper</name>
+		<score>2943</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K M Draper</name>
+		<score>2881</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Eckton</name>
+		<score>2889</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Edge</name>
+		<score>4426</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Edwards</name>
+		<score>4379</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Ferguson</name>
+		<score>1523</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Fidler</name>
+		<score>2783</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M A Findon</name>
+		<score>4385</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Fletcher</name>
+		<score>4464</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B Flewett</name>
+		<score>3564</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>V Foltin</name>
+		<score>4325</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S D Foster</name>
+		<score>2643</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R E Francis</name>
+		<score>2631</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Franke</name>
+		<score>3573</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Fraser</name>
+		<score>4586</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>I Freestone</name>
+		<score>2321</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J P Galloway</name>
+		<score>1822</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D K Gardiner</name>
+		<score>1077</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J E Gatfield</name>
+		<score>2138</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S G Gaunt</name>
+		<score>4243</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T R F Gaunt</name>
+		<score>507</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Gazzard</name>
+		<score>4533</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A M George</name>
+		<score>4194</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>O C Giles</name>
+		<score>4362</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A A Gilmore</name>
+		<score>4368</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J P Gorringe</name>
+		<score>1228</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G S Goudie</name>
+		<score>2567</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Greenwood</name>
+		<score>4152</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W Greenwood</name>
+		<score>4127</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P M Greer</name>
+		<score>3279</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R J Griffin</name>
+		<score>2951</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N G G Hackett</name>
+		<score>1071</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Hadfield</name>
+		<score>4460</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Hafferty</name>
+		<score>4559</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Halczak</name>
+		<score>4392</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J M Hall</name>
+		<score>2850</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C J Hamilton</name>
+		<score>2190</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Hardy</name>
+		<score>4409</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A J Harris</name>
+		<score>4322</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Harris</name>
+		<score>4592</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A R Harrison</name>
+		<score>2738</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M L Harrison</name>
+		<score>4383</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C J Harrison</name>
+		<score>4429</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K J Hartley</name>
+		<score>767</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A S Hatfield</name>
+		<score>4283</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S D Hawkin</name>
+		<score>4249</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M S Hawkins</name>
+		<score>3283</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R S Hawley</name>
+		<score>3160</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M R Hayden</name>
+		<score>4472</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Hayward</name>
+		<score>2929</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S L Helstrip</name>
+		<score>3561</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G P Hibberd</name>
+		<score>1581</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Higginbottom</name>
+		<score>4291</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Hines</name>
+		<score>3353</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Hippel</name>
+		<score>4258</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L S Hitchins</name>
+		<score>4246</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R C Hodge</name>
+		<score>2694</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Hoenigl- Decrinis</name>
+		<score>4345</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B J Hooson</name>
+		<score>3159</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W Horne</name>
+		<score>4147</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D J Hughes</name>
+		<score>4361</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>I Hunt</name>
+		<score>4331</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S G Hunt</name>
+		<score>4183</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C A Hunt</name>
+		<score>2873</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B S Hutchings</name>
+		<score>4237</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R P Hypher</name>
+		<score>4323</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A D W Hyslop</name>
+		<score>2197</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J A Inglis</name>
+		<score>2940</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D M L Jamin</name>
+		<score>3546</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Jaszczuk</name>
+		<score>10003</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N Jelev</name>
+		<score>4601</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N Jennings</name>
+		<score>4355</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C P B Jessop</name>
+		<score>4181</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R N John</name>
+		<score>2815</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W T Jones</name>
+		<score>4349</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>F Jones</name>
+		<score>460</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>F Jones</name>
+		<score>4602</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C F Jordan</name>
+		<score>3416</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W M Kay</name>
+		<score>1485</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Kehr</name>
+		<score>4404</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S J Kelman</name>
+		<score>2364</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G A King</name>
+		<score>3355</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J M Kirby</name>
+		<score>4451</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D P Kitcher</name>
+		<score>3511</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Klunder</name>
+		<score>3543</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Krehl</name>
+		<score>4182</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K T Kreis</name>
+		<score>4366</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Langton</name>
+		<score>4372</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Lans</name>
+		<score>4463</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Lapworth</name>
+		<score>4195</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N D Lassetter</name>
+		<score>4247</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Law</name>
+		<score>3299</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Lintott</name>
+		<score>4149</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Loveland</name>
+		<score>4444</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J R W Luxton</name>
+		<score>2722</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Macdonald</name>
+		<score>1890</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A R Macgregor</name>
+		<score>2584</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Mackenzie</name>
+		<score>4478</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Maddocks</name>
+		<score>3097</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>Z A Mallam</name>
+		<score>4462</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K Manley</name>
+		<score>4388</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>Z Marczynski</name>
+		<score>1034</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T Marlow</name>
+		<score>4354</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S H C Marriott</name>
+		<score>250</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Marshall</name>
+		<score>4255</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D P Masson</name>
+		<score>2262</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P J Masson</name>
+		<score>2578</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R C May</name>
+		<score>1345</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A D May</name>
+		<score>3128</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D E McCormack</name>
+		<score>4365</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G McDonald</name>
+		<score>9998</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C McEwen</name>
+		<score>3559</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L C I McFarlane</name>
+		<score>4364</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K McIntyre</name>
+		<score>4509</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G McKnight</name>
+		<score>3000</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G E McLaughlin</name>
+		<score>4212</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J A McWilliam</name>
+		<score>3399</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L Merry-Taylor</name>
+		<score>4506</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Mills</name>
+		<score>4348</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A H Monk</name>
+		<score>4459</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J E Moore</name>
+		<score>2616</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T Moore</name>
+		<score>4382</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Morgan</name>
+		<score>3376</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Morris</name>
+		<score>2858</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>E M Morris</name>
+		<score>4267</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B C Morris</name>
+		<score>1582</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Moss</name>
+		<score>4124</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M C Moulang</name>
+		<score>3005</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>I Mountain</name>
+		<score>2502</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A J Mugleston</name>
+		<score>4222</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R G Munro</name>
+		<score>4458</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S R Nash</name>
+		<score>1378</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Newbrook</name>
+		<score>10002</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Newbrook</name>
+		<score>4492</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S M Nicholl</name>
+		<score>4316</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A P Nisbet</name>
+		<score>4312</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J M Norman</name>
+		<score>2765</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R O'Conor</name>
+		<score>3124</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S G Olender</name>
+		<score>1715</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M P Osborn</name>
+		<score>873</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M A Page</name>
+		<score>4374</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Palmer</name>
+		<score>2131</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A R L Parker</name>
+		<score>2046</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Paterson</name>
+		<score>4202</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Paul</name>
+		<score>3372</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W Payton</name>
+		<score>3061</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Pengilly</name>
+		<score>2260</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R R Penman</name>
+		<score>4357</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A S J Pepler</name>
+		<score>4435</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A I Perley</name>
+		<score>2696</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M A Pettican</name>
+		<score>2977</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Platt</name>
+		<score>4122</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Player</name>
+		<score>4199</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M H B Pope</name>
+		<score>208</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Postlethwaite</name>
+		<score>2665</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A J Preston</name>
+		<score>2935</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B Pridgeon</name>
+		<score>3517</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T Pridgeon</name>
+		<score>3492</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Puritz</name>
+		<score>2706</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G G Pursey</name>
+		<score>3251</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P H Rackham</name>
+		<score>2625</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A J Randalls</name>
+		<score>4436</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P T Reading</name>
+		<score>1467</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L M Rebbeck</name>
+		<score>2649</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J N Rebbeck</name>
+		<score>2470</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C C Redrup</name>
+		<score>4414</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S B Reed</name>
+		<score>4264</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>V M S Reynolds</name>
+		<score>4253</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Riks</name>
+		<score>4452</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Rizk</name>
+		<score>4419</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Rizk</name>
+		<score>3357</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L Rizk</name>
+		<score>4411</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L B Roberts</name>
+		<score>3204</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Roberts</name>
+		<score>3053</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L R Roberts</name>
+		<score>4384</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Roberts</name>
+		<score>4568</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>F C Roles</name>
+		<score>3488</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C C Rollings</name>
+		<score>780</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M C Rupasinha</name>
+		<score>4473</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T F Russell</name>
+		<score>4394</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Ryland</name>
+		<score>2206</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Sage</name>
+		<score>2622</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K Samuals</name>
+		<score>4565</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P W Schartau</name>
+		<score>3270</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P M Scheiwiller</name>
+		<score>3537</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Scutt</name>
+		<score>4305</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S S Shah</name>
+		<score>2763</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J A H Shaw</name>
+		<score>4456</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P M Sheahan</name>
+		<score>2859</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P G Sheard</name>
+		<score>1103</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Shepherd</name>
+		<score>3473</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C Short</name>
+		<score>4521</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J P Simmonds</name>
+		<score>2902</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T W Slater</name>
+		<score>443</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D J F Smallbone</name>
+		<score>4302</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G N D Smith</name>
+		<score>1057</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D R Smith</name>
+		<score>3100</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T A J Smith</name>
+		<score>3215</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>V A Smith</name>
+		<score>4333</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G M Spreckley</name>
+		<score>1869</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D T Staff</name>
+		<score>2658</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J M Staley</name>
+		<score>2613</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R M Starling</name>
+		<score>3371</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>B Stott</name>
+		<score>1128</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P O Sturley</name>
+		<score>2787</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Svorc</name>
+		<score>6000</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M S Szymkowicz</name>
+		<score>3226</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G Tabbner</name>
+		<score>3513</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C D R Tagg</name>
+		<score>3260</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W R Tandy</name>
+		<score>4218</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L E N Tanner</name>
+		<score>799</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S F Tape</name>
+		<score>4126</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C V Taylor</name>
+		<score>4427</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J R Taylor</name>
+		<score>1113</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A C Taylor</name>
+		<score>4335</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P E Thelwall</name>
+		<score>2716</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Tietema</name>
+		<score>2668</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>E H Tillett</name>
+		<score>4455</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Tomlinson</name>
+		<score>2871</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Truelove</name>
+		<score>3309</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S S M Turner</name>
+		<score>3246</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Twigg</name>
+		<score>4375</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C B J Ullrich</name>
+		<score>3557</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Ullyatt</name>
+		<score>4471</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D Vale</name>
+		<score>4359</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S G Vardigans</name>
+		<score>4401</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>L Vile</name>
+		<score>4380</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>G J Walker</name>
+		<score>4370</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N H Wall</name>
+		<score>2006</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T J Walsh</name>
+		<score>4353</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K R Walton</name>
+		<score>2676</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J R Warren</name>
+		<score>1716</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M Waters</name>
+		<score>3478</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N Watkins</name>
+		<score>4510</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Watson</name>
+		<score>3518</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R Watson</name>
+		<score>4530</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>C C Watt</name>
+		<score>2266</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M P Weaver</name>
+		<score>3408</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R W Weaver</name>
+		<score>3409</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Webb</name>
+		<score>4566</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P Webber</name>
+		<score>3386</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N P Wedi</name>
+		<score>2617</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>N A Weir</name>
+		<score>2208</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D D Welch</name>
+		<score>3214</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Wells</name>
+		<score>2628</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R P D Wells</name>
+		<score>4209</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J M West</name>
+		<score>1522</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R H Westlake</name>
+		<score>2954</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M J Weston</name>
+		<score>3173</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Westwood</name>
+		<score>3175</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>D A White</name>
+		<score>3392</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>P F Whitehead</name>
+		<score>1167</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J L Whiting</name>
+		<score>2767</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T G M Whiting</name>
+		<score>2768</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>W R Williams</name>
+		<score>4254</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J D Williams</name>
+		<score>3189</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T J Williamson</name>
+		<score>4449</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>S Wilson</name>
+		<score>2969</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R J Wilson</name>
+		<score>3294</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>T Wilson</name>
+		<score>4539</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J N Wilton</name>
+		<score>2306</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>M A Wintle</name>
+		<score>3555</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>I C Woodhouse</name>
+		<score>754</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K J Woods</name>
+		<score>3332</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>K Woods</name>
+		<score>3484</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>R M Wootten</name>
+		<score>4192</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>J Wozny</name>
+		<score>4397</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>H Yildiz</name>
+		<score>4145</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>A Youle</name>
+		<score>4416</score>
+		<pos>442</pos>
+	</col>
+	<col>
+		<name>E Youle</name>
+		<score>3398</score>
+		<pos>442</pos>
+	</col>
+</data-set>
