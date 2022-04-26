@@ -203,17 +203,40 @@ flexibility(document.documentElement);
   background-size: 25px 25px!important;
   background-position: 10px 12px!important;
   background-repeat: no-repeat!important; 
-  width: 50%!important;
+  width: 100%!important;
   font-size: 16px!important;
   padding: 12px 20px 12px 40px!important; 
   border: 1px solid #ddd!important;
   margin-bottom: 12px!important;/
 }</style>
-<input type="text" id="searchPhrase" onkeyup="searchList()" placeholder="Type here to filter">
+<input id="searchField" type="search" class="fuzzy-search" placeholder="Type here to search">
+
+
+
+<style>table{
+    text-align: left!important;
+}
+thead tr{
+    background-color: inherit!important;
+}
+tr:nth-child(odd){
+    background-color: #f0f0f0;
+}</style>
+<div id="table1">
+<table id="searchTable">
+<thead><tr>
+<th width="20%">Ranking</th>
+<th width="50%">Name</th>
+<th width="30%">Points</th>
+</tr></thead>
+<tbody class="list"></tbody>
+</table>
+<div>
 
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 <script>
     $(document).ready(function(){
         $.ajax({
@@ -222,29 +245,24 @@ flexibility(document.documentElement);
             dataType: "xml",
             complete: function(xml){
                 $(xml.responseXML).find('col').each(function(){
-                    var name=$(this).find("name").text();
+                    var name=$(this).find("initials").text()+$(this).find("surname").text();
                     var score=$(this).find("score").text();
                     var pos=$(this).find("pos").text();
-                    $('<tr><\/tr>').html('<th>' +pos+ '<\/th><td>' +name+ '<\/td><td>' +score+ '<\/td>').appendTo('#searchTable');
+                    $('<tr><\/tr>').html('<th class="pos">' +pos+ '<\/th><td class="name">' +name+ '<\/td><td class="score">' +score+ '<\/td>').appendTo('#searchTable');
+                });
+                var options={
+                    valueNames: ['pos', 'name', 'score']
+                };
+                var listObj=new List('table1',options);
+                console.log(listObj)
+                $('#searchField').on('keyup',function(){
+                    var str=$(this).val()
+                    listObj.search(str);
                 });
             },
         });
     });
 </script>
-
-
-
-<style>table{
-    text-align: left!important;
-}</style>
-<figure class="wp-block-table is-style-stripes"><table id="searchTable" class="has-fixed-layout">
-<thead><tr>
-<th class="has-text-align-left" data-align="left">Ranking</th>
-<th class="has-text-align-left" data-align="left">Name</th>
-<th class="has-text-align-left" data-align="left">Position</th>
-</tr></thead>
-<tbody></tbody>
-</table></figure>
 
 
 
@@ -261,9 +279,9 @@ flexibility(document.documentElement);
 
 	
 	
-</article><!-- #post-## -->
+<!-- #post-## -->
 
-			</main><!-- #main -->
+			<!-- #main -->
 			
 		
 	</div>
@@ -271,7 +289,8 @@ flexibility(document.documentElement);
 
 
 	</div> <!-- ast-container -->
-	</div>
+	</article></main>
+</div>
 <!-- #content -->
 		<div id="ast-mobile-popup-wrapper">
 			<div id="ast-mobile-popup" class="ast-mobile-popup-drawer content-align-center ast-mobile-popup-right">
@@ -338,5 +357,7 @@ var astra = {"break_point":"921","isRtl":""};
 			<script>
 			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
 			</script>
-				</body>
+				</div>
+</div>
+</body>
 </html>
