@@ -202,7 +202,9 @@ flexibility(document.documentElement);
 
 
 
-<style>input{
+<div class="wp-block-columns RemoveMargins-Y">
+<div class="wp-block-column RemoveMargins-Y" style="flex-basis:80%">
+<style>#searchField{
   background-image: url('/wp-content/uploads/2022/04/search.png')!important;
   background-size: 25px 25px!important;
   background-position: 10px 12px!important;
@@ -211,9 +213,28 @@ flexibility(document.documentElement);
   font-size: 16px!important;
   padding: 12px 20px 12px 40px!important; 
   border: 1px solid #ddd!important;
-  margin-bottom: 12px!important;/
 }</style>
 <input id="searchField" type="search" class="fuzzy-search" placeholder="Type here to search">
+</div>
+
+
+
+<div class="wp-block-column RemoveMargins-Y" style="flex-basis:20%">
+<style>#table1Total{
+  width: 100%!important;
+  font-size: 16px!important;
+  padding: 12px 12px 12px 12px!important; 
+  border: 1px solid #ddd!important;
+  text-align: right!important;
+margin:0
+}</style>
+<p id="table1Total">Count: <strong>0</strong></p>
+</div>
+</div>
+
+
+
+<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
@@ -225,16 +246,30 @@ thead tr{
 }
 tr:nth-child(odd){
     background-color: #f0f0f0;
+}
+.sort,button {
+    padding: 0;
+    border-radius: 0px!important;
+    border: none;
+    background-color: transparent!important;
+    text-decoration: none;
+}
+.sort,button:hover{
+    color:var(--ast-global-color-2);
+}
+.sort,button:focus{
+    color:var(--ast-global-color-4);
+}
+.sort,button:after{
+    color:var(--ast-global-color-1);
 }</style>
-
-
 
 <div id="table1">
 <table id="searchTable">
 <thead><tr>
-<th width="20%">Ranking</th>
-<th width="50%">Name</th>
-<th width="30%">Points</th>
+<th width="20%"><button class="sort" data-sort="pos">Rank</button></th>
+<th width="50%"><button class="sort" data-sort="name">Name</button></th>
+<th width="30%"><button class="sort" data-sort="score">Points</button></th>
 </tr></thead>
 <tbody class="list"></tbody>
 </table>
@@ -264,18 +299,12 @@ tr:nth-child(odd){
                 $('#searchField').on('keyup',function(){
                     var str=$(this).val()
                     listObj.search(str);
+                    document.getElementById("table1Total").innerHTML="Count: <strong>"+listObj.visibleItems.length+"<\/strong>"
                 });
+                document.getElementById("table1Total").innerHTML="Count: <strong>"+listObj.size()+"<\/strong>"
             },
         });
 </script>
-
-
-
-<div style="height:25px" aria-hidden="true" class="wp-block-spacer"></div>
-
-
-
-<p></p>
 
 		
 		
