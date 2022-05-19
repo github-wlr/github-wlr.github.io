@@ -1,0 +1,12 @@
+{
+    "comps": [
+        {
+            "id": "HusBos-Tasks",
+            "name": "Task A",
+            "short": "Club",
+            "task": "https://www.soaringspot.com/en_gb/jegc2021/tasks/club/task-12-on-2021-07-23",
+            "colour": "#0074D9"
+        }
+    ],
+    "gliders": "https://www.wlr.org.uk/wp-content/tasks/gliders.json"
+}
