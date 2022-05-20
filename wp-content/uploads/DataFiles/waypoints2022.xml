@@ -1,0 +1,8205 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<col>
+		<trigraph>AB1</trigraph>
+		<fullname>Aboyne Bridge</fullname>
+		<alt>450</alt>
+		<pos>57 04.213N 002 47.239W</pos>
+	</col>
+	<col>
+		<trigraph>ABB</trigraph>
+		<fullname>Abbot's Bromley</fullname>
+		<alt>328</alt>
+		<pos>52 48.780N 001 54.594W</pos>
+	</col>
+	<col>
+		<trigraph>ABD</trigraph>
+		<fullname>Aboyne Dinnet</fullname>
+		<alt>492</alt>
+		<pos>57 04.301N 002 53.397W</pos>
+	</col>
+	<col>
+		<trigraph>ABE</trigraph>
+		<fullname>Abergavenny</fullname>
+		<alt>230</alt>
+		<pos>51 48.575N 003 00.587W</pos>
+	</col>
+	<col>
+		<trigraph>ABF</trigraph>
+		<fullname>Aberfeldy</fullname>
+		<alt>197</alt>
+		<pos>56 37.270N 003 52.428W</pos>
+	</col>
+	<col>
+		<trigraph>ABG</trigraph>
+		<fullname>Abingdon Airfield</fullname>
+		<alt>240</alt>
+		<pos>51 41.450N 001 19.000W</pos>
+	</col>
+	<col>
+		<trigraph>ABI</trigraph>
+		<fullname>Abington</fullname>
+		<alt>853</alt>
+		<pos>55 30.206N 003 41.746W</pos>
+	</col>
+	<col>
+		<trigraph>ABL</trigraph>
+		<fullname>Aberfoyle</fullname>
+		<alt>66</alt>
+		<pos>56 10.717N 004 23.070W</pos>
+	</col>
+	<col>
+		<trigraph>ABN</trigraph>
+		<fullname>Abingdon Bridge</fullname>
+		<alt>164</alt>
+		<pos>51 40.120N 001 16.766W</pos>
+	</col>
+	<col>
+		<trigraph>ABO</trigraph>
+		<fullname>Aboyne</fullname>
+		<alt>460</alt>
+		<pos>57 04.515N 002 50.571W</pos>
+	</col>
+	<col>
+		<trigraph>ABR</trigraph>
+		<fullname>Aberchirder</fullname>
+		<alt>394</alt>
+		<pos>57 33.512N 002 37.802W</pos>
+	</col>
+	<col>
+		<trigraph>ABS</trigraph>
+		<fullname>Abergavenny SW</fullname>
+		<alt>1833</alt>
+		<pos>51 48.025N 003 03.621W</pos>
+	</col>
+	<col>
+		<trigraph>ABY</trigraph>
+		<fullname>Aberystwyth Pier</fullname>
+		<alt>15</alt>
+		<pos>52 24.980N 004 05.291W</pos>
+	</col>
+	<col>
+		<trigraph>ACB</trigraph>
+		<fullname>Alconbury</fullname>
+		<alt>160</alt>
+		<pos>52 22.720N 000 15.325W</pos>
+	</col>
+	<col>
+		<trigraph>ACC</trigraph>
+		<fullname>Accrington NE</fullname>
+		<alt>395</alt>
+		<pos>53 46.883N 002 19.748W</pos>
+	</col>
+	<col>
+		<trigraph>ACH</trigraph>
+		<fullname>Achnasheen</fullname>
+		<alt>510</alt>
+		<pos>57 34.694N 005 04.810W</pos>
+	</col>
+	<col>
+		<trigraph>ACN</trigraph>
+		<fullname>Achnabourin</fullname>
+		<alt>115</alt>
+		<pos>58 29.280N 004 12.768W</pos>
+	</col>
+	<col>
+		<trigraph>AD1</trigraph>
+		<fullname>Aston Down Finish N</fullname>
+		<alt>600</alt>
+		<pos>51 42.866N 002 07.466W</pos>
+	</col>
+	<col>
+		<trigraph>AD2</trigraph>
+		<fullname>Aston Down Finish S</fullname>
+		<alt>600</alt>
+		<pos>51 42.016N 002 08.300W</pos>
+	</col>
+	<col>
+		<trigraph>ADE</trigraph>
+		<fullname>Aberdare SE</fullname>
+		<alt>394</alt>
+		<pos>51 42.023N 003 24.943W</pos>
+	</col>
+	<col>
+		<trigraph>ADF</trigraph>
+		<fullname>Andoversford</fullname>
+		<alt>541</alt>
+		<pos>51 52.547N 001 57.853W</pos>
+	</col>
+	<col>
+		<trigraph>ADN</trigraph>
+		<fullname>Aberdaron</fullname>
+		<alt>33</alt>
+		<pos>52 48.273N 004 42.722W</pos>
+	</col>
+	<col>
+		<trigraph>AFB</trigraph>
+		<fullname>Alfriston Bridge</fullname>
+		<alt>30</alt>
+		<pos>50 48.698N 000 09.734E</pos>
+	</col>
+	<col>
+		<trigraph>AFD</trigraph>
+		<fullname>Alford</fullname>
+		<alt>492</alt>
+		<pos>57 14.272N 002 43.527W</pos>
+	</col>
+	<col>
+		<trigraph>AGS</trigraph>
+		<fullname>Abergele South</fullname>
+		<alt>509</alt>
+		<pos>53 15.124N 003 35.765W</pos>
+	</col>
+	<col>
+		<trigraph>AHA</trigraph>
+		<fullname>Altnaharra</fullname>
+		<alt>255</alt>
+		<pos>58 17.210N 004 26.578W</pos>
+	</col>
+	<col>
+		<trigraph>AKE</trigraph>
+		<fullname>Alnwick E</fullname>
+		<alt>134</alt>
+		<pos>55 24.396N 001 40.869W</pos>
+	</col>
+	<col>
+		<trigraph>ALB</trigraph>
+		<fullname>Aln Bridge</fullname>
+		<alt>195</alt>
+		<pos>55 24.323N 001 51.793W</pos>
+	</col>
+	<col>
+		<trigraph>ALC</trigraph>
+		<fullname>Alcester</fullname>
+		<alt>148</alt>
+		<pos>52 12.438N 001 52.640W</pos>
+	</col>
+	<col>
+		<trigraph>ALE</trigraph>
+		<fullname>Aylesham</fullname>
+		<alt>272</alt>
+		<pos>51 13.686N 001 12.544E</pos>
+	</col>
+	<col>
+		<trigraph>ALF</trigraph>
+		<fullname>Alfreton</fullname>
+		<alt>253</alt>
+		<pos>53 06.072N 001 19.466W</pos>
+	</col>
+	<col>
+		<trigraph>ALL</trigraph>
+		<fullname>Allendale Bridge</fullname>
+		<alt>709</alt>
+		<pos>54 53.796N 002 15.521W</pos>
+	</col>
+	<col>
+		<trigraph>ALM</trigraph>
+		<fullname>Alnwick Moor SW</fullname>
+		<alt>653</alt>
+		<pos>55 20.991N 001 50.779W</pos>
+	</col>
+	<col>
+		<trigraph>ALO</trigraph>
+		<fullname>Alston</fullname>
+		<alt>885</alt>
+		<pos>54 48.576N 002 26.547W</pos>
+	</col>
+	<col>
+		<trigraph>ALR</trigraph>
+		<fullname>Aberlour</fullname>
+		<alt>335</alt>
+		<pos>57 28.222N 003 13.915W</pos>
+	</col>
+	<col>
+		<trigraph>ALS</trigraph>
+		<fullname>Alfreton South</fullname>
+		<alt>236</alt>
+		<pos>53 03.475N 001 25.048W</pos>
+	</col>
+	<col>
+		<trigraph>ALV</trigraph>
+		<fullname>Alva</fullname>
+		<alt>102</alt>
+		<pos>56 09.166N 003 47.916W</pos>
+	</col>
+	<col>
+		<trigraph>ALW</trigraph>
+		<fullname>Alton Southwest</fullname>
+		<alt>551</alt>
+		<pos>51 07.931N 000 59.689W</pos>
+	</col>
+	<col>
+		<trigraph>ALY</trigraph>
+		<fullname>Alyth</fullname>
+		<alt>295</alt>
+		<pos>56 36.992N 003 12.707W</pos>
+	</col>
+	<col>
+		<trigraph>AMB</trigraph>
+		<fullname>Amberley</fullname>
+		<alt>151</alt>
+		<pos>50 53.816N 000 32.538W</pos>
+	</col>
+	<col>
+		<trigraph>AMS</trigraph>
+		<fullname>Ambleside</fullname>
+		<alt>135</alt>
+		<pos>54 25.594N 002 58.150W</pos>
+	</col>
+	<col>
+		<trigraph>AMU</trigraph>
+		<fullname>Amulree</fullname>
+		<alt>883</alt>
+		<pos>56 30.612N 003 47.301W</pos>
+	</col>
+	<col>
+		<trigraph>AND</trigraph>
+		<fullname>Andover SW</fullname>
+		<alt>249</alt>
+		<pos>51 12.066N 001 30.439W</pos>
+	</col>
+	<col>
+		<trigraph>ANE</trigraph>
+		<fullname>Andover SE</fullname>
+		<alt>410</alt>
+		<pos>51 12.029N 001 27.004W</pos>
+	</col>
+	<col>
+		<trigraph>ANX</trigraph>
+		<fullname>Ansty Cross</fullname>
+		<alt>530</alt>
+		<pos>50 49.900N 002 19.725W</pos>
+	</col>
+	<col>
+		<trigraph>APP</trigraph>
+		<fullname>Appleby</fullname>
+		<alt>525</alt>
+		<pos>54 35.272N 002 29.940W</pos>
+	</col>
+	<col>
+		<trigraph>ARD</trigraph>
+		<fullname>Ardvasar</fullname>
+		<alt>10</alt>
+		<pos>57 03.883N 005 53.615W</pos>
+	</col>
+	<col>
+		<trigraph>ARL</trigraph>
+		<fullname>Ardrishaig Lighthouse</fullname>
+		<alt>10</alt>
+		<pos>56 00.738N 005 26.646W</pos>
+	</col>
+	<col>
+		<trigraph>ARU</trigraph>
+		<fullname>Arundel</fullname>
+		<alt>125</alt>
+		<pos>50 51.413N 000 33.303W</pos>
+	</col>
+	<col>
+		<trigraph>ASB</trigraph>
+		<fullname>Ashbury</fullname>
+		<alt>374</alt>
+		<pos>51 33.833N 001 37.094W</pos>
+	</col>
+	<col>
+		<trigraph>ASE</trigraph>
+		<fullname>Ashford East</fullname>
+		<alt>400</alt>
+		<pos>51 08.229N 000 54.640E</pos>
+	</col>
+	<col>
+		<trigraph>ASH</trigraph>
+		<fullname>Ashbourne</fullname>
+		<alt>574</alt>
+		<pos>53 00.021N 001 41.822W</pos>
+	</col>
+	<col>
+		<trigraph>ASP</trigraph>
+		<fullname>Aspatria</fullname>
+		<alt>164</alt>
+		<pos>54 45.549N 003 19.904W</pos>
+	</col>
+	<col>
+		<trigraph>ASS</trigraph>
+		<fullname>Ashford South</fullname>
+		<alt>315</alt>
+		<pos>51 04.092N 000 51.279E</pos>
+	</col>
+	<col>
+		<trigraph>AST</trigraph>
+		<fullname>Aston Down</fullname>
+		<alt>600</alt>
+		<pos>51 42.358N 002 07.916W</pos>
+	</col>
+	<col>
+		<trigraph>ASW</trigraph>
+		<fullname>Airdrie Southwest</fullname>
+		<alt>151</alt>
+		<pos>55 50.472N 004 01.473W</pos>
+	</col>
+	<col>
+		<trigraph>ASY</trigraph>
+		<fullname>Ashley</fullname>
+		<alt>640</alt>
+		<pos>52 55.183N 002 23.440W</pos>
+	</col>
+	<col>
+		<trigraph>ATH</trigraph>
+		<fullname>Atherstone</fullname>
+		<alt>318</alt>
+		<pos>52 34.821N 001 33.239W</pos>
+	</col>
+	<col>
+		<trigraph>ATT</trigraph>
+		<fullname>Attleborough</fullname>
+		<alt>164</alt>
+		<pos>52 31.279N 001 00.638E</pos>
+	</col>
+	<col>
+		<trigraph>ATW</trigraph>
+		<fullname>Alton Towers</fullname>
+		<alt>217</alt>
+		<pos>52 58.833N 001 53.671W</pos>
+	</col>
+	<col>
+		<trigraph>AUL</trigraph>
+		<fullname>Auldgirth</fullname>
+		<alt>115</alt>
+		<pos>55 09.549N 003 42.466W</pos>
+	</col>
+	<col>
+		<trigraph>AVE</trigraph>
+		<fullname>Avebury</fullname>
+		<alt>335</alt>
+		<pos>51 25.159N 001 52.482W</pos>
+	</col>
+	<col>
+		<trigraph>AVN</trigraph>
+		<fullname>Avening</fullname>
+		<alt>383</alt>
+		<pos>51 40.807N 002 10.133W</pos>
+	</col>
+	<col>
+		<trigraph>AXM</trigraph>
+		<fullname>Axminster</fullname>
+		<alt>236</alt>
+		<pos>50 46.791N 003 00.268W</pos>
+	</col>
+	<col>
+		<trigraph>AYL</trigraph>
+		<fullname>Aylesbury</fullname>
+		<alt>289</alt>
+		<pos>51 49.990N 000 51.774W</pos>
+	</col>
+	<col>
+		<trigraph>AYS</trigraph>
+		<fullname>Aysgarth</fullname>
+		<alt>492</alt>
+		<pos>54 17.723N 001 57.555W</pos>
+	</col>
+	<col>
+		<trigraph>BA1</trigraph>
+		<fullname>Banbury W</fullname>
+		<alt>529</alt>
+		<pos>52 04.417N 001 23.665W</pos>
+	</col>
+	<col>
+		<trigraph>BA2</trigraph>
+		<fullname>Banbury N</fullname>
+		<alt>360</alt>
+		<pos>52 07.262N 001 22.687W</pos>
+	</col>
+	<col>
+		<trigraph>BAA</trigraph>
+		<fullname>Balallan</fullname>
+		<alt>15</alt>
+		<pos>58 05.180N 006 38.180W</pos>
+	</col>
+	<col>
+		<trigraph>BAB</trigraph>
+		<fullname>Ballachulish Bridge</fullname>
+		<alt>10</alt>
+		<pos>56 41.283N 005 10.928W</pos>
+	</col>
+	<col>
+		<trigraph>BAC</trigraph>
+		<fullname>Backwater Reservoir</fullname>
+		<alt>984</alt>
+		<pos>56 43.018N 003 13.312W</pos>
+	</col>
+	<col>
+		<trigraph>BAD</trigraph>
+		<fullname>Badminton</fullname>
+		<alt>400</alt>
+		<pos>51 32.636N 002 16.826W</pos>
+	</col>
+	<col>
+		<trigraph>BAE</trigraph>
+		<fullname>Bath East</fullname>
+		<alt>79</alt>
+		<pos>51 23.868N 002 19.385W</pos>
+	</col>
+	<col>
+		<trigraph>BAF</trigraph>
+		<fullname>Balfron</fullname>
+		<alt>46</alt>
+		<pos>56 05.024N 004 22.149W</pos>
+	</col>
+	<col>
+		<trigraph>BAG</trigraph>
+		<fullname>Bangor-on-Dee</fullname>
+		<alt>121</alt>
+		<pos>53 00.050N 002 54.687W</pos>
+	</col>
+	<col>
+		<trigraph>BAH</trigraph>
+		<fullname>Barrhill</fullname>
+		<alt>20</alt>
+		<pos>55 06.094N 004 45.806W</pos>
+	</col>
+	<col>
+		<trigraph>BAK</trigraph>
+		<fullname>Bakewell</fullname>
+		<alt>394</alt>
+		<pos>53 12.879N 001 40.376W</pos>
+	</col>
+	<col>
+		<trigraph>BAL</trigraph>
+		<fullname>Bala</fullname>
+		<alt>548</alt>
+		<pos>52 54.780N 003 35.622W</pos>
+	</col>
+	<col>
+		<trigraph>BAM</trigraph>
+		<fullname>Bampton</fullname>
+		<alt>360</alt>
+		<pos>50 59.356N 003 29.061W</pos>
+	</col>
+	<col>
+		<trigraph>BAN</trigraph>
+		<fullname>Banbury</fullname>
+		<alt>308</alt>
+		<pos>52 04.355N 001 18.784W</pos>
+	</col>
+	<col>
+		<trigraph>BAR</trigraph>
+		<fullname>Barnard Castle</fullname>
+		<alt>492</alt>
+		<pos>54 32.555N 001 55.676W</pos>
+	</col>
+	<col>
+		<trigraph>BAS</trigraph>
+		<fullname>Basingstoke</fullname>
+		<alt>351</alt>
+		<pos>51 15.482N 001 03.893W</pos>
+	</col>
+	<col>
+		<trigraph>BAT</trigraph>
+		<fullname>Bath Racecourse SW</fullname>
+		<alt>705</alt>
+		<pos>51 24.781N 002 24.840W</pos>
+	</col>
+	<col>
+		<trigraph>BAW</trigraph>
+		<fullname>Banchory West</fullname>
+		<alt>262</alt>
+		<pos>57 03.495N 002 33.385W</pos>
+	</col>
+	<col>
+		<trigraph>BBG</trigraph>
+		<fullname>Boat O'Brig</fullname>
+		<alt>164</alt>
+		<pos>57 33.065N 003 08.444W</pos>
+	</col>
+	<col>
+		<trigraph>BBK</trigraph>
+		<fullname>Bracken Bank</fullname>
+		<alt>560</alt>
+		<pos>54 44.867N 002 43.577W</pos>
+	</col>
+	<col>
+		<trigraph>BBR</trigraph>
+		<fullname>Bath Bridge</fullname>
+		<alt>105</alt>
+		<pos>51 22.854N 002 21.327W</pos>
+	</col>
+	<col>
+		<trigraph>BCA</trigraph>
+		<fullname>Bishop's Caundle</fullname>
+		<alt>203</alt>
+		<pos>50 54.747N 002 25.027W</pos>
+	</col>
+	<col>
+		<trigraph>BCE</trigraph>
+		<fullname>Banchory East</fullname>
+		<alt>165</alt>
+		<pos>57 03.201N 002 27.337W</pos>
+	</col>
+	<col>
+		<trigraph>BCL</trigraph>
+		<fullname>Bishop's Cleeve NW</fullname>
+		<alt>255</alt>
+		<pos>51 58.103N 002 02.006W</pos>
+	</col>
+	<col>
+		<trigraph>BCN</trigraph>
+		<fullname>Brechin</fullname>
+		<alt>164</alt>
+		<pos>56 43.412N 002 38.872W</pos>
+	</col>
+	<col>
+		<trigraph>BCS</trigraph>
+		<fullname>Bishops Castle</fullname>
+		<alt>571</alt>
+		<pos>52 29.307N 002 59.660W</pos>
+	</col>
+	<col>
+		<trigraph>BCW</trigraph>
+		<fullname>Bishops Cleeve W</fullname>
+		<alt>108</alt>
+		<pos>51 57.016N 002 05.933W</pos>
+	</col>
+	<col>
+		<trigraph>BCY</trigraph>
+		<fullname>Banchory</fullname>
+		<alt>262</alt>
+		<pos>57 02.841N 002 30.042W</pos>
+	</col>
+	<col>
+		<trigraph>BDM</trigraph>
+		<fullname>Bodmin SE</fullname>
+		<alt>295</alt>
+		<pos>50 27.579N 004 41.609W</pos>
+	</col>
+	<col>
+		<trigraph>BDN</trigraph>
+		<fullname>Beadnell Harbour</fullname>
+		<alt>20</alt>
+		<pos>55 32.996N 001 37.604W</pos>
+	</col>
+	<col>
+		<trigraph>BDO</trigraph>
+		<fullname>Balado</fullname>
+		<alt>328</alt>
+		<pos>56 12.581N 003 27.702W</pos>
+	</col>
+	<col>
+		<trigraph>BDW</trigraph>
+		<fullname>Bodelwyddan</fullname>
+		<alt>335</alt>
+		<pos>53 15.168N 003 30.739W</pos>
+	</col>
+	<col>
+		<trigraph>BDY</trigraph>
+		<fullname>Bardney</fullname>
+		<alt>52</alt>
+		<pos>53 12.475N 000 20.196W</pos>
+	</col>
+	<col>
+		<trigraph>BE2</trigraph>
+		<fullname>Beal</fullname>
+		<alt>16</alt>
+		<pos>55 40.656N 001 54.205W</pos>
+	</col>
+	<col>
+		<trigraph>BEA</trigraph>
+		<fullname>Beaminster</fullname>
+		<alt>223</alt>
+		<pos>50 48.453N 002 44.278W</pos>
+	</col>
+	<col>
+		<trigraph>BEC</trigraph>
+		<fullname>Beckington</fullname>
+		<alt>255</alt>
+		<pos>51 16.234N 002 17.087W</pos>
+	</col>
+	<col>
+		<trigraph>BED</trigraph>
+		<fullname>Bedford Bridge</fullname>
+		<alt>98</alt>
+		<pos>52 07.785N 000 28.645W</pos>
+	</col>
+	<col>
+		<trigraph>BEE</trigraph>
+		<fullname>Beer Head W</fullname>
+		<alt>440</alt>
+		<pos>50 41.278N 003 06.386W</pos>
+	</col>
+	<col>
+		<trigraph>BEL</trigraph>
+		<fullname>Bellingham</fullname>
+		<alt>387</alt>
+		<pos>55 08.584N 002 15.718W</pos>
+	</col>
+	<col>
+		<trigraph>BEM</trigraph>
+		<fullname>Bembridge</fullname>
+		<alt>52</alt>
+		<pos>50 40.574N 001 06.262W</pos>
+	</col>
+	<col>
+		<trigraph>BEN</trigraph>
+		<fullname>Bentpath</fullname>
+		<alt>420</alt>
+		<pos>55 12.102N 003 05.006W</pos>
+	</col>
+	<col>
+		<trigraph>BER</trigraph>
+		<fullname>Berwick W</fullname>
+		<alt>50</alt>
+		<pos>55 45.397N 002 02.481W</pos>
+	</col>
+	<col>
+		<trigraph>BES</trigraph>
+		<fullname>St Bees Head</fullname>
+		<alt>322</alt>
+		<pos>54 30.817N 003 38.203W</pos>
+	</col>
+	<col>
+		<trigraph>BET</trigraph>
+		<fullname>Beattock</fullname>
+		<alt>328</alt>
+		<pos>55 17.739N 003 26.658W</pos>
+	</col>
+	<col>
+		<trigraph>BEU</trigraph>
+		<fullname>Beulah</fullname>
+		<alt>486</alt>
+		<pos>52 08.928N 003 34.686W</pos>
+	</col>
+	<col>
+		<trigraph>BEV</trigraph>
+		<fullname>Beverley</fullname>
+		<alt>66</alt>
+		<pos>53 50.575N 000 28.642W</pos>
+	</col>
+	<col>
+		<trigraph>BEW</trigraph>
+		<fullname>Bewl Water</fullname>
+		<alt>226</alt>
+		<pos>51 04.627N 000 23.873E</pos>
+	</col>
+	<col>
+		<trigraph>BF1</trigraph>
+		<fullname>Booker Finish SW</fullname>
+		<alt>489</alt>
+		<pos>51 36.372N 000 48.534W</pos>
+	</col>
+	<col>
+		<trigraph>BF2</trigraph>
+		<fullname>Booker Finish NW</fullname>
+		<alt>515</alt>
+		<pos>51 36.678N 000 48.762W</pos>
+	</col>
+	<col>
+		<trigraph>BFD</trigraph>
+		<fullname>Belford</fullname>
+		<alt>138</alt>
+		<pos>55 35.704N 001 48.853W</pos>
+	</col>
+	<col>
+		<trigraph>BFF</trigraph>
+		<fullname>Banff</fullname>
+		<alt>33</alt>
+		<pos>57 39.774N 002 30.781W</pos>
+	</col>
+	<col>
+		<trigraph>BGA</trigraph>
+		<fullname>Biggar</fullname>
+		<alt>659</alt>
+		<pos>55 36.871N 003 32.323W</pos>
+	</col>
+	<col>
+		<trigraph>BGG</trigraph>
+		<fullname>Brigg</fullname>
+		<alt>49</alt>
+		<pos>53 33.487N 000 30.226W</pos>
+	</col>
+	<col>
+		<trigraph>BGO</trigraph>
+		<fullname>Bangor SE</fullname>
+		<alt>125</alt>
+		<pos>53 12.291N 004 06.394W</pos>
+	</col>
+	<col>
+		<trigraph>BGR</trigraph>
+		<fullname>Blairgowrie</fullname>
+		<alt>230</alt>
+		<pos>56 35.520N 003 20.086W</pos>
+	</col>
+	<col>
+		<trigraph>BGT</trigraph>
+		<fullname>Bedlands Gate</fullname>
+		<alt>827</alt>
+		<pos>54 34.233N 002 40.233W</pos>
+	</col>
+	<col>
+		<trigraph>BGW</trigraph>
+		<fullname>Basingstoke West</fullname>
+		<alt>377</alt>
+		<pos>51 15.322N 001 11.445W</pos>
+	</col>
+	<col>
+		<trigraph>BHN</trigraph>
+		<fullname>Bath North</fullname>
+		<alt>679</alt>
+		<pos>51 27.205N 002 22.155W</pos>
+	</col>
+	<col>
+		<trigraph>BIC</trigraph>
+		<fullname>Bicester Control Tower</fullname>
+		<alt>267</alt>
+		<pos>51 54.936N 001 08.198W</pos>
+	</col>
+	<col>
+		<trigraph>BID</trigraph>
+		<fullname>Bidford</fullname>
+		<alt>121</alt>
+		<pos>52 08.428N 001 50.853W</pos>
+	</col>
+	<col>
+		<trigraph>BIE</trigraph>
+		<fullname>Bicester East</fullname>
+		<alt>400</alt>
+		<pos>51 52.624N 001 05.601W</pos>
+	</col>
+	<col>
+		<trigraph>BIF</trigraph>
+		<fullname>Broughton-in-Furness</fullname>
+		<alt>120</alt>
+		<pos>54 16.656N 003 12.702W</pos>
+	</col>
+	<col>
+		<trigraph>BIG</trigraph>
+		<fullname>Biggleswade</fullname>
+		<alt>98</alt>
+		<pos>52 04.639N 000 15.663W</pos>
+	</col>
+	<col>
+		<trigraph>BIL</trigraph>
+		<fullname>Billinghay</fullname>
+		<alt>105</alt>
+		<pos>53 04.697N 000 16.430W</pos>
+	</col>
+	<col>
+		<trigraph>BIN</trigraph>
+		<fullname>Biddenden</fullname>
+		<alt>171</alt>
+		<pos>51 06.883N 000 38.608E</pos>
+	</col>
+	<col>
+		<trigraph>BIR</trigraph>
+		<fullname>Birdlip</fullname>
+		<alt>751</alt>
+		<pos>51 50.624N 002 05.720W</pos>
+	</col>
+	<col>
+		<trigraph>BIS</trigraph>
+		<fullname>Bishop Auckland</fullname>
+		<alt>89</alt>
+		<pos>54 40.027N 001 41.002W</pos>
+	</col>
+	<col>
+		<trigraph>BKN</trigraph>
+		<fullname>Bockleton</fullname>
+		<alt>719</alt>
+		<pos>52 14.970N 002 35.862W</pos>
+	</col>
+	<col>
+		<trigraph>BKY</trigraph>
+		<fullname>Brinkley Church</fullname>
+		<alt>360</alt>
+		<pos>52 10.061N 000 22.872E</pos>
+	</col>
+	<col>
+		<trigraph>BLA</trigraph>
+		<fullname>Blakehill Farm</fullname>
+		<alt>310</alt>
+		<pos>51 37.331N 001 53.350W</pos>
+	</col>
+	<col>
+		<trigraph>BLD</trigraph>
+		<fullname>Blandford</fullname>
+		<alt>341</alt>
+		<pos>50 51.215N 002 09.246W</pos>
+	</col>
+	<col>
+		<trigraph>BLE</trigraph>
+		<fullname>Blenheim N</fullname>
+		<alt>374</alt>
+		<pos>51 52.159N 001 22.703W</pos>
+	</col>
+	<col>
+		<trigraph>BLF</trigraph>
+		<fullname>Blaenau Ffestiniog</fullname>
+		<alt>656</alt>
+		<pos>52 59.739N 003 56.511W</pos>
+	</col>
+	<col>
+		<trigraph>BLG</trigraph>
+		<fullname>Ballinluig</fullname>
+		<alt>197</alt>
+		<pos>56 38.952N 003 40.317W</pos>
+	</col>
+	<col>
+		<trigraph>BLH</trigraph>
+		<fullname>Balloch</fullname>
+		<alt>49</alt>
+		<pos>56 00.486N 004 35.443W</pos>
+	</col>
+	<col>
+		<trigraph>BLI</trigraph>
+		<fullname>Blidworth</fullname>
+		<alt>230</alt>
+		<pos>53 07.207N 001 03.821W</pos>
+	</col>
+	<col>
+		<trigraph>BLK</trigraph>
+		<fullname>Blakeney Point</fullname>
+		<alt>5</alt>
+		<pos>52 58.392N 000 58.452E</pos>
+	</col>
+	<col>
+		<trigraph>BLN</trigraph>
+		<fullname>Blanchland</fullname>
+		<alt>825</alt>
+		<pos>54 50.824N 002 03.240W</pos>
+	</col>
+	<col>
+		<trigraph>BLO</trigraph>
+		<fullname>Bolsover SW</fullname>
+		<alt>328</alt>
+		<pos>53 11.861N 001 19.379W</pos>
+	</col>
+	<col>
+		<trigraph>BLR</trigraph>
+		<fullname>Blair Atholl</fullname>
+		<alt>492</alt>
+		<pos>56 46.283N 003 51.433W</pos>
+	</col>
+	<col>
+		<trigraph>BLS</trigraph>
+		<fullname>Barnsley S</fullname>
+		<alt>410</alt>
+		<pos>53 29.792N 001 28.488W</pos>
+	</col>
+	<col>
+		<trigraph>BLW</trigraph>
+		<fullname>Barnsley W</fullname>
+		<alt>492</alt>
+		<pos>53 32.943N 001 30.947W</pos>
+	</col>
+	<col>
+		<trigraph>BLY</trigraph>
+		<fullname>Bletchley</fullname>
+		<alt>299</alt>
+		<pos>52 00.058N 000 42.526W</pos>
+	</col>
+	<col>
+		<trigraph>BMA</trigraph>
+		<fullname>Balmaha</fullname>
+		<alt>49</alt>
+		<pos>56 05.020N 004 32.922W</pos>
+	</col>
+	<col>
+		<trigraph>BMM</trigraph>
+		<fullname>Brynamman</fullname>
+		<alt>472</alt>
+		<pos>51 48.506N 003 52.118W</pos>
+	</col>
+	<col>
+		<trigraph>BMR</trigraph>
+		<fullname>Braemar East</fullname>
+		<alt>1050</alt>
+		<pos>57 00.199N 003 20.582W</pos>
+	</col>
+	<col>
+		<trigraph>BMS</trigraph>
+		<fullname>Barmouth Station</fullname>
+		<alt>26</alt>
+		<pos>52 43.332N 004 03.392W</pos>
+	</col>
+	<col>
+		<trigraph>BNG</trigraph>
+		<fullname>Bingham</fullname>
+		<alt>197</alt>
+		<pos>52 56.947N 000 58.980W</pos>
+	</col>
+	<col>
+		<trigraph>BNK</trigraph>
+		<fullname>Brinkworth</fullname>
+		<alt>280</alt>
+		<pos>51 33.406N 001 58.953W</pos>
+	</col>
+	<col>
+		<trigraph>BNV</trigraph>
+		<fullname>Ben Nevis</fullname>
+		<alt>4406</alt>
+		<pos>56 47.814N 005 00.216W</pos>
+	</col>
+	<col>
+		<trigraph>BNW</trigraph>
+		<fullname>Bicester North West</fullname>
+		<alt>413</alt>
+		<pos>51 56.907N 001 12.316W</pos>
+	</col>
+	<col>
+		<trigraph>BO1</trigraph>
+		<fullname>Booker SW</fullname>
+		<alt>164</alt>
+		<pos>51 34.381N 000 52.208W</pos>
+	</col>
+	<col>
+		<trigraph>BO2</trigraph>
+		<fullname>Booker W</fullname>
+		<alt>490</alt>
+		<pos>51 36.401N 000 50.771W</pos>
+	</col>
+	<col>
+		<trigraph>BO3</trigraph>
+		<fullname>Booker NW</fullname>
+		<alt>525</alt>
+		<pos>51 37.059N 000 50.226W</pos>
+	</col>
+	<col>
+		<trigraph>BO4</trigraph>
+		<fullname>Turville Windmill</fullname>
+		<alt>502</alt>
+		<pos>51 36.992N 000 53.388W</pos>
+	</col>
+	<col>
+		<trigraph>BO5</trigraph>
+		<fullname>Rockwell End</fullname>
+		<alt>450</alt>
+		<pos>51 35.190N 000 51.186W</pos>
+	</col>
+	<col>
+		<trigraph>BOA</trigraph>
+		<fullname>Bridge of Avon</fullname>
+		<alt>591</alt>
+		<pos>57 24.336N 003 21.674W</pos>
+	</col>
+	<col>
+		<trigraph>BOB</trigraph>
+		<fullname>Booker M40 Bridge</fullname>
+		<alt>361</alt>
+		<pos>51 37.622N 000 51.555W</pos>
+	</col>
+	<col>
+		<trigraph>BOC</trigraph>
+		<fullname>Bridge of Cally</fullname>
+		<alt>508</alt>
+		<pos>56 38.806N 003 24.204W</pos>
+	</col>
+	<col>
+		<trigraph>BOD</trigraph>
+		<fullname>Bodiam</fullname>
+		<alt>184</alt>
+		<pos>51 00.098N 000 32.594E</pos>
+	</col>
+	<col>
+		<trigraph>BOG</trigraph>
+		<fullname>Bridge of Gaur</fullname>
+		<alt>656</alt>
+		<pos>56 40.688N 004 26.909W</pos>
+	</col>
+	<col>
+		<trigraph>BOL</trigraph>
+		<fullname>Bootle</fullname>
+		<alt>66</alt>
+		<pos>54 16.710N 003 22.279W</pos>
+	</col>
+	<col>
+		<trigraph>BOM</trigraph>
+		<fullname>Bodmin SW</fullname>
+		<alt>466</alt>
+		<pos>50 26.023N 004 46.498W</pos>
+	</col>
+	<col>
+		<trigraph>BON</trigraph>
+		<fullname>Boncath</fullname>
+		<alt>663</alt>
+		<pos>52 00.931N 004 38.133W</pos>
+	</col>
+	<col>
+		<trigraph>BOO</trigraph>
+		<fullname>Booker Airfield</fullname>
+		<alt>520</alt>
+		<pos>51 36.512N 000 48.931W</pos>
+	</col>
+	<col>
+		<trigraph>BOR</trigraph>
+		<fullname>Boroughbridge</fullname>
+		<alt>108</alt>
+		<pos>54 05.123N 001 23.989W</pos>
+	</col>
+	<col>
+		<trigraph>BOS</trigraph>
+		<fullname>Boston</fullname>
+		<alt>92</alt>
+		<pos>52 58.317N 000 03.531W</pos>
+	</col>
+	<col>
+		<trigraph>BOT</trigraph>
+		<fullname>Bottesford</fullname>
+		<alt>154</alt>
+		<pos>52 56.606N 000 48.014W</pos>
+	</col>
+	<col>
+		<trigraph>BOU</trigraph>
+		<fullname>Bourne</fullname>
+		<alt>154</alt>
+		<pos>52 46.083N 000 22.637W</pos>
+	</col>
+	<col>
+		<trigraph>BOV</trigraph>
+		<fullname>Bovey Tracey</fullname>
+		<alt>771</alt>
+		<pos>50 37.698N 003 41.372W</pos>
+	</col>
+	<col>
+		<trigraph>BOW</trigraph>
+		<fullname>Bourton-on-the-water</fullname>
+		<alt>194</alt>
+		<pos>51 53.203N 001 46.110W</pos>
+	</col>
+	<col>
+		<trigraph>BOZ</trigraph>
+		<fullname>Bozeat</fullname>
+		<alt>154</alt>
+		<pos>52 13.313N 000 41.035W</pos>
+	</col>
+	<col>
+		<trigraph>BPL</trigraph>
+		<fullname>Barnstaple</fullname>
+		<alt>269</alt>
+		<pos>51 02.180N 004 02.371W</pos>
+	</col>
+	<col>
+		<trigraph>BPT</trigraph>
+		<fullname>Bridport</fullname>
+		<alt>15</alt>
+		<pos>50 43.974N 002 45.020W</pos>
+	</col>
+	<col>
+		<trigraph>BR1</trigraph>
+		<fullname>Bognor Regis Gliding Club</fullname>
+		<alt>10</alt>
+		<pos>50 48.061N 000 39.564W</pos>
+	</col>
+	<col>
+		<trigraph>BR2</trigraph>
+		<fullname>Bognor Domes</fullname>
+		<alt>40</alt>
+		<pos>50 47.106N 000 39.782W</pos>
+	</col>
+	<col>
+		<trigraph>BRC</trigraph>
+		<fullname>Brackley South</fullname>
+		<alt>322</alt>
+		<pos>52 01.270N 001 08.959W</pos>
+	</col>
+	<col>
+		<trigraph>BRD</trigraph>
+		<fullname>Bradbury</fullname>
+		<alt>262</alt>
+		<pos>54 39.146N 001 30.734W</pos>
+	</col>
+	<col>
+		<trigraph>BRE</trigraph>
+		<fullname>Brecon</fullname>
+		<alt>653</alt>
+		<pos>51 56.468N 003 21.522W</pos>
+	</col>
+	<col>
+		<trigraph>BRF</trigraph>
+		<fullname>Bradford-on-avon</fullname>
+		<alt>98</alt>
+		<pos>51 20.680N 002 15.125W</pos>
+	</col>
+	<col>
+		<trigraph>BRG</trigraph>
+		<fullname>Brenig</fullname>
+		<alt>1245</alt>
+		<pos>53 04.540N 003 31.763W</pos>
+	</col>
+	<col>
+		<trigraph>BRH</trigraph>
+		<fullname>Brough</fullname>
+		<alt>545</alt>
+		<pos>54 31.485N 002 19.113W</pos>
+	</col>
+	<col>
+		<trigraph>BRI</trigraph>
+		<fullname>Bridgnorth</fullname>
+		<alt>200</alt>
+		<pos>52 31.660N 002 25.044W</pos>
+	</col>
+	<col>
+		<trigraph>BRK</trigraph>
+		<fullname>Broad Oak</fullname>
+		<alt>154</alt>
+		<pos>50 56.928N 000 35.881E</pos>
+	</col>
+	<col>
+		<trigraph>BRL</trigraph>
+		<fullname>Brill</fullname>
+		<alt>625</alt>
+		<pos>51 49.129N 001 02.982W</pos>
+	</col>
+	<col>
+		<trigraph>BRM</trigraph>
+		<fullname>Bromsgrove</fullname>
+		<alt>144</alt>
+		<pos>52 19.362N 002 02.779W</pos>
+	</col>
+	<col>
+		<trigraph>BRN</trigraph>
+		<fullname>Burn</fullname>
+		<alt>20</alt>
+		<pos>53 44.624N 001 05.031W</pos>
+	</col>
+	<col>
+		<trigraph>BRO</trigraph>
+		<fullname>Broadway</fullname>
+		<alt>161</alt>
+		<pos>52 02.182N 001 51.356W</pos>
+	</col>
+	<col>
+		<trigraph>BRP</trigraph>
+		<fullname>Brampton</fullname>
+		<alt>486</alt>
+		<pos>54 56.253N 002 41.737W</pos>
+	</col>
+	<col>
+		<trigraph>BRR</trigraph>
+		<fullname>Brora</fullname>
+		<alt>15</alt>
+		<pos>58 00.707N 003 51.202W</pos>
+	</col>
+	<col>
+		<trigraph>BRS</trigraph>
+		<fullname>Braemar Stadium</fullname>
+		<alt>1116</alt>
+		<pos>57 00.298N 003 24.360W</pos>
+	</col>
+	<col>
+		<trigraph>BRT</trigraph>
+		<fullname>Brent Tor</fullname>
+		<alt>820</alt>
+		<pos>50 35.531N 004 09.100W</pos>
+	</col>
+	<col>
+		<trigraph>BRU</trigraph>
+		<fullname>Bruton</fullname>
+		<alt>194</alt>
+		<pos>51 06.643N 002 26.996W</pos>
+	</col>
+	<col>
+		<trigraph>BRW</trigraph>
+		<fullname>Barrow</fullname>
+		<alt>47</alt>
+		<pos>54 07.444N 003 15.977W</pos>
+	</col>
+	<col>
+		<trigraph>BRY</trigraph>
+		<fullname>Bromyard</fullname>
+		<alt>230</alt>
+		<pos>52 11.460N 002 30.340W</pos>
+	</col>
+	<col>
+		<trigraph>BRZ</trigraph>
+		<fullname>Brenzett</fullname>
+		<alt>12</alt>
+		<pos>51 00.424N 000 51.493E</pos>
+	</col>
+	<col>
+		<trigraph>BS1</trigraph>
+		<fullname>Bury St Edmunds S</fullname>
+		<alt>115</alt>
+		<pos>52 13.884N 000 42.541E</pos>
+	</col>
+	<col>
+		<trigraph>BS2</trigraph>
+		<fullname>Bury St Edmunds N</fullname>
+		<alt>108</alt>
+		<pos>52 16.728N 000 42.979E</pos>
+	</col>
+	<col>
+		<trigraph>BSE</trigraph>
+		<fullname>Bury St Edmunds</fullname>
+		<alt>187</alt>
+		<pos>52 15.195N 000 43.254E</pos>
+	</col>
+	<col>
+		<trigraph>BSN</trigraph>
+		<fullname>Basingstoke N</fullname>
+		<alt>195</alt>
+		<pos>51 19.769N 001 03.659W</pos>
+	</col>
+	<col>
+		<trigraph>BSS</trigraph>
+		<fullname>Bunessan Pier</fullname>
+		<alt>10</alt>
+		<pos>56 19.163N 006 14.902W</pos>
+	</col>
+	<col>
+		<trigraph>BSW</trigraph>
+		<fullname>Brecon SW</fullname>
+		<alt>780</alt>
+		<pos>51 54.750N 003 28.431W</pos>
+	</col>
+	<col>
+		<trigraph>BT2</trigraph>
+		<fullname>Bassenthwaite E</fullname>
+		<alt>424</alt>
+		<pos>54 39.900N 003 11.282W</pos>
+	</col>
+	<col>
+		<trigraph>BTH</trigraph>
+		<fullname>Bassenthwaite Lake NW</fullname>
+		<alt>265</alt>
+		<pos>54 40.094N 003 14.692W</pos>
+	</col>
+	<col>
+		<trigraph>BTL</trigraph>
+		<fullname>Battle</fullname>
+		<alt>167</alt>
+		<pos>50 54.772N 000 29.580E</pos>
+	</col>
+	<col>
+		<trigraph>BTN</trigraph>
+		<fullname>Bridlington</fullname>
+		<alt>33</alt>
+		<pos>54 04.982N 000 12.359W</pos>
+	</col>
+	<col>
+		<trigraph>BTR</trigraph>
+		<fullname>Ballater</fullname>
+		<alt>656</alt>
+		<pos>57 02.821N 003 02.183W</pos>
+	</col>
+	<col>
+		<trigraph>BTT</trigraph>
+		<fullname>Buttermere</fullname>
+		<alt>410</alt>
+		<pos>54 32.460N 003 16.601W</pos>
+	</col>
+	<col>
+		<trigraph>BUB</trigraph>
+		<fullname>Burbage</fullname>
+		<alt>509</alt>
+		<pos>51 20.668N 001 40.193W</pos>
+	</col>
+	<col>
+		<trigraph>BUC</trigraph>
+		<fullname>Buckingham</fullname>
+		<alt>420</alt>
+		<pos>51 59.888N 000 59.337W</pos>
+	</col>
+	<col>
+		<trigraph>BUD</trigraph>
+		<fullname>Bude</fullname>
+		<alt>30</alt>
+		<pos>50 49.625N 004 32.829W</pos>
+	</col>
+	<col>
+		<trigraph>BUG</trigraph>
+		<fullname>Burley Gate</fullname>
+		<alt>259</alt>
+		<pos>52 07.254N 002 35.761W</pos>
+	</col>
+	<col>
+		<trigraph>BUH</trigraph>
+		<fullname>Burnhope Reservoir</fullname>
+		<alt>1312</alt>
+		<pos>54 44.610N 002 14.276W</pos>
+	</col>
+	<col>
+		<trigraph>BUI</trigraph>
+		<fullname>Builth Wells</fullname>
+		<alt>410</alt>
+		<pos>52 09.024N 003 24.069W</pos>
+	</col>
+	<col>
+		<trigraph>BUK</trigraph>
+		<fullname>Buckfastleigh</fullname>
+		<alt>171</alt>
+		<pos>50 29.253N 003 46.128W</pos>
+	</col>
+	<col>
+		<trigraph>BUL</trigraph>
+		<fullname>Bullington</fullname>
+		<alt>249</alt>
+		<pos>51 10.506N 001 20.336W</pos>
+	</col>
+	<col>
+		<trigraph>BUN</trigraph>
+		<fullname>Bungay</fullname>
+		<alt>118</alt>
+		<pos>52 27.832N 001 26.509E</pos>
+	</col>
+	<col>
+		<trigraph>BUS</trigraph>
+		<fullname>Burton upon Stather</fullname>
+		<alt>197</alt>
+		<pos>53 38.972N 000 41.089W</pos>
+	</col>
+	<col>
+		<trigraph>BUT</trigraph>
+		<fullname>Butser Hill</fullname>
+		<alt>886</alt>
+		<pos>50 58.633N 000 58.916W</pos>
+	</col>
+	<col>
+		<trigraph>BUX</trigraph>
+		<fullname>Buxton</fullname>
+		<alt>820</alt>
+		<pos>53 15.569N 001 54.438W</pos>
+	</col>
+	<col>
+		<trigraph>BUY</trigraph>
+		<fullname>Beauly</fullname>
+		<alt>33</alt>
+		<pos>57 28.563N 004 27.748W</pos>
+	</col>
+	<col>
+		<trigraph>BVR</trigraph>
+		<fullname>Belvoir</fullname>
+		<alt>138</alt>
+		<pos>52 53.247N 000 46.038W</pos>
+	</col>
+	<col>
+		<trigraph>BVT</trigraph>
+		<fullname>Bovington</fullname>
+		<alt>205</alt>
+		<pos>50 42.732N 002 13.297W</pos>
+	</col>
+	<col>
+		<trigraph>BWE</trigraph>
+		<fullname>Bridgwater E</fullname>
+		<alt>20</alt>
+		<pos>51 07.433N 002 58.236W</pos>
+	</col>
+	<col>
+		<trigraph>BWL</trigraph>
+		<fullname>Bwlch</fullname>
+		<alt>187</alt>
+		<pos>52 44.337N 003 12.284W</pos>
+	</col>
+	<col>
+		<trigraph>CAC</trigraph>
+		<fullname>Candover Church</fullname>
+		<alt>518</alt>
+		<pos>51 10.193N 001 08.008W</pos>
+	</col>
+	<col>
+		<trigraph>CAD</trigraph>
+		<fullname>Callander</fullname>
+		<alt>36</alt>
+		<pos>56 14.576N 004 13.045W</pos>
+	</col>
+	<col>
+		<trigraph>CAE</trigraph>
+		<fullname>Canterbury East</fullname>
+		<alt>279</alt>
+		<pos>51 15.694N 001 08.168E</pos>
+	</col>
+	<col>
+		<trigraph>CAH</trigraph>
+		<fullname>Castle Howard</fullname>
+		<alt>148</alt>
+		<pos>54 07.292N 000 54.305W</pos>
+	</col>
+	<col>
+		<trigraph>CAI</trigraph>
+		<fullname>Cairnwell</fullname>
+		<alt>3061</alt>
+		<pos>56 52.784N 003 25.259W</pos>
+	</col>
+	<col>
+		<trigraph>CAL</trigraph>
+		<fullname>Calvert Rail Junction</fullname>
+		<alt>279</alt>
+		<pos>51 55.471N 001 00.693W</pos>
+	</col>
+	<col>
+		<trigraph>CAN</trigraph>
+		<fullname>Cannock</fullname>
+		<alt>266</alt>
+		<pos>52 41.341N 002 06.211W</pos>
+	</col>
+	<col>
+		<trigraph>CAO</trigraph>
+		<fullname>Canonbie</fullname>
+		<alt>230</alt>
+		<pos>55 04.794N 002 56.932W</pos>
+	</col>
+	<col>
+		<trigraph>CAR</trigraph>
+		<fullname>Carlton Moor</fullname>
+		<alt>1200</alt>
+		<pos>54 24.488N 001 12.115W</pos>
+	</col>
+	<col>
+		<trigraph>CAS</trigraph>
+		<fullname>Cambridge South</fullname>
+		<alt>95</alt>
+		<pos>52 09.395N 000 08.118E</pos>
+	</col>
+	<col>
+		<trigraph>CAT</trigraph>
+		<fullname>Canterbury</fullname>
+		<alt>282</alt>
+		<pos>51 16.788N 001 04.973E</pos>
+	</col>
+	<col>
+		<trigraph>CAX</trigraph>
+		<fullname>Caxton Gibbet</fullname>
+		<alt>220</alt>
+		<pos>52 13.719N 000 06.215W</pos>
+	</col>
+	<col>
+		<trigraph>CBA</trigraph>
+		<fullname>Carter Bar</fullname>
+		<alt>1310</alt>
+		<pos>55 21.346N 002 29.062W</pos>
+	</col>
+	<col>
+		<trigraph>CBC</trigraph>
+		<fullname>Conisbrough Castle</fullname>
+		<alt>98</alt>
+		<pos>53 29.064N 001 13.545W</pos>
+	</col>
+	<col>
+		<trigraph>CBG</trigraph>
+		<fullname>Creagan Bridge</fullname>
+		<alt>40</alt>
+		<pos>56 32.839N 005 17.473W</pos>
+	</col>
+	<col>
+		<trigraph>CBK</trigraph>
+		<fullname>Carisbrooke Castle</fullname>
+		<alt>262</alt>
+		<pos>50 41.272N 001 18.774W</pos>
+	</col>
+	<col>
+		<trigraph>CBN</trigraph>
+		<fullname>Chilbolton</fullname>
+		<alt>292</alt>
+		<pos>51 08.702N 001 26.289W</pos>
+	</col>
+	<col>
+		<trigraph>CBR</trigraph>
+		<fullname>Carrbridge</fullname>
+		<alt>876</alt>
+		<pos>57 17.027N 003 48.966W</pos>
+	</col>
+	<col>
+		<trigraph>CCB</trigraph>
+		<fullname>Catacol Bridge</fullname>
+		<alt>10</alt>
+		<pos>55 41.350N 005 19.600W</pos>
+	</col>
+	<col>
+		<trigraph>CCC</trigraph>
+		<fullname>Carreg Cennen Castle</fullname>
+		<alt>725</alt>
+		<pos>51 51.263N 003 56.118W</pos>
+	</col>
+	<col>
+		<trigraph>CCH</trigraph>
+		<fullname>Castle Combe</fullname>
+		<alt>272</alt>
+		<pos>51 29.603N 002 13.785W</pos>
+	</col>
+	<col>
+		<trigraph>CCK</trigraph>
+		<fullname>Castle Carrock Dam NW</fullname>
+		<alt>540</alt>
+		<pos>54 53.250N 002 42.743W</pos>
+	</col>
+	<col>
+		<trigraph>CCL</trigraph>
+		<fullname>Crickhowell</fullname>
+		<alt>226</alt>
+		<pos>51 51.383N 003 08.512W</pos>
+	</col>
+	<col>
+		<trigraph>CCR</trigraph>
+		<fullname>Clay Cross Reservoir</fullname>
+		<alt>243</alt>
+		<pos>53 08.624N 001 26.871W</pos>
+	</col>
+	<col>
+		<trigraph>CCX</trigraph>
+		<fullname>Cadbury Cross</fullname>
+		<alt>617</alt>
+		<pos>50 50.211N 003 33.154W</pos>
+	</col>
+	<col>
+		<trigraph>CDB</trigraph>
+		<fullname>Cromdale Spey Bridge</fullname>
+		<alt>581</alt>
+		<pos>57 20.483N 003 33.215W</pos>
+	</col>
+	<col>
+		<trigraph>CDI</trigraph>
+		<fullname>Cader Idris</fullname>
+		<alt>2930</alt>
+		<pos>52 41.973N 003 54.529W</pos>
+	</col>
+	<col>
+		<trigraph>CDK</trigraph>
+		<fullname>Clodock</fullname>
+		<alt>410</alt>
+		<pos>51 56.517N 002 58.917W</pos>
+	</col>
+	<col>
+		<trigraph>CDO</trigraph>
+		<fullname>Castle Douglas SW</fullname>
+		<alt>170</alt>
+		<pos>54 55.820N 003 57.098W</pos>
+	</col>
+	<col>
+		<trigraph>CDS</trigraph>
+		<fullname>Clattershaws Dam S</fullname>
+		<alt>510</alt>
+		<pos>55 02.984N 004 16.645W</pos>
+	</col>
+	<col>
+		<trigraph>CDW</trigraph>
+		<fullname>Coldwaltham</fullname>
+		<alt>38</alt>
+		<pos>50 56.628N 000 32.048W</pos>
+	</col>
+	<col>
+		<trigraph>CER</trigraph>
+		<fullname>Cerne Abbas</fullname>
+		<alt>256</alt>
+		<pos>50 48.474N 002 28.882W</pos>
+	</col>
+	<col>
+		<trigraph>CES</trigraph>
+		<fullname>Cowes</fullname>
+		<alt>10</alt>
+		<pos>50 45.464N 001 17.303W</pos>
+	</col>
+	<col>
+		<trigraph>CFB</trigraph>
+		<fullname>Chollerford Bridge</fullname>
+		<alt>200</alt>
+		<pos>55 01.760N 002 07.629W</pos>
+	</col>
+	<col>
+		<trigraph>CFF</trigraph>
+		<fullname>Crieff</fullname>
+		<alt>59</alt>
+		<pos>56 21.983N 003 51.122W</pos>
+	</col>
+	<col>
+		<trigraph>CFN</trigraph>
+		<fullname>Chalford North</fullname>
+		<alt>660</alt>
+		<pos>51 44.159N 002 09.460W</pos>
+	</col>
+	<col>
+		<trigraph>CGF</trigraph>
+		<fullname>Corgarf</fullname>
+		<alt>1165</alt>
+		<pos>57 09.775N 003 14.054W</pos>
+	</col>
+	<col>
+		<trigraph>CGI</trigraph>
+		<fullname>Craigellachie</fullname>
+		<alt>344</alt>
+		<pos>57 29.467N 003 11.674W</pos>
+	</col>
+	<col>
+		<trigraph>CGL</trigraph>
+		<fullname>Croglin</fullname>
+		<alt>655</alt>
+		<pos>54 49.057N 002 39.901W</pos>
+	</col>
+	<col>
+		<trigraph>CGN</trigraph>
+		<fullname>Cragganmore</fullname>
+		<alt>460</alt>
+		<pos>57 24.835N 003 23.125W</pos>
+	</col>
+	<col>
+		<trigraph>CGT</trigraph>
+		<fullname>Cherington</fullname>
+		<alt>302</alt>
+		<pos>52 01.571N 001 34.573W</pos>
+	</col>
+	<col>
+		<trigraph>CHA</trigraph>
+		<fullname>Chard</fullname>
+		<alt>243</alt>
+		<pos>50 52.413N 002 57.677W</pos>
+	</col>
+	<col>
+		<trigraph>CHB</trigraph>
+		<fullname>Charlbury</fullname>
+		<alt>433</alt>
+		<pos>51 52.384N 001 29.460W</pos>
+	</col>
+	<col>
+		<trigraph>CHC</trigraph>
+		<fullname>Chipping Campden</fullname>
+		<alt>167</alt>
+		<pos>52 03.183N 001 46.505W</pos>
+	</col>
+	<col>
+		<trigraph>CHD</trigraph>
+		<fullname>Chesterfield</fullname>
+		<alt>220</alt>
+		<pos>53 14.172N 001 25.460W</pos>
+	</col>
+	<col>
+		<trigraph>CHE</trigraph>
+		<fullname>Chedworth</fullname>
+		<alt>827</alt>
+		<pos>51 48.749N 001 56.577W</pos>
+	</col>
+	<col>
+		<trigraph>CHI</trigraph>
+		<fullname>Chichester W</fullname>
+		<alt>50</alt>
+		<pos>50 50.946N 000 50.606W</pos>
+	</col>
+	<col>
+		<trigraph>CHK</trigraph>
+		<fullname>Chirk</fullname>
+		<alt>164</alt>
+		<pos>52 55.783N 003 03.836W</pos>
+	</col>
+	<col>
+		<trigraph>CHM</trigraph>
+		<fullname>Charlton Mires</fullname>
+		<alt>289</alt>
+		<pos>55 28.730N 001 43.274W</pos>
+	</col>
+	<col>
+		<trigraph>CHN</trigraph>
+		<fullname>Chipping Norton</fullname>
+		<alt>751</alt>
+		<pos>51 57.124N 001 31.484W</pos>
+	</col>
+	<col>
+		<trigraph>CHO</trigraph>
+		<fullname>Chorley West</fullname>
+		<alt>100</alt>
+		<pos>53 39.531N 002 41.471W</pos>
+	</col>
+	<col>
+		<trigraph>CHP</trigraph>
+		<fullname>Chipping</fullname>
+		<alt>600</alt>
+		<pos>53 53.165N 002 37.242W</pos>
+	</col>
+	<col>
+		<trigraph>CHR</trigraph>
+		<fullname>Charterhall Field</fullname>
+		<alt>350</alt>
+		<pos>55 42.438N 002 22.634W</pos>
+	</col>
+	<col>
+		<trigraph>CHS</trigraph>
+		<fullname>Chelmsford S</fullname>
+		<alt>215</alt>
+		<pos>51 41.215N 000 27.917E</pos>
+	</col>
+	<col>
+		<trigraph>CHT</trigraph>
+		<fullname>Chatteris</fullname>
+		<alt>20</alt>
+		<pos>52 27.123N 000 02.342E</pos>
+	</col>
+	<col>
+		<trigraph>CHU</trigraph>
+		<fullname>Church Houses</fullname>
+		<alt>455</alt>
+		<pos>54 22.108N 000 58.290W</pos>
+	</col>
+	<col>
+		<trigraph>CHV</trigraph>
+		<fullname>Chieveley</fullname>
+		<alt>361</alt>
+		<pos>51 27.156N 001 18.628W</pos>
+	</col>
+	<col>
+		<trigraph>CHW</trigraph>
+		<fullname>Charwelton</fullname>
+		<alt>230</alt>
+		<pos>52 12.170N 001 15.064W</pos>
+	</col>
+	<col>
+		<trigraph>CIL</trigraph>
+		<fullname>Castle Island Laggan</fullname>
+		<alt>820</alt>
+		<pos>56 57.258N 004 28.284W</pos>
+	</col>
+	<col>
+		<trigraph>CIN</trigraph>
+		<fullname>Cinderford</fullname>
+		<alt>722</alt>
+		<pos>51 48.966N 002 29.485W</pos>
+	</col>
+	<col>
+		<trigraph>CIR</trigraph>
+		<fullname>Cirencester Church</fullname>
+		<alt>331</alt>
+		<pos>51 43.041N 001 58.078W</pos>
+	</col>
+	<col>
+		<trigraph>CIW</trigraph>
+		<fullname>Cirencester West</fullname>
+		<alt>549</alt>
+		<pos>51 43.725N 002 04.625W</pos>
+	</col>
+	<col>
+		<trigraph>CKL</trigraph>
+		<fullname>Chicklade</fullname>
+		<alt>364</alt>
+		<pos>51 06.284N 002 09.956W</pos>
+	</col>
+	<col>
+		<trigraph>CL2</trigraph>
+		<fullname>Challock Chalk Pit</fullname>
+		<alt>460</alt>
+		<pos>51 12.343N 000 49.298E</pos>
+	</col>
+	<col>
+		<trigraph>CL3</trigraph>
+		<fullname>Challock East</fullname>
+		<alt>436</alt>
+		<pos>51 11.798N 000 50.428E</pos>
+	</col>
+	<col>
+		<trigraph>CLA</trigraph>
+		<fullname>Claydon</fullname>
+		<alt>236</alt>
+		<pos>52 06.204N 001 06.453E</pos>
+	</col>
+	<col>
+		<trigraph>CLC</trigraph>
+		<fullname>Clacton E</fullname>
+		<alt>7</alt>
+		<pos>51 48.590N 001 12.284E</pos>
+	</col>
+	<col>
+		<trigraph>CLD</trigraph>
+		<fullname>Culdrose A/f</fullname>
+		<alt>267</alt>
+		<pos>50 05.190N 005 15.558W</pos>
+	</col>
+	<col>
+		<trigraph>CLE</trigraph>
+		<fullname>Clee</fullname>
+		<alt>1750</alt>
+		<pos>52 23.879N 002 35.817W</pos>
+	</col>
+	<col>
+		<trigraph>CLH</trigraph>
+		<fullname>Culmhead airfield</fullname>
+		<alt>882</alt>
+		<pos>50 55.785N 003 07.707W</pos>
+	</col>
+	<col>
+		<trigraph>CLI</trigraph>
+		<fullname>Clitheroe</fullname>
+		<alt>330</alt>
+		<pos>53 53.912N 002 20.707W</pos>
+	</col>
+	<col>
+		<trigraph>CLK</trigraph>
+		<fullname>Challock</fullname>
+		<alt>600</alt>
+		<pos>51 12.508N 000 49.840E</pos>
+	</col>
+	<col>
+		<trigraph>CLL</trigraph>
+		<fullname>Carlisle</fullname>
+		<alt>295</alt>
+		<pos>54 53.709N 002 53.210W</pos>
+	</col>
+	<col>
+		<trigraph>CLM</trigraph>
+		<fullname>Chilham</fullname>
+		<alt>89</alt>
+		<pos>51 14.661N 000 58.411E</pos>
+	</col>
+	<col>
+		<trigraph>CLN</trigraph>
+		<fullname>Calne W</fullname>
+		<alt>256</alt>
+		<pos>51 26.397N 002 01.048W</pos>
+	</col>
+	<col>
+		<trigraph>CLO</trigraph>
+		<fullname>Clova</fullname>
+		<alt>787</alt>
+		<pos>56 50.506N 003 06.415W</pos>
+	</col>
+	<col>
+		<trigraph>CLP</trigraph>
+		<fullname>Clyffe Pypard</fullname>
+		<alt>443</alt>
+		<pos>51 29.503N 001 53.649W</pos>
+	</col>
+	<col>
+		<trigraph>CLS</trigraph>
+		<fullname>Culmstock</fullname>
+		<alt>320</alt>
+		<pos>50 54.842N 003 16.767W</pos>
+	</col>
+	<col>
+		<trigraph>CLT</trigraph>
+		<fullname>Corran Lighthouse</fullname>
+		<alt>15</alt>
+		<pos>56 43.245N 005 14.547W</pos>
+	</col>
+	<col>
+		<trigraph>CLU</trigraph>
+		<fullname>Clunas</fullname>
+		<alt>771</alt>
+		<pos>57 29.401N 003 53.955W</pos>
+	</col>
+	<col>
+		<trigraph>CLV</trigraph>
+		<fullname>Cleeve Hill</fullname>
+		<alt>1040</alt>
+		<pos>51 56.156N 002 01.320W</pos>
+	</col>
+	<col>
+		<trigraph>CLW</trigraph>
+		<fullname>Carloway</fullname>
+		<alt>30</alt>
+		<pos>58 16.967N 006 46.114W</pos>
+	</col>
+	<col>
+		<trigraph>CLY</trigraph>
+		<fullname>Callaly Castle</fullname>
+		<alt>328</alt>
+		<pos>55 22.970N 001 55.110W</pos>
+	</col>
+	<col>
+		<trigraph>CME</trigraph>
+		<fullname>Cheltenham East</fullname>
+		<alt>180</alt>
+		<pos>51 52.606N 002 01.131W</pos>
+	</col>
+	<col>
+		<trigraph>CML</trigraph>
+		<fullname>Carmodle</fullname>
+		<alt>902</alt>
+		<pos>56 13.810N 003 35.328W</pos>
+	</col>
+	<col>
+		<trigraph>CMN</trigraph>
+		<fullname>Carmarthen</fullname>
+		<alt>282</alt>
+		<pos>51 51.099N 004 18.929W</pos>
+	</col>
+	<col>
+		<trigraph>CMO</trigraph>
+		<fullname>Cockermouth</fullname>
+		<alt>325</alt>
+		<pos>54 38.931N 003 20.542W</pos>
+	</col>
+	<col>
+		<trigraph>CNB</trigraph>
+		<fullname>Caerleon bridge</fullname>
+		<alt>30</alt>
+		<pos>51 36.433N 002 57.159W</pos>
+	</col>
+	<col>
+		<trigraph>CNE</trigraph>
+		<fullname>Canterbury North East</fullname>
+		<alt>282</alt>
+		<pos>51 18.053N 001 07.330E</pos>
+	</col>
+	<col>
+		<trigraph>CNL</trigraph>
+		<fullname>Connel</fullname>
+		<alt>26</alt>
+		<pos>56 27.294N 005 23.461W</pos>
+	</col>
+	<col>
+		<trigraph>CNN</trigraph>
+		<fullname>Corndon Hill</fullname>
+		<alt>1683</alt>
+		<pos>52 33.944N 003 01.518W</pos>
+	</col>
+	<col>
+		<trigraph>CNO</trigraph>
+		<fullname>Carno</fullname>
+		<alt>584</alt>
+		<pos>52 33.971N 003 32.546W</pos>
+	</col>
+	<col>
+		<trigraph>CNR</trigraph>
+		<fullname>Chinnor</fullname>
+		<alt>341</alt>
+		<pos>51 40.344N 000 57.665W</pos>
+	</col>
+	<col>
+		<trigraph>CNW</trigraph>
+		<fullname>Cirencester nw</fullname>
+		<alt>322</alt>
+		<pos>51 44.973N 001 59.902W</pos>
+	</col>
+	<col>
+		<trigraph>CNY</trigraph>
+		<fullname>Conwy Bridge</fullname>
+		<alt>30</alt>
+		<pos>53 16.910N 003 49.251W</pos>
+	</col>
+	<col>
+		<trigraph>COB</trigraph>
+		<fullname>Corby South</fullname>
+		<alt>302</alt>
+		<pos>52 27.584N 000 44.222W</pos>
+	</col>
+	<col>
+		<trigraph>COC</trigraph>
+		<fullname>Colchester</fullname>
+		<alt>167</alt>
+		<pos>51 54.652N 000 57.382E</pos>
+	</col>
+	<col>
+		<trigraph>COD</trigraph>
+		<fullname>Coldstream</fullname>
+		<alt>65</alt>
+		<pos>55 39.236N 002 14.492W</pos>
+	</col>
+	<col>
+		<trigraph>COE</trigraph>
+		<fullname>Corwen NE</fullname>
+		<alt>985</alt>
+		<pos>53 01.000N 003 18.500W</pos>
+	</col>
+	<col>
+		<trigraph>COF</trigraph>
+		<fullname>Crocketford</fullname>
+		<alt>394</alt>
+		<pos>55 02.158N 003 49.738W</pos>
+	</col>
+	<col>
+		<trigraph>COG</trigraph>
+		<fullname>Corby Glen</fullname>
+		<alt>312</alt>
+		<pos>52 48.706N 000 31.123W</pos>
+	</col>
+	<col>
+		<trigraph>COH</trigraph>
+		<fullname>Coldingham</fullname>
+		<alt>245</alt>
+		<pos>55 53.137N 002 09.466W</pos>
+	</col>
+	<col>
+		<trigraph>COK</trigraph>
+		<fullname>Cocking</fullname>
+		<alt>151</alt>
+		<pos>50 57.014N 000 44.969W</pos>
+	</col>
+	<col>
+		<trigraph>COM</trigraph>
+		<fullname>Comrie</fullname>
+		<alt>62</alt>
+		<pos>56 22.418N 003 59.237W</pos>
+	</col>
+	<col>
+		<trigraph>CON</trigraph>
+		<fullname>Condover</fullname>
+		<alt>240</alt>
+		<pos>52 36.712N 002 46.093W</pos>
+	</col>
+	<col>
+		<trigraph>COR</trigraph>
+		<fullname>Corby</fullname>
+		<alt>315</alt>
+		<pos>52 29.368N 000 40.627W</pos>
+	</col>
+	<col>
+		<trigraph>COS</trigraph>
+		<fullname>Cosford Junction</fullname>
+		<alt>253</alt>
+		<pos>52 39.519N 002 17.978W</pos>
+	</col>
+	<col>
+		<trigraph>COT</trigraph>
+		<fullname>Colt Crag Reservoir</fullname>
+		<alt>680</alt>
+		<pos>55 05.832N 002 07.087W</pos>
+	</col>
+	<col>
+		<trigraph>COU</trigraph>
+		<fullname>Coupar Angus</fullname>
+		<alt>131</alt>
+		<pos>56 32.721N 003 16.054W</pos>
+	</col>
+	<col>
+		<trigraph>COW</trigraph>
+		<fullname>Colchester West</fullname>
+		<alt>203</alt>
+		<pos>51 52.875N 000 47.029E</pos>
+	</col>
+	<col>
+		<trigraph>CP1</trigraph>
+		<fullname>Camphill start/finish south</fullname>
+		<alt>787</alt>
+		<pos>53 16.631N 001 43.854W</pos>
+	</col>
+	<col>
+		<trigraph>CP2</trigraph>
+		<fullname>Camphill Chimney</fullname>
+		<alt>600</alt>
+		<pos>53 20.322N 001 45.230W</pos>
+	</col>
+	<col>
+		<trigraph>CPH</trigraph>
+		<fullname>Camphill</fullname>
+		<alt>1350</alt>
+		<pos>53 18.303N 001 43.746W</pos>
+	</col>
+	<col>
+		<trigraph>CPN</trigraph>
+		<fullname>Clapham Reservoir N</fullname>
+		<alt>655</alt>
+		<pos>54 07.424N 002 23.035W</pos>
+	</col>
+	<col>
+		<trigraph>CPS</trigraph>
+		<fullname>Chepstow S</fullname>
+		<alt>114</alt>
+		<pos>51 37.234N 002 40.379W</pos>
+	</col>
+	<col>
+		<trigraph>CPW</trigraph>
+		<fullname>Chippenham W</fullname>
+		<alt>197</alt>
+		<pos>51 26.856N 002 08.978W</pos>
+	</col>
+	<col>
+		<trigraph>CRA</trigraph>
+		<fullname>Cranwell North</fullname>
+		<alt>220</alt>
+		<pos>53 02.218N 000 30.634W</pos>
+	</col>
+	<col>
+		<trigraph>CRB</trigraph>
+		<fullname>Cranbrook</fullname>
+		<alt>190</alt>
+		<pos>51 05.949N 000 31.561E</pos>
+	</col>
+	<col>
+		<trigraph>CRC</trigraph>
+		<fullname>Crick</fullname>
+		<alt>276</alt>
+		<pos>52 21.043N 001 09.277W</pos>
+	</col>
+	<col>
+		<trigraph>CRD</trigraph>
+		<fullname>Cricklade</fullname>
+		<alt>259</alt>
+		<pos>51 38.413N 001 51.448W</pos>
+	</col>
+	<col>
+		<trigraph>CRE</trigraph>
+		<fullname>Crediton Station</fullname>
+		<alt>315</alt>
+		<pos>50 46.990N 003 38.787W</pos>
+	</col>
+	<col>
+		<trigraph>CRF</trigraph>
+		<fullname>Crail</fullname>
+		<alt>108</alt>
+		<pos>56 15.757N 002 37.545W</pos>
+	</col>
+	<col>
+		<trigraph>CRG</trigraph>
+		<fullname>Cerrig</fullname>
+		<alt>121</alt>
+		<pos>53 01.499N 003 33.722W</pos>
+	</col>
+	<col>
+		<trigraph>CRI</trigraph>
+		<fullname>Crianlarich</fullname>
+		<alt>269</alt>
+		<pos>56 23.429N 004 37.115W</pos>
+	</col>
+	<col>
+		<trigraph>CRK</trigraph>
+		<fullname>Crewkerne</fullname>
+		<alt>207</alt>
+		<pos>50 52.435N 002 46.754W</pos>
+	</col>
+	<col>
+		<trigraph>CRL</trigraph>
+		<fullname>Crowland A/f</fullname>
+		<alt>10</alt>
+		<pos>52 42.588N 000 08.400W</pos>
+	</col>
+	<col>
+		<trigraph>CRM</trigraph>
+		<fullname>Crymych Mast</fullname>
+		<alt>1066</alt>
+		<pos>51 56.662N 004 39.659W</pos>
+	</col>
+	<col>
+		<trigraph>CRN</trigraph>
+		<fullname>Crinan</fullname>
+		<alt>1</alt>
+		<pos>56 05.499N 005 33.311W</pos>
+	</col>
+	<col>
+		<trigraph>CRO</trigraph>
+		<fullname>Crowland Bridge</fullname>
+		<alt>13</alt>
+		<pos>52 40.773N 000 11.011W</pos>
+	</col>
+	<col>
+		<trigraph>CRP</trigraph>
+		<fullname>Cromer Pier</fullname>
+		<alt>30</alt>
+		<pos>52 55.966N 001 18.051E</pos>
+	</col>
+	<col>
+		<trigraph>CRR</trigraph>
+		<fullname>Carron</fullname>
+		<alt>328</alt>
+		<pos>57 27.263N 003 17.652W</pos>
+	</col>
+	<col>
+		<trigraph>CRW</trigraph>
+		<fullname>Crediton West</fullname>
+		<alt>361</alt>
+		<pos>50 47.318N 003 44.417W</pos>
+	</col>
+	<col>
+		<trigraph>CRY</trigraph>
+		<fullname>Cray Reservoir</fullname>
+		<alt>817</alt>
+		<pos>51 53.130N 003 37.523W</pos>
+	</col>
+	<col>
+		<trigraph>CSD</trigraph>
+		<fullname>Chirnside</fullname>
+		<alt>292</alt>
+		<pos>55 48.050N 002 13.144W</pos>
+	</col>
+	<col>
+		<trigraph>CSE</trigraph>
+		<fullname>Canterbury South East</fullname>
+		<alt>282</alt>
+		<pos>51 15.304N 001 06.791E</pos>
+	</col>
+	<col>
+		<trigraph>CSF</trigraph>
+		<fullname>Cosford Airfield</fullname>
+		<alt>271</alt>
+		<pos>52 38.250N 002 18.741W</pos>
+	</col>
+	<col>
+		<trigraph>CSK</trigraph>
+		<fullname>Crask Bridge</fullname>
+		<alt>732</alt>
+		<pos>58 11.092N 004 30.700W</pos>
+	</col>
+	<col>
+		<trigraph>CSN</trigraph>
+		<fullname>Coniston</fullname>
+		<alt>164</alt>
+		<pos>54 22.148N 003 04.552W</pos>
+	</col>
+	<col>
+		<trigraph>CSS</trigraph>
+		<fullname>Cross Hands</fullname>
+		<alt>525</alt>
+		<pos>51 47.809N 004 05.003W</pos>
+	</col>
+	<col>
+		<trigraph>CSW</trigraph>
+		<fullname>Colsterworth</fullname>
+		<alt>262</alt>
+		<pos>52 48.082N 000 36.643W</pos>
+	</col>
+	<col>
+		<trigraph>CTH</trigraph>
+		<fullname>Crathie Bridge</fullname>
+		<alt>885</alt>
+		<pos>57 02.373N 003 13.067W</pos>
+	</col>
+	<col>
+		<trigraph>CTK</trigraph>
+		<fullname>Catterick</fullname>
+		<alt>118</alt>
+		<pos>54 23.166N 001 39.285W</pos>
+	</col>
+	<col>
+		<trigraph>CTP</trigraph>
+		<fullname>Clows Top</fullname>
+		<alt>727</alt>
+		<pos>52 20.640N 002 25.248W</pos>
+	</col>
+	<col>
+		<trigraph>CU2</trigraph>
+		<fullname>Clunbury Hill</fullname>
+		<alt>886</alt>
+		<pos>52 24.907N 002 55.145W</pos>
+	</col>
+	<col>
+		<trigraph>CUL</trigraph>
+		<fullname>Cullompton</fullname>
+		<alt>522</alt>
+		<pos>50 51.652N 003 23.016W</pos>
+	</col>
+	<col>
+		<trigraph>CUN</trigraph>
+		<fullname>Clun</fullname>
+		<alt>525</alt>
+		<pos>52 25.225N 003 01.819W</pos>
+	</col>
+	<col>
+		<trigraph>CUP</trigraph>
+		<fullname>Cupar</fullname>
+		<alt>233</alt>
+		<pos>56 19.159N 003 00.723W</pos>
+	</col>
+	<col>
+		<trigraph>CUR</trigraph>
+		<fullname>Currock Hill</fullname>
+		<alt>800</alt>
+		<pos>54 56.065N 001 50.456W</pos>
+	</col>
+	<col>
+		<trigraph>CVN</trigraph>
+		<fullname>Craven Arms</fullname>
+		<alt>279</alt>
+		<pos>52 26.375N 002 50.229W</pos>
+	</col>
+	<col>
+		<trigraph>CWA</trigraph>
+		<fullname>Chipping Warden</fullname>
+		<alt>256</alt>
+		<pos>52 08.722N 001 16.569W</pos>
+	</col>
+	<col>
+		<trigraph>CWC</trigraph>
+		<fullname>Crowcombe Court</fullname>
+		<alt>482</alt>
+		<pos>51 07.503N 003 13.828W</pos>
+	</col>
+	<col>
+		<trigraph>CWE</trigraph>
+		<fullname>Crewe East</fullname>
+		<alt>295</alt>
+		<pos>53 04.104N 002 20.020W</pos>
+	</col>
+	<col>
+		<trigraph>CWN</trigraph>
+		<fullname>Corwen</fullname>
+		<alt>85</alt>
+		<pos>52 58.776N 003 23.257W</pos>
+	</col>
+	<col>
+		<trigraph>CWS</trigraph>
+		<fullname>Cwmbran SW</fullname>
+		<alt>590</alt>
+		<pos>51 37.142N 003 04.424W</pos>
+	</col>
+	<col>
+		<trigraph>CWT</trigraph>
+		<fullname>Chatsworth</fullname>
+		<alt>394</alt>
+		<pos>53 13.682N 001 36.980W</pos>
+	</col>
+	<col>
+		<trigraph>CWV</trigraph>
+		<fullname>Carsington Water Visitors Centre</fullname>
+		<alt>673</alt>
+		<pos>53 03.661N 001 38.466W</pos>
+	</col>
+	<col>
+		<trigraph>CWW</trigraph>
+		<fullname>Conwy W</fullname>
+		<alt>15</alt>
+		<pos>53 17.354N 003 52.817W</pos>
+	</col>
+	<col>
+		<trigraph>CWY</trigraph>
+		<fullname>Conwy S</fullname>
+		<alt>20</alt>
+		<pos>53 13.750N 003 49.197W</pos>
+	</col>
+	<col>
+		<trigraph>DAL</trigraph>
+		<fullname>Dallachy</fullname>
+		<alt>33</alt>
+		<pos>57 39.437N 003 03.958W</pos>
+	</col>
+	<col>
+		<trigraph>DAM</trigraph>
+		<fullname>Dalmally</fullname>
+		<alt>141</alt>
+		<pos>56 24.050N 004 59.011W</pos>
+	</col>
+	<col>
+		<trigraph>DAN</trigraph>
+		<fullname>Danby</fullname>
+		<alt>475</alt>
+		<pos>54 27.953N 000 54.570W</pos>
+	</col>
+	<col>
+		<trigraph>DAR</trigraph>
+		<fullname>Darlington</fullname>
+		<alt>256</alt>
+		<pos>54 31.405N 001 37.185W</pos>
+	</col>
+	<col>
+		<trigraph>DAW</trigraph>
+		<fullname>Darwell</fullname>
+		<alt>187</alt>
+		<pos>50 57.619N 000 25.349E</pos>
+	</col>
+	<col>
+		<trigraph>DBN</trigraph>
+		<fullname>Dunblane</fullname>
+		<alt>105</alt>
+		<pos>56 11.164N 003 57.958W</pos>
+	</col>
+	<col>
+		<trigraph>DBR</trigraph>
+		<fullname>Devil's Bridge</fullname>
+		<alt>476</alt>
+		<pos>52 22.632N 003 50.979W</pos>
+	</col>
+	<col>
+		<trigraph>DBY</trigraph>
+		<fullname>Diddlebury</fullname>
+		<alt>397</alt>
+		<pos>52 27.852N 002 43.506W</pos>
+	</col>
+	<col>
+		<trigraph>DCT</trigraph>
+		<fullname>Didcot Rail Bridge</fullname>
+		<alt>205</alt>
+		<pos>51 36.918N 001 15.467W</pos>
+	</col>
+	<col>
+		<trigraph>DDK</trigraph>
+		<fullname>Devil's Dyke</fullname>
+		<alt>690</alt>
+		<pos>50 53.130N 000 12.718W</pos>
+	</col>
+	<col>
+		<trigraph>DEA</trigraph>
+		<fullname>Deal</fullname>
+		<alt>30</alt>
+		<pos>51 13.344N 001 23.931E</pos>
+	</col>
+	<col>
+		<trigraph>DED</trigraph>
+		<fullname>Deddington</fullname>
+		<alt>417</alt>
+		<pos>51 58.926N 001 19.383W</pos>
+	</col>
+	<col>
+		<trigraph>DEN</trigraph>
+		<fullname>Denbigh</fullname>
+		<alt>105</alt>
+		<pos>53 11.013N 003 23.831W</pos>
+	</col>
+	<col>
+		<trigraph>DEP</trigraph>
+		<fullname>Depden Water Tower</fullname>
+		<alt>404</alt>
+		<pos>52 11.272N 000 35.122E</pos>
+	</col>
+	<col>
+		<trigraph>DER</trigraph>
+		<fullname>Derwent</fullname>
+		<alt>82</alt>
+		<pos>54 51.622N 001 57.344W</pos>
+	</col>
+	<col>
+		<trigraph>DET</trigraph>
+		<fullname>Detling</fullname>
+		<alt>400</alt>
+		<pos>51 17.647N 000 34.113E</pos>
+	</col>
+	<col>
+		<trigraph>DEV</trigraph>
+		<fullname>Devizes</fullname>
+		<alt>387</alt>
+		<pos>51 21.252N 001 59.076W</pos>
+	</col>
+	<col>
+		<trigraph>DFF</trigraph>
+		<fullname>Duffield</fullname>
+		<alt>194</alt>
+		<pos>53 00.464N 001 32.081W</pos>
+	</col>
+	<col>
+		<trigraph>DFU</trigraph>
+		<fullname>Dalton-in-Furness</fullname>
+		<alt>197</alt>
+		<pos>54 09.800N 003 11.335W</pos>
+	</col>
+	<col>
+		<trigraph>DIN</trigraph>
+		<fullname>Dingwall</fullname>
+		<alt>25</alt>
+		<pos>57 35.889N 004 25.271W</pos>
+	</col>
+	<col>
+		<trigraph>DIS</trigraph>
+		<fullname>Diss</fullname>
+		<alt>171</alt>
+		<pos>52 22.221N 001 07.241E</pos>
+	</col>
+	<col>
+		<trigraph>DIT</trigraph>
+		<fullname>Ditchlingbeacon</fullname>
+		<alt>770</alt>
+		<pos>50 54.049N 000 06.317W</pos>
+	</col>
+	<col>
+		<trigraph>DKD</trigraph>
+		<fullname>Dunkeld</fullname>
+		<alt>197</alt>
+		<pos>56 33.823N 003 35.130W</pos>
+	</col>
+	<col>
+		<trigraph>DKY</trigraph>
+		<fullname>Dunkery Beacon</fullname>
+		<alt>1704</alt>
+		<pos>51 09.767N 003 35.201W</pos>
+	</col>
+	<col>
+		<trigraph>DLB</trigraph>
+		<fullname>Dale Bridge</fullname>
+		<alt>164</alt>
+		<pos>51 43.847N 005 10.221W</pos>
+	</col>
+	<col>
+		<trigraph>DLS</trigraph>
+		<fullname>Dallas</fullname>
+		<alt>325</alt>
+		<pos>57 33.562N 003 27.714W</pos>
+	</col>
+	<col>
+		<trigraph>DLT</trigraph>
+		<fullname>Dalston</fullname>
+		<alt>131</alt>
+		<pos>54 50.873N 002 58.848W</pos>
+	</col>
+	<col>
+		<trigraph>DMN</trigraph>
+		<fullname>Duntulm N</fullname>
+		<alt>384</alt>
+		<pos>57 42.072N 006 20.674W</pos>
+	</col>
+	<col>
+		<trigraph>DNB</trigraph>
+		<fullname>Dunbar SE</fullname>
+		<alt>90</alt>
+		<pos>55 58.941N 002 29.048W</pos>
+	</col>
+	<col>
+		<trigraph>DNE</trigraph>
+		<fullname>Durham Northeast</fullname>
+		<alt>98</alt>
+		<pos>54 47.632N 001 31.733W</pos>
+	</col>
+	<col>
+		<trigraph>DNG</trigraph>
+		<fullname>Dunning</fullname>
+		<alt>144</alt>
+		<pos>56 18.770N 003 35.214W</pos>
+	</col>
+	<col>
+		<trigraph>DNN</trigraph>
+		<fullname>Dunoon</fullname>
+		<alt>49</alt>
+		<pos>55 56.811N 004 55.294W</pos>
+	</col>
+	<col>
+		<trigraph>DNT</trigraph>
+		<fullname>Duntulm</fullname>
+		<alt>20</alt>
+		<pos>57 40.918N 006 20.702W</pos>
+	</col>
+	<col>
+		<trigraph>DNW</trigraph>
+		<fullname>Doncaster Northwest</fullname>
+		<alt>69</alt>
+		<pos>53 34.680N 001 12.749W</pos>
+	</col>
+	<col>
+		<trigraph>DOC</trigraph>
+		<fullname>Docking</fullname>
+		<alt>210</alt>
+		<pos>52 54.066N 000 37.195E</pos>
+	</col>
+	<col>
+		<trigraph>DOG</trigraph>
+		<fullname>Dolgellau</fullname>
+		<alt>66</alt>
+		<pos>52 44.660N 003 52.212W</pos>
+	</col>
+	<col>
+		<trigraph>DOL</trigraph>
+		<fullname>Dollar</fullname>
+		<alt>128</alt>
+		<pos>56 09.727N 003 40.599W</pos>
+	</col>
+	<col>
+		<trigraph>DOR</trigraph>
+		<fullname>Dorchester</fullname>
+		<alt>279</alt>
+		<pos>50 43.235N 002 24.799W</pos>
+	</col>
+	<col>
+		<trigraph>DOU</trigraph>
+		<fullname>Doune</fullname>
+		<alt>46</alt>
+		<pos>56 11.206N 004 03.684W</pos>
+	</col>
+	<col>
+		<trigraph>DOV</trigraph>
+		<fullname>Dover Marina</fullname>
+		<alt>10</alt>
+		<pos>51 07.199N 001 18.554E</pos>
+	</col>
+	<col>
+		<trigraph>DOW</trigraph>
+		<fullname>Downham Market</fullname>
+		<alt>72</alt>
+		<pos>52 36.249N 000 21.906E</pos>
+	</col>
+	<col>
+		<trigraph>DRB</trigraph>
+		<fullname>Droma Bridge</fullname>
+		<alt>575</alt>
+		<pos>57 45.162N 005 00.737W</pos>
+	</col>
+	<col>
+		<trigraph>DRI</trigraph>
+		<fullname>Driffield</fullname>
+		<alt>98</alt>
+		<pos>54 00.534N 000 27.208W</pos>
+	</col>
+	<col>
+		<trigraph>DRL</trigraph>
+		<fullname>Darlton</fullname>
+		<alt>155</alt>
+		<pos>53 14.973N 000 51.218W</pos>
+	</col>
+	<col>
+		<trigraph>DRO</trigraph>
+		<fullname>Droitwich</fullname>
+		<alt>151</alt>
+		<pos>52 17.272N 002 07.210W</pos>
+	</col>
+	<col>
+		<trigraph>DRS</trigraph>
+		<fullname>Denbigh Ridge S</fullname>
+		<alt>1352</alt>
+		<pos>53 03.883N 003 14.447W</pos>
+	</col>
+	<col>
+		<trigraph>DRU</trigraph>
+		<fullname>Drumshade</fullname>
+		<alt>230</alt>
+		<pos>56 38.547N 003 01.613W</pos>
+	</col>
+	<col>
+		<trigraph>DSE</trigraph>
+		<fullname>Daventry SE</fullname>
+		<alt>509</alt>
+		<pos>52 14.823N 001 09.057W</pos>
+	</col>
+	<col>
+		<trigraph>DSW</trigraph>
+		<fullname>Dursley SW</fullname>
+		<alt>540</alt>
+		<pos>51 39.521N 002 22.376W</pos>
+	</col>
+	<col>
+		<trigraph>DTN</trigraph>
+		<fullname>Donington</fullname>
+		<alt>102</alt>
+		<pos>52 54.096N 000 13.060W</pos>
+	</col>
+	<col>
+		<trigraph>DUB</trigraph>
+		<fullname>Dulnain Bridge</fullname>
+		<alt>705</alt>
+		<pos>57 18.213N 003 40.031W</pos>
+	</col>
+	<col>
+		<trigraph>DUC</trigraph>
+		<fullname>Duncton</fullname>
+		<alt>141</alt>
+		<pos>50 56.875N 000 36.960W</pos>
+	</col>
+	<col>
+		<trigraph>DUF</trigraph>
+		<fullname>Dufftown</fullname>
+		<alt>591</alt>
+		<pos>57 26.643N 003 06.954W</pos>
+	</col>
+	<col>
+		<trigraph>DUL</trigraph>
+		<fullname>Dulverton</fullname>
+		<alt>197</alt>
+		<pos>51 02.359N 003 33.177W</pos>
+	</col>
+	<col>
+		<trigraph>DUM</trigraph>
+		<fullname>Dumfries</fullname>
+		<alt>52</alt>
+		<pos>55 05.158N 003 36.638W</pos>
+	</col>
+	<col>
+		<trigraph>DUN</trigraph>
+		<fullname>Dunstable Airfield</fullname>
+		<alt>490</alt>
+		<pos>51 52.304N 000 33.074W</pos>
+	</col>
+	<col>
+		<trigraph>DUR</trigraph>
+		<fullname>Durham</fullname>
+		<alt>415</alt>
+		<pos>54 46.408N 001 34.592W</pos>
+	</col>
+	<col>
+		<trigraph>DUS</trigraph>
+		<fullname>Duns</fullname>
+		<alt>56</alt>
+		<pos>55 46.737N 002 20.717W</pos>
+	</col>
+	<col>
+		<trigraph>DUT</trigraph>
+		<fullname>Dufton</fullname>
+		<alt>607</alt>
+		<pos>54 37.176N 002 28.811W</pos>
+	</col>
+	<col>
+		<trigraph>DUY</trigraph>
+		<fullname>Dursley NW</fullname>
+		<alt>310</alt>
+		<pos>51 41.516N 002 22.766W</pos>
+	</col>
+	<col>
+		<trigraph>DVN</trigraph>
+		<fullname>Daventry N</fullname>
+		<alt>295</alt>
+		<pos>52 16.893N 001 10.086W</pos>
+	</col>
+	<col>
+		<trigraph>DWI</trigraph>
+		<fullname>Dalwhinnie</fullname>
+		<alt>971</alt>
+		<pos>56 55.655N 004 14.922W</pos>
+	</col>
+	<col>
+		<trigraph>DYN</trigraph>
+		<fullname>Danbury N</fullname>
+		<alt>35</alt>
+		<pos>51 44.616N 000 37.044E</pos>
+	</col>
+	<col>
+		<trigraph>DYS</trigraph>
+		<fullname>Dyserth</fullname>
+		<alt>377</alt>
+		<pos>53 17.723N 003 24.647W</pos>
+	</col>
+	<col>
+		<trigraph>EAG</trigraph>
+		<fullname>Eaglescott</fullname>
+		<alt>655</alt>
+		<pos>50 55.639N 003 59.609W</pos>
+	</col>
+	<col>
+		<trigraph>EAR</trigraph>
+		<fullname>Earith</fullname>
+		<alt>46</alt>
+		<pos>52 21.227N 000 02.265E</pos>
+	</col>
+	<col>
+		<trigraph>EAS</trigraph>
+		<fullname>Easterton</fullname>
+		<alt>361</alt>
+		<pos>57 35.226N 003 18.497W</pos>
+	</col>
+	<col>
+		<trigraph>EAT</trigraph>
+		<fullname>Eastgate</fullname>
+		<alt>768</alt>
+		<pos>54 44.639N 002 04.509W</pos>
+	</col>
+	<col>
+		<trigraph>EAW</trigraph>
+		<fullname>Eastwell</fullname>
+		<alt>161</alt>
+		<pos>52 50.727N 000 51.285W</pos>
+	</col>
+	<col>
+		<trigraph>ECN</trigraph>
+		<fullname>Eckford N</fullname>
+		<alt>200</alt>
+		<pos>55 32.294N 002 27.840W</pos>
+	</col>
+	<col>
+		<trigraph>EDG</trigraph>
+		<fullname>Edgehill</fullname>
+		<alt>642</alt>
+		<pos>52 05.097N 001 28.418W</pos>
+	</col>
+	<col>
+		<trigraph>EDW</trigraph>
+		<fullname>Edgehill West</fullname>
+		<alt>262</alt>
+		<pos>52 05.900N 001 33.928W</pos>
+	</col>
+	<col>
+		<trigraph>EDZ</trigraph>
+		<fullname>Edzell</fullname>
+		<alt>72</alt>
+		<pos>56 48.739N 002 36.291W</pos>
+	</col>
+	<col>
+		<trigraph>EGG</trigraph>
+		<fullname>Eggesford N</fullname>
+		<alt>180</alt>
+		<pos>50 54.449N 003 53.663W</pos>
+	</col>
+	<col>
+		<trigraph>ELK</trigraph>
+		<fullname>Elkstone S</fullname>
+		<alt>850</alt>
+		<pos>51 47.740N 002 03.016W</pos>
+	</col>
+	<col>
+		<trigraph>ELL</trigraph>
+		<fullname>Ellesmere</fullname>
+		<alt>240</alt>
+		<pos>52 54.540N 002 53.643W</pos>
+	</col>
+	<col>
+		<trigraph>ELM</trigraph>
+		<fullname>Elmswell W</fullname>
+		<alt>197</alt>
+		<pos>52 13.908N 000 53.491E</pos>
+	</col>
+	<col>
+		<trigraph>ELT</trigraph>
+		<fullname>East Linton</fullname>
+		<alt>115</alt>
+		<pos>55 58.644N 002 40.009W</pos>
+	</col>
+	<col>
+		<trigraph>ELV</trigraph>
+		<fullname>Elvanfoot</fullname>
+		<alt>906</alt>
+		<pos>55 26.296N 003 39.634W</pos>
+	</col>
+	<col>
+		<trigraph>ELY</trigraph>
+		<fullname>Ely</fullname>
+		<alt>79</alt>
+		<pos>52 23.888N 000 15.837E</pos>
+	</col>
+	<col>
+		<trigraph>ENS</trigraph>
+		<fullname>Enstone</fullname>
+		<alt>550</alt>
+		<pos>51 55.755N 001 25.731W</pos>
+	</col>
+	<col>
+		<trigraph>ENW</trigraph>
+		<fullname>Eastbourne NW</fullname>
+		<alt>246</alt>
+		<pos>50 48.253N 000 14.968E</pos>
+	</col>
+	<col>
+		<trigraph>ETC</trigraph>
+		<fullname>Etchingham</fullname>
+		<alt>190</alt>
+		<pos>51 00.609N 000 26.600E</pos>
+	</col>
+	<col>
+		<trigraph>ETL</trigraph>
+		<fullname>Etal</fullname>
+		<alt>138</alt>
+		<pos>55 38.888N 002 06.968W</pos>
+	</col>
+	<col>
+		<trigraph>ETT</trigraph>
+		<fullname>Ettington</fullname>
+		<alt>164</alt>
+		<pos>52 08.483N 001 36.843W</pos>
+	</col>
+	<col>
+		<trigraph>EVE</trigraph>
+		<fullname>Evesham</fullname>
+		<alt>98</alt>
+		<pos>52 05.893N 001 56.757W</pos>
+	</col>
+	<col>
+		<trigraph>EWW</trigraph>
+		<fullname>Ennerdale Water W</fullname>
+		<alt>377</alt>
+		<pos>54 31.470N 003 24.627W</pos>
+	</col>
+	<col>
+		<trigraph>EYE</trigraph>
+		<fullname>Eyebrook</fullname>
+		<alt>315</alt>
+		<pos>52 32.336N 000 44.696W</pos>
+	</col>
+	<col>
+		<trigraph>FAK</trigraph>
+		<fullname>Fakenham</fullname>
+		<alt>200</alt>
+		<pos>52 50.372N 000 50.257E</pos>
+	</col>
+	<col>
+		<trigraph>FAL</trigraph>
+		<fullname>Falgunzeon</fullname>
+		<alt>600</alt>
+		<pos>54 56.584N 003 44.445W</pos>
+	</col>
+	<col>
+		<trigraph>FAR</trigraph>
+		<fullname>Faringdon</fullname>
+		<alt>390</alt>
+		<pos>51 38.955N 001 34.519W</pos>
+	</col>
+	<col>
+		<trigraph>FAV</trigraph>
+		<fullname>Faversham</fullname>
+		<alt>315</alt>
+		<pos>51 18.099N 000 55.548E</pos>
+	</col>
+	<col>
+		<trigraph>FAW</trigraph>
+		<fullname>Falkirk West</fullname>
+		<alt>220</alt>
+		<pos>56 00.168N 003 55.003W</pos>
+	</col>
+	<col>
+		<trigraph>FBG</trigraph>
+		<fullname>Fraserburgh</fullname>
+		<alt>164</alt>
+		<pos>57 41.518N 001 59.697W</pos>
+	</col>
+	<col>
+		<trigraph>FBR</trigraph>
+		<fullname>Fontburn Reservoir</fullname>
+		<alt>604</alt>
+		<pos>55 14.199N 001 55.486W</pos>
+	</col>
+	<col>
+		<trigraph>FE1</trigraph>
+		<fullname>Feshie Airstrip</fullname>
+		<alt>860</alt>
+		<pos>57 06.113N 003 53.504W</pos>
+	</col>
+	<col>
+		<trigraph>FE2</trigraph>
+		<fullname>Feshie Start N</fullname>
+		<alt>1175</alt>
+		<pos>57 09.422N 003 51.470W</pos>
+	</col>
+	<col>
+		<trigraph>FE3</trigraph>
+		<fullname>Feshie Descent Point</fullname>
+		<alt>715</alt>
+		<pos>57 06.884N 003 56.020W</pos>
+	</col>
+	<col>
+		<trigraph>FE5</trigraph>
+		<fullname>Feshie S</fullname>
+		<alt>2493</alt>
+		<pos>57 00.003N 003 52.551W</pos>
+	</col>
+	<col>
+		<trigraph>FEA</trigraph>
+		<fullname>Fearnan</fullname>
+		<alt>356</alt>
+		<pos>56 34.438N 004 05.034W</pos>
+	</col>
+	<col>
+		<trigraph>FEN</trigraph>
+		<fullname>Fenny Compton</fullname>
+		<alt>240</alt>
+		<pos>52 09.998N 001 21.855W</pos>
+	</col>
+	<col>
+		<trigraph>FER</trigraph>
+		<fullname>Ferness</fullname>
+		<alt>820</alt>
+		<pos>57 29.659N 003 44.247W</pos>
+	</col>
+	<col>
+		<trigraph>FES</trigraph>
+		<fullname>Feshiebridge</fullname>
+		<alt>860</alt>
+		<pos>57 06.100N 003 53.671W</pos>
+	</col>
+	<col>
+		<trigraph>FET</trigraph>
+		<fullname>Fettercairn</fullname>
+		<alt>394</alt>
+		<pos>56 51.093N 002 34.499W</pos>
+	</col>
+	<col>
+		<trigraph>FEX</trigraph>
+		<fullname>Felixstowe Pier</fullname>
+		<alt>20</alt>
+		<pos>51 57.476N 001 20.768E</pos>
+	</col>
+	<col>
+		<trigraph>FFD</trigraph>
+		<fullname>Farnsfield</fullname>
+		<alt>180</alt>
+		<pos>53 06.433N 001 02.019W</pos>
+	</col>
+	<col>
+		<trigraph>FFI</trigraph>
+		<fullname>Fforest Inn</fullname>
+		<alt>1153</alt>
+		<pos>52 13.108N 003 12.925W</pos>
+	</col>
+	<col>
+		<trigraph>FFR</trigraph>
+		<fullname>Forfar</fullname>
+		<alt>230</alt>
+		<pos>56 38.757N 002 54.016W</pos>
+	</col>
+	<col>
+		<trigraph>FHI</trigraph>
+		<fullname>Fan Hir</fullname>
+		<alt>2631</alt>
+		<pos>51 52.943N 003 42.488W</pos>
+	</col>
+	<col>
+		<trigraph>FHP</trigraph>
+		<fullname>Fownhope</fullname>
+		<alt>175</alt>
+		<pos>52 00.468N 002 36.966W</pos>
+	</col>
+	<col>
+		<trigraph>FIB</trigraph>
+		<fullname>Firle Beacon</fullname>
+		<alt>712</alt>
+		<pos>50 50.025N 000 06.498E</pos>
+	</col>
+	<col>
+		<trigraph>FIL</trigraph>
+		<fullname>Filey</fullname>
+		<alt>138</alt>
+		<pos>54 11.508N 000 17.979W</pos>
+	</col>
+	<col>
+		<trigraph>FIM</trigraph>
+		<fullname>Finmere</fullname>
+		<alt>390</alt>
+		<pos>51 59.318N 001 04.164W</pos>
+	</col>
+	<col>
+		<trigraph>FIN</trigraph>
+		<fullname>Finavon</fullname>
+		<alt>131</alt>
+		<pos>56 42.318N 002 49.643W</pos>
+	</col>
+	<col>
+		<trigraph>FIS</trigraph>
+		<fullname>Fishguard</fullname>
+		<alt>295</alt>
+		<pos>51 59.198N 004 59.391W</pos>
+	</col>
+	<col>
+		<trigraph>FLA</trigraph>
+		<fullname>Flamborough</fullname>
+		<alt>135</alt>
+		<pos>54 06.982N 000 04.963W</pos>
+	</col>
+	<col>
+		<trigraph>FMA</trigraph>
+		<fullname>Four Marks</fullname>
+		<alt>640</alt>
+		<pos>51 06.819N 001 02.825W</pos>
+	</col>
+	<col>
+		<trigraph>FNE</trigraph>
+		<fullname>Fort William NE</fullname>
+		<alt>66</alt>
+		<pos>56 52.561N 005 02.933W</pos>
+	</col>
+	<col>
+		<trigraph>FNW</trigraph>
+		<fullname>Falmouth NW</fullname>
+		<alt>180</alt>
+		<pos>50 09.752N 005 05.980W</pos>
+	</col>
+	<col>
+		<trigraph>FOA</trigraph>
+		<fullname>Fort Augustus</fullname>
+		<alt>817</alt>
+		<pos>57 08.761N 004 40.525W</pos>
+	</col>
+	<col>
+		<trigraph>FOD</trigraph>
+		<fullname>Fordoun</fullname>
+		<alt>205</alt>
+		<pos>56 52.182N 002 24.742W</pos>
+	</col>
+	<col>
+		<trigraph>FOL</trigraph>
+		<fullname>Folkestone</fullname>
+		<alt>246</alt>
+		<pos>51 05.723N 001 02.967E</pos>
+	</col>
+	<col>
+		<trigraph>FOR</trigraph>
+		<fullname>Fordingbridge</fullname>
+		<alt>194</alt>
+		<pos>50 55.709N 001 47.191W</pos>
+	</col>
+	<col>
+		<trigraph>FOS</trigraph>
+		<fullname>Foston</fullname>
+		<alt>128</alt>
+		<pos>54 04.221N 000 55.239W</pos>
+	</col>
+	<col>
+		<trigraph>FOV</trigraph>
+		<fullname>Fovant</fullname>
+		<alt>351</alt>
+		<pos>51 03.156N 001 59.938W</pos>
+	</col>
+	<col>
+		<trigraph>FRE</trigraph>
+		<fullname>Freuchie</fullname>
+		<alt>345</alt>
+		<pos>56 14.016N 003 09.356W</pos>
+	</col>
+	<col>
+		<trigraph>FRI</trigraph>
+		<fullname>Fridaythorpe</fullname>
+		<alt>102</alt>
+		<pos>54 01.218N 000 39.720W</pos>
+	</col>
+	<col>
+		<trigraph>FRO</trigraph>
+		<fullname>Frome</fullname>
+		<alt>240</alt>
+		<pos>51 13.699N 002 19.348W</pos>
+	</col>
+	<col>
+		<trigraph>FRW</trigraph>
+		<fullname>Framlingham</fullname>
+		<alt>148</alt>
+		<pos>52 13.906N 001 17.897E</pos>
+	</col>
+	<col>
+		<trigraph>FTW</trigraph>
+		<fullname>Fort William</fullname>
+		<alt>33</alt>
+		<pos>56 49.566N 005 05.207W</pos>
+	</col>
+	<col>
+		<trigraph>GA2</trigraph>
+		<fullname>Gainsborough Power Station</fullname>
+		<alt>665</alt>
+		<pos>53 21.783N 000 48.645W</pos>
+	</col>
+	<col>
+		<trigraph>GAA</trigraph>
+		<fullname>Galashiels</fullname>
+		<alt>30</alt>
+		<pos>55 36.207N 002 46.803W</pos>
+	</col>
+	<col>
+		<trigraph>GAB</trigraph>
+		<fullname>Garboldisham</fullname>
+		<alt>161</alt>
+		<pos>52 23.713N 000 56.815E</pos>
+	</col>
+	<col>
+		<trigraph>GAF</trigraph>
+		<fullname>Garforth</fullname>
+		<alt>75</alt>
+		<pos>53 47.818N 001 22.979W</pos>
+	</col>
+	<col>
+		<trigraph>GAG</trigraph>
+		<fullname>Gargrave West</fullname>
+		<alt>490</alt>
+		<pos>53 59.492N 002 08.243W</pos>
+	</col>
+	<col>
+		<trigraph>GAI</trigraph>
+		<fullname>Gainsborough</fullname>
+		<alt>56</alt>
+		<pos>53 23.523N 000 46.628W</pos>
+	</col>
+	<col>
+		<trigraph>GAL</trigraph>
+		<fullname>Gallowfauld</fullname>
+		<alt>394</alt>
+		<pos>56 32.907N 002 56.356W</pos>
+	</col>
+	<col>
+		<trigraph>GAR</trigraph>
+		<fullname>Garten</fullname>
+		<alt>623</alt>
+		<pos>57 14.898N 003 45.152W</pos>
+	</col>
+	<col>
+		<trigraph>GAT</trigraph>
+		<fullname>Gateshead East</fullname>
+		<alt>138</alt>
+		<pos>54 56.752N 001 30.933W</pos>
+	</col>
+	<col>
+		<trigraph>GAY</trigraph>
+		<fullname>Gaydon</fullname>
+		<alt>203</alt>
+		<pos>52 11.559N 001 27.538W</pos>
+	</col>
+	<col>
+		<trigraph>GBB</trigraph>
+		<fullname>Gribbin Head</fullname>
+		<alt>213</alt>
+		<pos>50 19.017N 004 40.383W</pos>
+	</col>
+	<col>
+		<trigraph>GBE</trigraph>
+		<fullname>Great Bedwyn</fullname>
+		<alt>394</alt>
+		<pos>51 22.711N 001 35.916W</pos>
+	</col>
+	<col>
+		<trigraph>GBR</trigraph>
+		<fullname>Glasbury Bridge</fullname>
+		<alt>262</alt>
+		<pos>52 02.731N 003 11.840W</pos>
+	</col>
+	<col>
+		<trigraph>GCB</trigraph>
+		<fullname>Gloucester Canal Bridge</fullname>
+		<alt>36</alt>
+		<pos>51 51.522N 002 15.354W</pos>
+	</col>
+	<col>
+		<trigraph>GDB</trigraph>
+		<fullname>Glen Dee Bridge</fullname>
+		<alt>1339</alt>
+		<pos>56 58.583N 003 36.931W</pos>
+	</col>
+	<col>
+		<trigraph>GDE</trigraph>
+		<fullname>Glyndebourne</fullname>
+		<alt>131</alt>
+		<pos>50 52.681N 000 03.701E</pos>
+	</col>
+	<col>
+		<trigraph>GDF</trigraph>
+		<fullname>Great Dun Fell</fullname>
+		<alt>2780</alt>
+		<pos>54 41.048N 002 27.052W</pos>
+	</col>
+	<col>
+		<trigraph>GDN</trigraph>
+		<fullname>Gordon</fullname>
+		<alt>540</alt>
+		<pos>55 40.810N 002 33.738W</pos>
+	</col>
+	<col>
+		<trigraph>GES</trigraph>
+		<fullname>Gretna Services</fullname>
+		<alt>131</alt>
+		<pos>55 00.594N 003 05.268W</pos>
+	</col>
+	<col>
+		<trigraph>GFD</trigraph>
+		<fullname>Glenfiddich Lodge</fullname>
+		<alt>1017</alt>
+		<pos>57 22.921N 003 08.487W</pos>
+	</col>
+	<col>
+		<trigraph>GFG</trigraph>
+		<fullname>Glenfarg Reservoir E</fullname>
+		<alt>623</alt>
+		<pos>56 16.884N 003 26.376W</pos>
+	</col>
+	<col>
+		<trigraph>GFL</trigraph>
+		<fullname>Glen Falloch</fullname>
+		<alt>85</alt>
+		<pos>56 20.417N 004 43.230W</pos>
+	</col>
+	<col>
+		<trigraph>GHD</trigraph>
+		<fullname>Garsdale Head</fullname>
+		<alt>1017</alt>
+		<pos>54 19.686N 002 19.116W</pos>
+	</col>
+	<col>
+		<trigraph>GIL</trigraph>
+		<fullname>Gillingham</fullname>
+		<alt>249</alt>
+		<pos>51 02.101N 002 16.127W</pos>
+	</col>
+	<col>
+		<trigraph>GIO</trigraph>
+		<fullname>Giosla</fullname>
+		<alt>30</alt>
+		<pos>58 07.677N 006 52.683W</pos>
+	</col>
+	<col>
+		<trigraph>GIS</trigraph>
+		<fullname>Gisburn</fullname>
+		<alt>490</alt>
+		<pos>53 56.336N 002 15.572W</pos>
+	</col>
+	<col>
+		<trigraph>GLA</trigraph>
+		<fullname>Glastonbury</fullname>
+		<alt>187</alt>
+		<pos>51 08.885N 002 42.741W</pos>
+	</col>
+	<col>
+		<trigraph>GLB</trigraph>
+		<fullname>Gelt Bridge</fullname>
+		<alt>360</alt>
+		<pos>54 54.500N 002 43.851W</pos>
+	</col>
+	<col>
+		<trigraph>GLE</trigraph>
+		<fullname>Glendevon</fullname>
+		<alt>138</alt>
+		<pos>56 13.849N 003 39.172W</pos>
+	</col>
+	<col>
+		<trigraph>GLF</trigraph>
+		<fullname>Glenforsa</fullname>
+		<alt>39</alt>
+		<pos>56 30.921N 005 54.903W</pos>
+	</col>
+	<col>
+		<trigraph>GLN</trigraph>
+		<fullname>Gleneagles</fullname>
+		<alt>115</alt>
+		<pos>56 16.966N 003 45.064W</pos>
+	</col>
+	<col>
+		<trigraph>GLS</trigraph>
+		<fullname>Gloucester South</fullname>
+		<alt>112</alt>
+		<pos>51 48.251N 002 15.887W</pos>
+	</col>
+	<col>
+		<trigraph>GLT</trigraph>
+		<fullname>Glenlatterach Dam N</fullname>
+		<alt>689</alt>
+		<pos>57 33.713N 003 20.880W</pos>
+	</col>
+	<col>
+		<trigraph>GLY</trigraph>
+		<fullname>Gairlochy</fullname>
+		<alt>522</alt>
+		<pos>56 55.028N 004 59.249W</pos>
+	</col>
+	<col>
+		<trigraph>GNS</trigraph>
+		<fullname>Grains</fullname>
+		<alt>1171</alt>
+		<pos>54 34.908N 002 12.391W</pos>
+	</col>
+	<col>
+		<trigraph>GO2</trigraph>
+		<fullname>Goole N</fullname>
+		<alt>30</alt>
+		<pos>53 44.056N 000 51.971W</pos>
+	</col>
+	<col>
+		<trigraph>GOO</trigraph>
+		<fullname>Goole NE</fullname>
+		<alt>16</alt>
+		<pos>53 45.201N 000 46.309W</pos>
+	</col>
+	<col>
+		<trigraph>GOR</trigraph>
+		<fullname>Goring</fullname>
+		<alt>226</alt>
+		<pos>51 30.698N 001 07.680W</pos>
+	</col>
+	<col>
+		<trigraph>GPN</trigraph>
+		<fullname>Great Ponton</fullname>
+		<alt>272</alt>
+		<pos>52 51.762N 000 37.768W</pos>
+	</col>
+	<col>
+		<trigraph>GR1</trigraph>
+		<fullname>Gransden NW</fullname>
+		<alt>254</alt>
+		<pos>52 11.087N 000 07.328W</pos>
+	</col>
+	<col>
+		<trigraph>GRA</trigraph>
+		<fullname>Grantham</fullname>
+		<alt>210</alt>
+		<pos>52 53.844N 000 39.875W</pos>
+	</col>
+	<col>
+		<trigraph>GRC</trigraph>
+		<fullname>Grasmere Church</fullname>
+		<alt>197</alt>
+		<pos>54 27.454N 003 01.423W</pos>
+	</col>
+	<col>
+		<trigraph>GRF</trigraph>
+		<fullname>Great Ashfield</fullname>
+		<alt>200</alt>
+		<pos>52 15.425N 000 56.150E</pos>
+	</col>
+	<col>
+		<trigraph>GRI</trigraph>
+		<fullname>Grimwith Reservoir</fullname>
+		<alt>950</alt>
+		<pos>54 04.401N 001 54.423W</pos>
+	</col>
+	<col>
+		<trigraph>GRL</trigraph>
+		<fullname>Gransden Lodge</fullname>
+		<alt>254</alt>
+		<pos>52 11.179N 000 06.674W</pos>
+	</col>
+	<col>
+		<trigraph>GRM</trigraph>
+		<fullname>Great Malvern</fullname>
+		<alt>203</alt>
+		<pos>52 07.502N 002 19.147W</pos>
+	</col>
+	<col>
+		<trigraph>GRN</trigraph>
+		<fullname>Greenlaw</fullname>
+		<alt>486</alt>
+		<pos>55 42.359N 002 27.912W</pos>
+	</col>
+	<col>
+		<trigraph>GRO</trigraph>
+		<fullname>Grosmont</fullname>
+		<alt>420</alt>
+		<pos>51 54.926N 002 51.964W</pos>
+	</col>
+	<col>
+		<trigraph>GRS</trigraph>
+		<fullname>Grassington</fullname>
+		<alt>490</alt>
+		<pos>54 04.231N 002 00.264W</pos>
+	</col>
+	<col>
+		<trigraph>GRT</trigraph>
+		<fullname>Great Rundale Tarn</fullname>
+		<alt>2215</alt>
+		<pos>54 38.911N 002 25.201W</pos>
+	</col>
+	<col>
+		<trigraph>GRW</trigraph>
+		<fullname>Grafham Water</fullname>
+		<alt>200</alt>
+		<pos>52 17.387N 000 17.179W</pos>
+	</col>
+	<col>
+		<trigraph>GSE</trigraph>
+		<fullname>Grantshouse</fullname>
+		<alt>387</alt>
+		<pos>55 52.929N 002 18.344W</pos>
+	</col>
+	<col>
+		<trigraph>GSS</trigraph>
+		<fullname>Glassonby</fullname>
+		<alt>597</alt>
+		<pos>54 44.284N 002 39.119W</pos>
+	</col>
+	<col>
+		<trigraph>GTN</trigraph>
+		<fullname>Grantown</fullname>
+		<alt>591</alt>
+		<pos>57 19.295N 003 36.374W</pos>
+	</col>
+	<col>
+		<trigraph>GTO</trigraph>
+		<fullname>Great Orme</fullname>
+		<alt>679</alt>
+		<pos>53 19.953N 003 51.136W</pos>
+	</col>
+	<col>
+		<trigraph>GTW</trigraph>
+		<fullname>Great Witley</fullname>
+		<alt>210</alt>
+		<pos>52 17.340N 002 21.417W</pos>
+	</col>
+	<col>
+		<trigraph>GUI</trigraph>
+		<fullname>Guisborough</fullname>
+		<alt>233</alt>
+		<pos>54 32.712N 001 02.522W</pos>
+	</col>
+	<col>
+		<trigraph>GUW</trigraph>
+		<fullname>Guisborough SW</fullname>
+		<alt>1050</alt>
+		<pos>54 30.317N 001 06.442W</pos>
+	</col>
+	<col>
+		<trigraph>GVE</trigraph>
+		<fullname>Garve</fullname>
+		<alt>260</alt>
+		<pos>57 36.890N 004 41.362W</pos>
+	</col>
+	<col>
+		<trigraph>GWD</trigraph>
+		<fullname>Goodwood Grandstand</fullname>
+		<alt>510</alt>
+		<pos>50 53.516N 000 44.815W</pos>
+	</col>
+	<col>
+		<trigraph>GYS</trigraph>
+		<fullname>Great Yarmouth S</fullname>
+		<alt>30</alt>
+		<pos>52 34.453N 001 43.320E</pos>
+	</col>
+	<col>
+		<trigraph>HA2</trigraph>
+		<fullname>Halton West</fullname>
+		<alt>282</alt>
+		<pos>51 47.183N 000 50.250W</pos>
+	</col>
+	<col>
+		<trigraph>HAB</trigraph>
+		<fullname>Hay Bluff</fullname>
+		<alt>2220</alt>
+		<pos>52 01.360N 003 06.165W</pos>
+	</col>
+	<col>
+		<trigraph>HAD</trigraph>
+		<fullname>Halesland</fullname>
+		<alt>870</alt>
+		<pos>51 15.607N 002 43.765W</pos>
+	</col>
+	<col>
+		<trigraph>HAE</trigraph>
+		<fullname>Halesworth</fullname>
+		<alt>108</alt>
+		<pos>52 20.900N 001 30.270E</pos>
+	</col>
+	<col>
+		<trigraph>HAI</trigraph>
+		<fullname>Hailsham</fullname>
+		<alt>115</alt>
+		<pos>50 52.736N 000 13.930E</pos>
+	</col>
+	<col>
+		<trigraph>HAK</trigraph>
+		<fullname>Hawick</fullname>
+		<alt>36</alt>
+		<pos>55 26.114N 002 45.153W</pos>
+	</col>
+	<col>
+		<trigraph>HAL</trigraph>
+		<fullname>Halton</fullname>
+		<alt>370</alt>
+		<pos>51 47.215N 000 44.198W</pos>
+	</col>
+	<col>
+		<trigraph>HAN</trigraph>
+		<fullname>Harrogate North</fullname>
+		<alt>85</alt>
+		<pos>54 02.216N 001 33.888W</pos>
+	</col>
+	<col>
+		<trigraph>HAR</trigraph>
+		<fullname>Harting</fullname>
+		<alt>230</alt>
+		<pos>50 58.132N 000 53.099W</pos>
+	</col>
+	<col>
+		<trigraph>HAS</trigraph>
+		<fullname>Hastings</fullname>
+		<alt>157</alt>
+		<pos>50 53.418N 000 33.279E</pos>
+	</col>
+	<col>
+		<trigraph>HAT</trigraph>
+		<fullname>Hatherleigh</fullname>
+		<alt>322</alt>
+		<pos>50 49.123N 004 04.417W</pos>
+	</col>
+	<col>
+		<trigraph>HAV</trigraph>
+		<fullname>Haverhill</fullname>
+		<alt>174</alt>
+		<pos>52 05.078N 000 26.225E</pos>
+	</col>
+	<col>
+		<trigraph>HAW</trigraph>
+		<fullname>Hawkhurst</fullname>
+		<alt>203</alt>
+		<pos>51 02.835N 000 30.569E</pos>
+	</col>
+	<col>
+		<trigraph>HAY</trigraph>
+		<fullname>Hay-on-wye</fullname>
+		<alt>295</alt>
+		<pos>52 04.577N 003 07.663W</pos>
+	</col>
+	<col>
+		<trigraph>HB1</trigraph>
+		<fullname>HB start west</fullname>
+		<alt>394</alt>
+		<pos>52 25.895N 001 06.757W</pos>
+	</col>
+	<col>
+		<trigraph>HB2</trigraph>
+		<fullname>HB start north</fullname>
+		<alt>525</alt>
+		<pos>52 29.173N 001 01.725W</pos>
+	</col>
+	<col>
+		<trigraph>HB3</trigraph>
+		<fullname>HB start east</fullname>
+		<alt>410</alt>
+		<pos>52 25.644N 000 57.108W</pos>
+	</col>
+	<col>
+		<trigraph>HB4</trigraph>
+		<fullname>HB East</fullname>
+		<alt>505</alt>
+		<pos>52 26.393N 001 02.023W</pos>
+	</col>
+	<col>
+		<trigraph>HB5</trigraph>
+		<fullname>HB control point east</fullname>
+		<alt>404</alt>
+		<pos>52 26.317N 000 53.411W</pos>
+	</col>
+	<col>
+		<trigraph>HB7</trigraph>
+		<fullname>HB Finish West</fullname>
+		<alt>505</alt>
+		<pos>52 26.362N 001 03.110W</pos>
+	</col>
+	<col>
+		<trigraph>HBR</trigraph>
+		<fullname>Haydon Bridge</fullname>
+		<alt>69</alt>
+		<pos>54 58.407N 002 14.761W</pos>
+	</col>
+	<col>
+		<trigraph>HCX</trigraph>
+		<fullname>Herstmonceux</fullname>
+		<alt>151</alt>
+		<pos>50 52.163N 000 20.333E</pos>
+	</col>
+	<col>
+		<trigraph>HDD</trigraph>
+		<fullname>Haddington</fullname>
+		<alt>164</alt>
+		<pos>55 57.644N 002 47.416W</pos>
+	</col>
+	<col>
+		<trigraph>HDL</trigraph>
+		<fullname>Helmsdale</fullname>
+		<alt>30</alt>
+		<pos>58 06.987N 003 39.030W</pos>
+	</col>
+	<col>
+		<trigraph>HDW</trigraph>
+		<fullname>Hardwick</fullname>
+		<alt>207</alt>
+		<pos>52 13.216N 000 00.022E</pos>
+	</col>
+	<col>
+		<trigraph>HEC</trigraph>
+		<fullname>Hereford Cathedral</fullname>
+		<alt>161</alt>
+		<pos>52 03.249N 002 42.944W</pos>
+	</col>
+	<col>
+		<trigraph>HEE</trigraph>
+		<fullname>Heathfield E</fullname>
+		<alt>395</alt>
+		<pos>50 58.410N 000 16.048E</pos>
+	</col>
+	<col>
+		<trigraph>HEL</trigraph>
+		<fullname>Helensburgh</fullname>
+		<alt>49</alt>
+		<pos>56 00.085N 004 44.242W</pos>
+	</col>
+	<col>
+		<trigraph>HER</trigraph>
+		<fullname>Hereford Racecourse</fullname>
+		<alt>200</alt>
+		<pos>52 04.514N 002 43.323W</pos>
+	</col>
+	<col>
+		<trigraph>HES</trigraph>
+		<fullname>Henstridge</fullname>
+		<alt>180</alt>
+		<pos>50 58.772N 002 23.877W</pos>
+	</col>
+	<col>
+		<trigraph>HEU</trigraph>
+		<fullname>Heugh Head</fullname>
+		<alt>1148</alt>
+		<pos>57 11.821N 003 01.055W</pos>
+	</col>
+	<col>
+		<trigraph>HEX</trigraph>
+		<fullname>Hexham</fullname>
+		<alt>69</alt>
+		<pos>54 59.038N 002 07.489W</pos>
+	</col>
+	<col>
+		<trigraph>HGM</trigraph>
+		<fullname>Highham</fullname>
+		<alt>215</alt>
+		<pos>52 16.005N 000 33.755E</pos>
+	</col>
+	<col>
+		<trigraph>HHL</trigraph>
+		<fullname>Hembury Hill</fullname>
+		<alt>690</alt>
+		<pos>50 49.139N 003 15.874W</pos>
+	</col>
+	<col>
+		<trigraph>HI1</trigraph>
+		<fullname>Hinton Start W</fullname>
+		<alt>279</alt>
+		<pos>52 01.278N 001 16.611W</pos>
+	</col>
+	<col>
+		<trigraph>HIC</trigraph>
+		<fullname>Hinckley</fullname>
+		<alt>299</alt>
+		<pos>52 30.900N 001 21.687W</pos>
+	</col>
+	<col>
+		<trigraph>HIN</trigraph>
+		<fullname>Hinton in the Hedges</fullname>
+		<alt>500</alt>
+		<pos>52 01.598N 001 11.961W</pos>
+	</col>
+	<col>
+		<trigraph>HLH</trigraph>
+		<fullname>Hunstanton Lighthouse</fullname>
+		<alt>10</alt>
+		<pos>52 56.953N 000 29.584E</pos>
+	</col>
+	<col>
+		<trigraph>HLM</trigraph>
+		<fullname>Helmsley</fullname>
+		<alt>118</alt>
+		<pos>54 14.639N 001 03.521W</pos>
+	</col>
+	<col>
+		<trigraph>HLS</trigraph>
+		<fullname>Harlech South</fullname>
+		<alt>33</alt>
+		<pos>52 50.190N 004 07.430W</pos>
+	</col>
+	<col>
+		<trigraph>HNN</trigraph>
+		<fullname>Hungerford North</fullname>
+		<alt>509</alt>
+		<pos>51 27.172N 001 28.972W</pos>
+	</col>
+	<col>
+		<trigraph>HNT</trigraph>
+		<fullname>Huntercombe</fullname>
+		<alt>675</alt>
+		<pos>51 35.187N 001 01.028W</pos>
+	</col>
+	<col>
+		<trigraph>HOL</trigraph>
+		<fullname>Holsworthy</fullname>
+		<alt>417</alt>
+		<pos>50 48.404N 004 20.984W</pos>
+	</col>
+	<col>
+		<trigraph>HON</trigraph>
+		<fullname>Honeybourne</fullname>
+		<alt>171</alt>
+		<pos>52 06.090N 001 49.983W</pos>
+	</col>
+	<col>
+		<trigraph>HOR</trigraph>
+		<fullname>Horncastle</fullname>
+		<alt>56</alt>
+		<pos>53 12.460N 000 06.891W</pos>
+	</col>
+	<col>
+		<trigraph>HOT</trigraph>
+		<fullname>Hesket Old Town</fullname>
+		<alt>446</alt>
+		<pos>54 47.071N 002 48.641W</pos>
+	</col>
+	<col>
+		<trigraph>HOW</trigraph>
+		<fullname>Howden Dam</fullname>
+		<alt>1050</alt>
+		<pos>53 25.684N 001 44.697W</pos>
+	</col>
+	<col>
+		<trigraph>HPY</trigraph>
+		<fullname>Harpley</fullname>
+		<alt>256</alt>
+		<pos>52 48.209N 000 38.766E</pos>
+	</col>
+	<col>
+		<trigraph>HRM</trigraph>
+		<fullname>Horam</fullname>
+		<alt>244</alt>
+		<pos>50 56.047N 000 14.600E</pos>
+	</col>
+	<col>
+		<trigraph>HRR</trigraph>
+		<fullname>Harrietsham</fullname>
+		<alt>371</alt>
+		<pos>51 14.527N 000 40.860E</pos>
+	</col>
+	<col>
+		<trigraph>HRT</trigraph>
+		<fullname>Hartside Top</fullname>
+		<alt>1886</alt>
+		<pos>54 46.184N 002 33.088W</pos>
+	</col>
+	<col>
+		<trigraph>HSE</trigraph>
+		<fullname>Hawes</fullname>
+		<alt>62</alt>
+		<pos>54 18.246N 002 12.224W</pos>
+	</col>
+	<col>
+		<trigraph>HSG</trigraph>
+		<fullname>Hathersage</fullname>
+		<alt>443</alt>
+		<pos>53 19.304N 001 39.092W</pos>
+	</col>
+	<col>
+		<trigraph>HSM</trigraph>
+		<fullname>Hornsea Mere</fullname>
+		<alt>23</alt>
+		<pos>53 54.680N 000 10.509W</pos>
+	</col>
+	<col>
+		<trigraph>HTN</trigraph>
+		<fullname>Honington Airfield</fullname>
+		<alt>175</alt>
+		<pos>52 20.493N 000 46.742E</pos>
+	</col>
+	<col>
+		<trigraph>HTY</trigraph>
+		<fullname>Huntly</fullname>
+		<alt>492</alt>
+		<pos>57 26.481N 002 47.707W</pos>
+	</col>
+	<col>
+		<trigraph>HUD</trigraph>
+		<fullname>Hope Under Dinmore</fullname>
+		<alt>314</alt>
+		<pos>52 09.888N 002 43.386W</pos>
+	</col>
+	<col>
+		<trigraph>HUL</trigraph>
+		<fullname>Hullavington M4/J17</fullname>
+		<alt>300</alt>
+		<pos>51 30.900N 002 07.300W</pos>
+	</col>
+	<col>
+		<trigraph>HUM</trigraph>
+		<fullname>Humber Bridge</fullname>
+		<alt>546</alt>
+		<pos>53 41.994N 000 26.953W</pos>
+	</col>
+	<col>
+		<trigraph>HUN</trigraph>
+		<fullname>Hungerford</fullname>
+		<alt>331</alt>
+		<pos>51 24.914N 001 30.939W</pos>
+	</col>
+	<col>
+		<trigraph>HUR</trigraph>
+		<fullname>Hurstbourne Tarrant</fullname>
+		<alt>341</alt>
+		<pos>51 16.568N 001 27.182W</pos>
+	</col>
+	<col>
+		<trigraph>HUS</trigraph>
+		<fullname>Husbands Bosworth</fullname>
+		<alt>505</alt>
+		<pos>52 26.442N 001 02.818W</pos>
+	</col>
+	<col>
+		<trigraph>HVS</trigraph>
+		<fullname>Havant S</fullname>
+		<alt>10</alt>
+		<pos>50 49.899N 000 58.661W</pos>
+	</col>
+	<col>
+		<trigraph>HVT</trigraph>
+		<fullname>Havant NW</fullname>
+		<alt>194</alt>
+		<pos>50 52.563N 001 00.797W</pos>
+	</col>
+	<col>
+		<trigraph>HVW</trigraph>
+		<fullname>Haverfordwest</fullname>
+		<alt>45</alt>
+		<pos>51 47.483N 004 58.727W</pos>
+	</col>
+	<col>
+		<trigraph>HWB</trigraph>
+		<fullname>Halfway Bridge</fullname>
+		<alt>105</alt>
+		<pos>50 59.313N 000 40.690W</pos>
+	</col>
+	<col>
+		<trigraph>HWH</trigraph>
+		<fullname>Halfway House</fullname>
+		<alt>220</alt>
+		<pos>52 41.543N 002 58.145W</pos>
+	</col>
+	<col>
+		<trigraph>HWL</trigraph>
+		<fullname>Haltwistle</fullname>
+		<alt>350</alt>
+		<pos>54 57.948N 002 27.109W</pos>
+	</col>
+	<col>
+		<trigraph>HYE</trigraph>
+		<fullname>Hay East</fullname>
+		<alt>328</alt>
+		<pos>52 06.175N 003 01.037W</pos>
+	</col>
+	<col>
+		<trigraph>ILS</trigraph>
+		<fullname>Ilsley</fullname>
+		<alt>390</alt>
+		<pos>51 31.503N 001 17.455W</pos>
+	</col>
+	<col>
+		<trigraph>INC</trigraph>
+		<fullname>Insch</fullname>
+		<alt>499</alt>
+		<pos>57 20.267N 002 37.087W</pos>
+	</col>
+	<col>
+		<trigraph>ING</trigraph>
+		<fullname>Ingleton</fullname>
+		<alt>360</alt>
+		<pos>54 08.973N 002 28.659W</pos>
+	</col>
+	<col>
+		<trigraph>INK</trigraph>
+		<fullname>Inchkinloch</fullname>
+		<alt>377</alt>
+		<pos>58 21.858N 004 23.874W</pos>
+	</col>
+	<col>
+		<trigraph>INV</trigraph>
+		<fullname>Inverary</fullname>
+		<alt>39</alt>
+		<pos>56 13.913N 005 04.438W</pos>
+	</col>
+	<col>
+		<trigraph>IPE</trigraph>
+		<fullname>Ipswich E</fullname>
+		<alt>105</alt>
+		<pos>52 04.181N 001 16.164E</pos>
+	</col>
+	<col>
+		<trigraph>ISE</trigraph>
+		<fullname>Inverness SE</fullname>
+		<alt>558</alt>
+		<pos>57 25.110N 004 08.061W</pos>
+	</col>
+	<col>
+		<trigraph>ISL</trigraph>
+		<fullname>Islip</fullname>
+		<alt>235</alt>
+		<pos>51 49.556N 001 14.291W</pos>
+	</col>
+	<col>
+		<trigraph>IVS</trigraph>
+		<fullname>Invershin</fullname>
+		<alt>35</alt>
+		<pos>57 55.435N 004 24.052W</pos>
+	</col>
+	<col>
+		<trigraph>IVY</trigraph>
+		<fullname>Ivybridge East</fullname>
+		<alt>312</alt>
+		<pos>50 23.235N 003 53.729W</pos>
+	</col>
+	<col>
+		<trigraph>IWE</trigraph>
+		<fullname>Iwerne Minster</fullname>
+		<alt>256</alt>
+		<pos>50 55.810N 002 11.583W</pos>
+	</col>
+	<col>
+		<trigraph>JED</trigraph>
+		<fullname>Jedburgh</fullname>
+		<alt>30</alt>
+		<pos>55 30.345N 002 34.338W</pos>
+	</col>
+	<col>
+		<trigraph>KCA</trigraph>
+		<fullname>Kielder Castle</fullname>
+		<alt>660</alt>
+		<pos>55 13.994N 002 35.263W</pos>
+	</col>
+	<col>
+		<trigraph>KCG</trigraph>
+		<fullname>Kincraig</fullname>
+		<alt>656</alt>
+		<pos>57 07.564N 003 55.580W</pos>
+	</col>
+	<col>
+		<trigraph>KDL</trigraph>
+		<fullname>Kendal</fullname>
+		<alt>164</alt>
+		<pos>54 20.108N 002 44.751W</pos>
+	</col>
+	<col>
+		<trigraph>KEE</trigraph>
+		<fullname>Keevil</fullname>
+		<alt>200</alt>
+		<pos>51 18.956N 002 06.515W</pos>
+	</col>
+	<col>
+		<trigraph>KEK</trigraph>
+		<fullname>Keswick</fullname>
+		<alt>295</alt>
+		<pos>54 36.572N 003 08.481W</pos>
+	</col>
+	<col>
+		<trigraph>KEL</trigraph>
+		<fullname>Kelso</fullname>
+		<alt>30</alt>
+		<pos>55 35.706N 002 26.000W</pos>
+	</col>
+	<col>
+		<trigraph>KEM</trigraph>
+		<fullname>Kempock Point</fullname>
+		<alt>49</alt>
+		<pos>55 57.750N 004 49.028W</pos>
+	</col>
+	<col>
+		<trigraph>KEN</trigraph>
+		<fullname>Kenley</fullname>
+		<alt>566</alt>
+		<pos>51 18.192N 000 05.713W</pos>
+	</col>
+	<col>
+		<trigraph>KES</trigraph>
+		<fullname>Kettering South</fullname>
+		<alt>295</alt>
+		<pos>52 22.336N 000 42.847W</pos>
+	</col>
+	<col>
+		<trigraph>KEX</trigraph>
+		<fullname>Kexby Bridge</fullname>
+		<alt>33</alt>
+		<pos>53 57.103N 000 55.641W</pos>
+	</col>
+	<col>
+		<trigraph>KGS</trigraph>
+		<fullname>Kingsclere</fullname>
+		<alt>295</alt>
+		<pos>51 19.786N 001 15.018W</pos>
+	</col>
+	<col>
+		<trigraph>KIB</trigraph>
+		<fullname>Kinbrace</fullname>
+		<alt>390</alt>
+		<pos>58 15.538N 003 56.465W</pos>
+	</col>
+	<col>
+		<trigraph>KIC</trigraph>
+		<fullname>Kinclaven</fullname>
+		<alt>131</alt>
+		<pos>56 31.590N 003 22.083W</pos>
+	</col>
+	<col>
+		<trigraph>KID</trigraph>
+		<fullname>Kidderminster</fullname>
+		<alt>144</alt>
+		<pos>52 24.611N 002 15.081W</pos>
+	</col>
+	<col>
+		<trigraph>KIE</trigraph>
+		<fullname>Kielder Reservoir</fullname>
+		<alt>72</alt>
+		<pos>55 10.705N 002 27.621W</pos>
+	</col>
+	<col>
+		<trigraph>KIG</trigraph>
+		<fullname>Kingussie</fullname>
+		<alt>755</alt>
+		<pos>57 04.689N 004 03.153W</pos>
+	</col>
+	<col>
+		<trigraph>KIK</trigraph>
+		<fullname>Kirkharle</fullname>
+		<alt>112</alt>
+		<pos>55 08.223N 001 58.088W</pos>
+	</col>
+	<col>
+		<trigraph>KIL</trigraph>
+		<fullname>Kilcreggan</fullname>
+		<alt>49</alt>
+		<pos>55 59.066N 004 49.230W</pos>
+	</col>
+	<col>
+		<trigraph>KIM</trigraph>
+		<fullname>Kingham</fullname>
+		<alt>279</alt>
+		<pos>51 54.098N 001 37.664W</pos>
+	</col>
+	<col>
+		<trigraph>KIN</trigraph>
+		<fullname>Kineton</fullname>
+		<alt>269</alt>
+		<pos>52 09.387N 001 30.599W</pos>
+	</col>
+	<col>
+		<trigraph>KIP</trigraph>
+		<fullname>Kippen</fullname>
+		<alt>52</alt>
+		<pos>56 07.599N 004 10.249W</pos>
+	</col>
+	<col>
+		<trigraph>KIR</trigraph>
+		<fullname>Kirton-in-lindsey</fullname>
+		<alt>203</alt>
+		<pos>53 27.955N 000 34.768W</pos>
+	</col>
+	<col>
+		<trigraph>KLH</trigraph>
+		<fullname>Kilham</fullname>
+		<alt>236</alt>
+		<pos>55 35.221N 002 11.018W</pos>
+	</col>
+	<col>
+		<trigraph>KLN</trigraph>
+		<fullname>Killin</fullname>
+		<alt>361</alt>
+		<pos>56 27.766N 004 19.190W</pos>
+	</col>
+	<col>
+		<trigraph>KLO</trigraph>
+		<fullname>Kirkby Lonsdale</fullname>
+		<alt>197</alt>
+		<pos>54 11.834N 002 35.470W</pos>
+	</col>
+	<col>
+		<trigraph>KLT</trigraph>
+		<fullname>Kinlet</fullname>
+		<alt>418</alt>
+		<pos>52 25.146N 002 24.984W</pos>
+	</col>
+	<col>
+		<trigraph>KLY</trigraph>
+		<fullname>King's Lynn</fullname>
+		<alt>66</alt>
+		<pos>52 44.376N 000 23.119E</pos>
+	</col>
+	<col>
+		<trigraph>KME</trigraph>
+		<fullname>Kentmere</fullname>
+		<alt>525</alt>
+		<pos>54 25.696N 002 50.217W</pos>
+	</col>
+	<col>
+		<trigraph>KML</trigraph>
+		<fullname>Kirkmichael</fullname>
+		<alt>689</alt>
+		<pos>56 43.202N 003 30.005W</pos>
+	</col>
+	<col>
+		<trigraph>KMR</trigraph>
+		<fullname>Kenmore</fullname>
+		<alt>197</alt>
+		<pos>56 35.139N 004 00.119W</pos>
+	</col>
+	<col>
+		<trigraph>KNA</trigraph>
+		<fullname>Knaresborough</fullname>
+		<alt>89</alt>
+		<pos>54 00.554N 001 28.229W</pos>
+	</col>
+	<col>
+		<trigraph>KNI</trigraph>
+		<fullname>Knighton</fullname>
+		<alt>299</alt>
+		<pos>52 20.637N 003 02.936W</pos>
+	</col>
+	<col>
+		<trigraph>KNO</trigraph>
+		<fullname>Knowstone</fullname>
+		<alt>690</alt>
+		<pos>50 59.686N 003 40.461W</pos>
+	</col>
+	<col>
+		<trigraph>KNW</trigraph>
+		<fullname>Knighton West</fullname>
+		<alt>862</alt>
+		<pos>52 20.496N 003 11.591W</pos>
+	</col>
+	<col>
+		<trigraph>KRB</trigraph>
+		<fullname>Kirkbymoorside</fullname>
+		<alt>164</alt>
+		<pos>54 15.984N 000 55.829W</pos>
+	</col>
+	<col>
+		<trigraph>KRM</trigraph>
+		<fullname>Kirriemuir</fullname>
+		<alt>295</alt>
+		<pos>56 40.433N 003 00.401W</pos>
+	</col>
+	<col>
+		<trigraph>KSB</trigraph>
+		<fullname>Kingston Bagpuize</fullname>
+		<alt>302</alt>
+		<pos>51 41.120N 001 24.743W</pos>
+	</col>
+	<col>
+		<trigraph>KST</trigraph>
+		<fullname>Kirkby Stephen Station</fullname>
+		<alt>820</alt>
+		<pos>54 27.325N 002 22.162W</pos>
+	</col>
+	<col>
+		<trigraph>KTH</trigraph>
+		<fullname>Keith</fullname>
+		<alt>262</alt>
+		<pos>57 33.088N 002 57.265W</pos>
+	</col>
+	<col>
+		<trigraph>KTN</trigraph>
+		<fullname>Kilmington</fullname>
+		<alt>722</alt>
+		<pos>51 07.708N 002 19.626W</pos>
+	</col>
+	<col>
+		<trigraph>KWE</trigraph>
+		<fullname>Kinlochewe</fullname>
+		<alt>100</alt>
+		<pos>57 36.269N 005 18.215W</pos>
+	</col>
+	<col>
+		<trigraph>KWK</trigraph>
+		<fullname>Knightwick</fullname>
+		<alt>96</alt>
+		<pos>52 11.970N 002 23.376W</pos>
+	</col>
+	<col>
+		<trigraph>KWO</trigraph>
+		<fullname>Kibworth</fullname>
+		<alt>277</alt>
+		<pos>52 32.043N 000 58.663W</pos>
+	</col>
+	<col>
+		<trigraph>KYL</trigraph>
+		<fullname>Kyleakin</fullname>
+		<alt>80</alt>
+		<pos>57 16.347N 005 44.694W</pos>
+	</col>
+	<col>
+		<trigraph>LA1</trigraph>
+		<fullname>Lasham Start Southeast</fullname>
+		<alt>538</alt>
+		<pos>51 09.832N 000 59.906W</pos>
+	</col>
+	<col>
+		<trigraph>LA2</trigraph>
+		<fullname>Lasham Start East</fullname>
+		<alt>574</alt>
+		<pos>51 11.656N 001 00.639W</pos>
+	</col>
+	<col>
+		<trigraph>LA3</trigraph>
+		<fullname>Lasham Church</fullname>
+		<alt>600</alt>
+		<pos>51 10.692N 001 02.033W</pos>
+	</col>
+	<col>
+		<trigraph>LA4</trigraph>
+		<fullname>Lasham Start South</fullname>
+		<alt>581</alt>
+		<pos>51 10.185N 001 02.647W</pos>
+	</col>
+	<col>
+		<trigraph>LA5</trigraph>
+		<fullname>Lasham West</fullname>
+		<alt>548</alt>
+		<pos>51 11.098N 001 06.360W</pos>
+	</col>
+	<col>
+		<trigraph>LA6</trigraph>
+		<fullname>Lasham Start North</fullname>
+		<alt>568</alt>
+		<pos>51 12.551N 001 03.076W</pos>
+	</col>
+	<col>
+		<trigraph>LAD</trigraph>
+		<fullname>Lauder</fullname>
+		<alt>545</alt>
+		<pos>55 42.896N 002 44.377W</pos>
+	</col>
+	<col>
+		<trigraph>LAE</trigraph>
+		<fullname>Llanelli East</fullname>
+		<alt>15</alt>
+		<pos>51 39.741N 004 04.780W</pos>
+	</col>
+	<col>
+		<trigraph>LAG</trigraph>
+		<fullname>Langport</fullname>
+		<alt>161</alt>
+		<pos>51 02.471N 002 49.181W</pos>
+	</col>
+	<col>
+		<trigraph>LAI</trigraph>
+		<fullname>Lairg</fullname>
+		<alt>280</alt>
+		<pos>58 01.450N 004 24.099W</pos>
+	</col>
+	<col>
+		<trigraph>LAL</trigraph>
+		<fullname>Lake Alaw Reservoir</fullname>
+		<alt>128</alt>
+		<pos>53 20.431N 004 26.575W</pos>
+	</col>
+	<col>
+		<trigraph>LAM</trigraph>
+		<fullname>Lampeter</fullname>
+		<alt>377</alt>
+		<pos>52 06.520N 004 04.419W</pos>
+	</col>
+	<col>
+		<trigraph>LAN</trigraph>
+		<fullname>Langham</fullname>
+		<alt>20</alt>
+		<pos>52 56.325N 000 57.487E</pos>
+	</col>
+	<col>
+		<trigraph>LAP</trigraph>
+		<fullname>Lapford</fullname>
+		<alt>260</alt>
+		<pos>50 51.404N 003 48.598W</pos>
+	</col>
+	<col>
+		<trigraph>LAR</trigraph>
+		<fullname>Lattrig</fullname>
+		<alt>1200</alt>
+		<pos>54 36.844N 003 06.949W</pos>
+	</col>
+	<col>
+		<trigraph>LAS</trigraph>
+		<fullname>Lasham Finish North</fullname>
+		<alt>594</alt>
+		<pos>51 11.643N 001 02.000W</pos>
+	</col>
+	<col>
+		<trigraph>LAT</trigraph>
+		<fullname>Latheron</fullname>
+		<alt>255</alt>
+		<pos>58 17.014N 003 22.029W</pos>
+	</col>
+	<col>
+		<trigraph>LAU</trigraph>
+		<fullname>Launceston</fullname>
+		<alt>502</alt>
+		<pos>50 37.788N 004 21.031W</pos>
+	</col>
+	<col>
+		<trigraph>LBD</trigraph>
+		<fullname>Longbridge Deverill</fullname>
+		<alt>341</alt>
+		<pos>51 09.999N 002 11.351W</pos>
+	</col>
+	<col>
+		<trigraph>LBE</trigraph>
+		<fullname>Loch Bradan E</fullname>
+		<alt>1033</alt>
+		<pos>55 15.159N 004 27.768W</pos>
+	</col>
+	<col>
+		<trigraph>LBN</trigraph>
+		<fullname>Lambourn</fullname>
+		<alt>394</alt>
+		<pos>51 30.480N 001 31.891W</pos>
+	</col>
+	<col>
+		<trigraph>LBR</trigraph>
+		<fullname>Laggan Bridge</fullname>
+		<alt>817</alt>
+		<pos>57 01.122N 004 17.021W</pos>
+	</col>
+	<col>
+		<trigraph>LBU</trigraph>
+		<fullname>Lochbuie</fullname>
+		<alt>10</alt>
+		<pos>56 21.354N 005 52.365W</pos>
+	</col>
+	<col>
+		<trigraph>LBZ</trigraph>
+		<fullname>Leighton Buzzard NE</fullname>
+		<alt>331</alt>
+		<pos>51 56.040N 000 38.120W</pos>
+	</col>
+	<col>
+		<trigraph>LCE</trigraph>
+		<fullname>Llyn Celyn NW</fullname>
+		<alt>1310</alt>
+		<pos>52 57.500N 003 43.500W</pos>
+	</col>
+	<col>
+		<trigraph>LCH</trigraph>
+		<fullname>Lanchester</fullname>
+		<alt>102</alt>
+		<pos>54 49.311N 001 42.956W</pos>
+	</col>
+	<col>
+		<trigraph>LCL</trigraph>
+		<fullname>Lower Clopton</fullname>
+		<alt>195</alt>
+		<pos>52 06.509N 001 45.437W</pos>
+	</col>
+	<col>
+		<trigraph>LDB</trigraph>
+		<fullname>Lochindorb Castle</fullname>
+		<alt>971</alt>
+		<pos>57 24.352N 003 42.507W</pos>
+	</col>
+	<col>
+		<trigraph>LDM</trigraph>
+		<fullname>Laggan Dam</fullname>
+		<alt>820</alt>
+		<pos>56 53.379N 004 40.408W</pos>
+	</col>
+	<col>
+		<trigraph>LDR</trigraph>
+		<fullname>Lindores</fullname>
+		<alt>246</alt>
+		<pos>56 20.313N 003 11.566W</pos>
+	</col>
+	<col>
+		<trigraph>LEA</trigraph>
+		<fullname>Lochearnhead</fullname>
+		<alt>161</alt>
+		<pos>56 23.132N 004 17.226W</pos>
+	</col>
+	<col>
+		<trigraph>LEB</trigraph>
+		<fullname>Lake Eiddew-bach</fullname>
+		<alt>1247</alt>
+		<pos>52 53.443N 004 00.879W</pos>
+	</col>
+	<col>
+		<trigraph>LED</trigraph>
+		<fullname>Ledbury</fullname>
+		<alt>249</alt>
+		<pos>52 02.657N 002 26.155W</pos>
+	</col>
+	<col>
+		<trigraph>LEH</trigraph>
+		<fullname>Leadenham</fullname>
+		<alt>197</alt>
+		<pos>53 03.421N 000 34.960W</pos>
+	</col>
+	<col>
+		<trigraph>LEI</trigraph>
+		<fullname>Leicester M1 Services</fullname>
+		<alt>299</alt>
+		<pos>52 37.123N 001 12.353W</pos>
+	</col>
+	<col>
+		<trigraph>LEK</trigraph>
+		<fullname>Leck</fullname>
+		<alt>344</alt>
+		<pos>54 11.225N 002 32.811W</pos>
+	</col>
+	<col>
+		<trigraph>LEL</trigraph>
+		<fullname>Loch Eil West</fullname>
+		<alt>33</alt>
+		<pos>56 51.559N 005 20.987W</pos>
+	</col>
+	<col>
+		<trigraph>LEN</trigraph>
+		<fullname>Leicester North</fullname>
+		<alt>374</alt>
+		<pos>52 41.946N 001 05.038W</pos>
+	</col>
+	<col>
+		<trigraph>LEO</trigraph>
+		<fullname>Leominster</fullname>
+		<alt>220</alt>
+		<pos>52 13.896N 002 44.002W</pos>
+	</col>
+	<col>
+		<trigraph>LER</trigraph>
+		<fullname>Loch Errochty East</fullname>
+		<alt>1100</alt>
+		<pos>56 45.874N 004 06.306W</pos>
+	</col>
+	<col>
+		<trigraph>LES</trigraph>
+		<fullname>Leicester South</fullname>
+		<alt>315</alt>
+		<pos>52 32.155N 001 10.780W</pos>
+	</col>
+	<col>
+		<trigraph>LEW</trigraph>
+		<fullname>Lewes North</fullname>
+		<alt>85</alt>
+		<pos>50 54.218N 000 00.558W</pos>
+	</col>
+	<col>
+		<trigraph>LEY</trigraph>
+		<fullname>Leyburn</fullname>
+		<alt>151</alt>
+		<pos>54 18.492N 001 49.458W</pos>
+	</col>
+	<col>
+		<trigraph>LEZ</trigraph>
+		<fullname>Leighton Buzzard</fullname>
+		<alt>404</alt>
+		<pos>51 54.078N 000 38.912W</pos>
+	</col>
+	<col>
+		<trigraph>LFC</trigraph>
+		<fullname>Lindisfarne Castle</fullname>
+		<alt>26</alt>
+		<pos>55 40.139N 001 47.085W</pos>
+	</col>
+	<col>
+		<trigraph>LFN</trigraph>
+		<fullname>Llanfyllin</fullname>
+		<alt>194</alt>
+		<pos>52 46.151N 003 17.208W</pos>
+	</col>
+	<col>
+		<trigraph>LGG</trigraph>
+		<fullname>Loch Laggan North East</fullname>
+		<alt>820</alt>
+		<pos>56 58.500N 004 24.295W</pos>
+	</col>
+	<col>
+		<trigraph>LGI</trigraph>
+		<fullname>Lochgilphead</fullname>
+		<alt>43</alt>
+		<pos>56 02.257N 005 26.489W</pos>
+	</col>
+	<col>
+		<trigraph>LGN</trigraph>
+		<fullname>Loch Garry N</fullname>
+		<alt>1362</alt>
+		<pos>56 49.394N 004 13.504W</pos>
+	</col>
+	<col>
+		<trigraph>LGO</trigraph>
+		<fullname>Lochgoilhead</fullname>
+		<alt>25</alt>
+		<pos>56 10.487N 004 54.195W</pos>
+	</col>
+	<col>
+		<trigraph>LIS</trigraph>
+		<fullname>Lismore</fullname>
+		<alt>39</alt>
+		<pos>56 27.332N 005 36.460W</pos>
+	</col>
+	<col>
+		<trigraph>LIT</trigraph>
+		<fullname>Littleport</fullname>
+		<alt>23</alt>
+		<pos>52 27.895N 000 19.293E</pos>
+	</col>
+	<col>
+		<trigraph>LKD</trigraph>
+		<fullname>Liskeard SE</fullname>
+		<alt>395</alt>
+		<pos>50 27.001N 004 27.240W</pos>
+	</col>
+	<col>
+		<trigraph>LLA</trigraph>
+		<fullname>Llangollen</fullname>
+		<alt>85</alt>
+		<pos>52 58.312N 003 10.206W</pos>
+	</col>
+	<col>
+		<trigraph>LLB</trigraph>
+		<fullname>Llanbadarn</fullname>
+		<alt>951</alt>
+		<pos>52 23.384N 003 19.666W</pos>
+	</col>
+	<col>
+		<trigraph>LLC</trigraph>
+		<fullname>Llanfair Caereinion</fullname>
+		<alt>197</alt>
+		<pos>52 38.951N 003 19.577W</pos>
+	</col>
+	<col>
+		<trigraph>LLD</trigraph>
+		<fullname>Llandovery</fullname>
+		<alt>715</alt>
+		<pos>51 59.747N 003 48.120W</pos>
+	</col>
+	<col>
+		<trigraph>LLE</trigraph>
+		<fullname>Lleweni Parc</fullname>
+		<alt>200</alt>
+		<pos>53 12.680N 003 23.500W</pos>
+	</col>
+	<col>
+		<trigraph>LLG</trigraph>
+		<fullname>Llangynidr Bridge</fullname>
+		<alt>361</alt>
+		<pos>51 52.488N 003 13.984W</pos>
+	</col>
+	<col>
+		<trigraph>LLI</trigraph>
+		<fullname>Llanidloes</fullname>
+		<alt>535</alt>
+		<pos>52 27.058N 003 32.349W</pos>
+	</col>
+	<col>
+		<trigraph>LLM</trigraph>
+		<fullname>Llanymynech</fullname>
+		<alt>626</alt>
+		<pos>52 47.426N 003 05.424W</pos>
+	</col>
+	<col>
+		<trigraph>LLN</trigraph>
+		<fullname>Llanrwst</fullname>
+		<alt>35</alt>
+		<pos>53 08.204N 003 47.841W</pos>
+	</col>
+	<col>
+		<trigraph>LLO</trigraph>
+		<fullname>Llandeilo</fullname>
+		<alt>102</alt>
+		<pos>51 52.745N 003 59.739W</pos>
+	</col>
+	<col>
+		<trigraph>LLS</trigraph>
+		<fullname>Llantysilio</fullname>
+		<alt>1120</alt>
+		<pos>53 03.012N 003 12.732W</pos>
+	</col>
+	<col>
+		<trigraph>LLT</trigraph>
+		<fullname>Loch Lomond Tarbet</fullname>
+		<alt>66</alt>
+		<pos>56 12.211N 004 42.657W</pos>
+	</col>
+	<col>
+		<trigraph>LLW</trigraph>
+		<fullname>Llandrindod Wells</fullname>
+		<alt>699</alt>
+		<pos>52 16.492N 003 20.233W</pos>
+	</col>
+	<col>
+		<trigraph>LMA</trigraph>
+		<fullname>Long Marston</fullname>
+		<alt>154</alt>
+		<pos>52 08.491N 001 45.114W</pos>
+	</col>
+	<col>
+		<trigraph>LMB</trigraph>
+		<fullname>Lochmaben</fullname>
+		<alt>164</alt>
+		<pos>55 07.733N 003 26.484W</pos>
+	</col>
+	<col>
+		<trigraph>LMD</trigraph>
+		<fullname>Loch Mullardoch East</fullname>
+		<alt>660</alt>
+		<pos>57 20.445N 004 56.752W</pos>
+	</col>
+	<col>
+		<trigraph>LMO</trigraph>
+		<fullname>Loch Morlich</fullname>
+		<alt>984</alt>
+		<pos>57 10.061N 003 42.135W</pos>
+	</col>
+	<col>
+		<trigraph>LMR</trigraph>
+		<fullname>Ledmore</fullname>
+		<alt>475</alt>
+		<pos>58 03.995N 004 58.344W</pos>
+	</col>
+	<col>
+		<trigraph>LMU</trigraph>
+		<fullname>Loch Muick</fullname>
+		<alt>1476</alt>
+		<pos>56 55.656N 003 11.458W</pos>
+	</col>
+	<col>
+		<trigraph>LMW</trigraph>
+		<fullname>Leominster NW</fullname>
+		<alt>322</alt>
+		<pos>52 16.058N 002 50.659W</pos>
+	</col>
+	<col>
+		<trigraph>LMY</trigraph>
+		<fullname>Loch Moy</fullname>
+		<alt>656</alt>
+		<pos>57 22.932N 004 02.234W</pos>
+	</col>
+	<col>
+		<trigraph>LNE</trigraph>
+		<fullname>Lichfield NE</fullname>
+		<alt>213</alt>
+		<pos>52 43.601N 001 44.795W</pos>
+	</col>
+	<col>
+		<trigraph>LOA</trigraph>
+		<fullname>Lochailort</fullname>
+		<alt>65</alt>
+		<pos>56 52.680N 005 39.983W</pos>
+	</col>
+	<col>
+		<trigraph>LOC</trigraph>
+		<fullname>Lockerbie</fullname>
+		<alt>165</alt>
+		<pos>55 07.131N 003 21.702W</pos>
+	</col>
+	<col>
+		<trigraph>LOD</trigraph>
+		<fullname>Linn of Dee</fullname>
+		<alt>1214</alt>
+		<pos>56 59.293N 003 32.735W</pos>
+	</col>
+	<col>
+		<trigraph>LOG</trigraph>
+		<fullname>Loch Gairloch SE</fullname>
+		<alt>75</alt>
+		<pos>57 41.629N 005 39.412W</pos>
+	</col>
+	<col>
+		<trigraph>LOI</trigraph>
+		<fullname>Loch Laidon Island</fullname>
+		<alt>935</alt>
+		<pos>56 38.862N 004 39.312W</pos>
+	</col>
+	<col>
+		<trigraph>LOK</trigraph>
+		<fullname>Loch Kinord</fullname>
+		<alt>492</alt>
+		<pos>57 05.046N 002 55.493W</pos>
+	</col>
+	<col>
+		<trigraph>LOL</trigraph>
+		<fullname>Loch Lochy North East</fullname>
+		<alt>120</alt>
+		<pos>57 02.661N 004 48.227W</pos>
+	</col>
+	<col>
+		<trigraph>LOM</trigraph>
+		<fullname>Lake of Menteith</fullname>
+		<alt>43</alt>
+		<pos>56 10.466N 004 18.105W</pos>
+	</col>
+	<col>
+		<trigraph>LON</trigraph>
+		<fullname>Longleat</fullname>
+		<alt>322</alt>
+		<pos>51 11.090N 002 16.343W</pos>
+	</col>
+	<col>
+		<trigraph>LOQ</trigraph>
+		<fullname>Loch Quoich East</fullname>
+		<alt>570</alt>
+		<pos>57 04.284N 005 11.023W</pos>
+	</col>
+	<col>
+		<trigraph>LOU</trigraph>
+		<fullname>Louth</fullname>
+		<alt>56</alt>
+		<pos>53 21.859N 000 02.039W</pos>
+	</col>
+	<col>
+		<trigraph>LOW</trigraph>
+		<fullname>Lowick</fullname>
+		<alt>164</alt>
+		<pos>54 15.465N 003 04.700W</pos>
+	</col>
+	<col>
+		<trigraph>LRI</trigraph>
+		<fullname>Little Rissington</fullname>
+		<alt>730</alt>
+		<pos>51 52.178N 001 41.680W</pos>
+	</col>
+	<col>
+		<trigraph>LRK</trigraph>
+		<fullname>Lanark</fullname>
+		<alt>49</alt>
+		<pos>55 40.554N 003 48.097W</pos>
+	</col>
+	<col>
+		<trigraph>LSA</trigraph>
+		<fullname>Llansannan</fullname>
+		<alt>549</alt>
+		<pos>53 10.714N 003 35.832W</pos>
+	</col>
+	<col>
+		<trigraph>LSL</trigraph>
+		<fullname>Llandysul</fullname>
+		<alt>213</alt>
+		<pos>52 02.314N 004 18.756W</pos>
+	</col>
+	<col>
+		<trigraph>LSN</trigraph>
+		<fullname>Loch Seilich N</fullname>
+		<alt>1247</alt>
+		<pos>56 58.046N 004 02.195W</pos>
+	</col>
+	<col>
+		<trigraph>LSS</trigraph>
+		<fullname>Liss</fullname>
+		<alt>236</alt>
+		<pos>51 03.579N 000 53.987W</pos>
+	</col>
+	<col>
+		<trigraph>LSU</trigraph>
+		<fullname>Long Sutton</fullname>
+		<alt>7</alt>
+		<pos>52 46.591N 000 06.815E</pos>
+	</col>
+	<col>
+		<trigraph>LSW</trigraph>
+		<fullname>Lincoln Southwest</fullname>
+		<alt>154</alt>
+		<pos>53 11.493N 000 37.496W</pos>
+	</col>
+	<col>
+		<trigraph>LTF</trigraph>
+		<fullname>Langtoft</fullname>
+		<alt>230</alt>
+		<pos>54 05.047N 000 27.364W</pos>
+	</col>
+	<col>
+		<trigraph>LTN</trigraph>
+		<fullname>Longtown</fullname>
+		<alt>45</alt>
+		<pos>55 00.624N 002 58.485W</pos>
+	</col>
+	<col>
+		<trigraph>LUD</trigraph>
+		<fullname>Ludlow</fullname>
+		<alt>299</alt>
+		<pos>52 22.056N 002 43.424W</pos>
+	</col>
+	<col>
+		<trigraph>LUN</trigraph>
+		<fullname>Luncarty</fullname>
+		<alt>299</alt>
+		<pos>56 26.855N 003 28.347W</pos>
+	</col>
+	<col>
+		<trigraph>LUS</trigraph>
+		<fullname>Lussa Loch S</fullname>
+		<alt>425</alt>
+		<pos>55 29.840N 005 37.725W</pos>
+	</col>
+	<col>
+		<trigraph>LUT</trigraph>
+		<fullname>Lutterworth</fullname>
+		<alt>400</alt>
+		<pos>52 26.987N 001 11.502W</pos>
+	</col>
+	<col>
+		<trigraph>LVE</trigraph>
+		<fullname>Loch Venachar</fullname>
+		<alt>43</alt>
+		<pos>56 13.713N 004 15.706W</pos>
+	</col>
+	<col>
+		<trigraph>LVN</trigraph>
+		<fullname>Lavenham</fullname>
+		<alt>226</alt>
+		<pos>52 06.387N 000 47.484E</pos>
+	</col>
+	<col>
+		<trigraph>LWL</trigraph>
+		<fullname>Low Lorton</fullname>
+		<alt>233</alt>
+		<pos>54 37.127N 003 18.904W</pos>
+	</col>
+	<col>
+		<trigraph>LWN</trigraph>
+		<fullname>Lewes nw</fullname>
+		<alt>92</alt>
+		<pos>50 53.522N 000 00.596W</pos>
+	</col>
+	<col>
+		<trigraph>LYB</trigraph>
+		<fullname>Llwyngwril Bridge</fullname>
+		<alt>22</alt>
+		<pos>52 39.938N 004 05.054W</pos>
+	</col>
+	<col>
+		<trigraph>LYD</trigraph>
+		<fullname>Leyland North East</fullname>
+		<alt>197</alt>
+		<pos>53 42.955N 002 39.682W</pos>
+	</col>
+	<col>
+		<trigraph>LYN</trigraph>
+		<fullname>Lyneham a/f</fullname>
+		<alt>472</alt>
+		<pos>51 30.459N 001 59.737W</pos>
+	</col>
+	<col>
+		<trigraph>LYR</trigraph>
+		<fullname>Ladybower Reservoir</fullname>
+		<alt>853</alt>
+		<pos>53 22.431N 001 41.861W</pos>
+	</col>
+	<col>
+		<trigraph>LYV</trigraph>
+		<fullname>Lyveden</fullname>
+		<alt>279</alt>
+		<pos>52 27.949N 000 35.008W</pos>
+	</col>
+	<col>
+		<trigraph>MAC</trigraph>
+		<fullname>Machynlleth Station</fullname>
+		<alt>35</alt>
+		<pos>52 35.715N 003 51.282W</pos>
+	</col>
+	<col>
+		<trigraph>MAD</trigraph>
+		<fullname>Market Deeping</fullname>
+		<alt>128</alt>
+		<pos>52 41.175N 000 19.579W</pos>
+	</col>
+	<col>
+		<trigraph>MAE</trigraph>
+		<fullname>Marlborough E</fullname>
+		<alt>387</alt>
+		<pos>51 25.439N 001 40.437W</pos>
+	</col>
+	<col>
+		<trigraph>MAH</trigraph>
+		<fullname>Market Harborough</fullname>
+		<alt>308</alt>
+		<pos>52 28.733N 000 54.588W</pos>
+	</col>
+	<col>
+		<trigraph>MAI</trigraph>
+		<fullname>Maidstone East</fullname>
+		<alt>374</alt>
+		<pos>51 14.979N 000 37.825E</pos>
+	</col>
+	<col>
+		<trigraph>MAL</trigraph>
+		<fullname>Malton</fullname>
+		<alt>174</alt>
+		<pos>54 07.904N 000 47.760W</pos>
+	</col>
+	<col>
+		<trigraph>MAM</trigraph>
+		<fullname>Malmesbury</fullname>
+		<alt>269</alt>
+		<pos>51 35.449N 002 05.341W</pos>
+	</col>
+	<col>
+		<trigraph>MAN</trigraph>
+		<fullname>Manton</fullname>
+		<alt>338</alt>
+		<pos>52 38.185N 000 42.294W</pos>
+	</col>
+	<col>
+		<trigraph>MAR</trigraph>
+		<fullname>Marlborough</fullname>
+		<alt>430</alt>
+		<pos>51 24.978N 001 43.975W</pos>
+	</col>
+	<col>
+		<trigraph>MAS</trigraph>
+		<fullname>Masham</fullname>
+		<alt>85</alt>
+		<pos>54 13.574N 001 39.309W</pos>
+	</col>
+	<col>
+		<trigraph>MAT</trigraph>
+		<fullname>Matlock</fullname>
+		<alt>236</alt>
+		<pos>53 08.300N 001 33.342W</pos>
+	</col>
+	<col>
+		<trigraph>MAW</trigraph>
+		<fullname>Market Weighton</fullname>
+		<alt>62</alt>
+		<pos>53 52.435N 000 41.954W</pos>
+	</col>
+	<col>
+		<trigraph>MBL</trigraph>
+		<fullname>Mablethorpe</fullname>
+		<alt>10</alt>
+		<pos>53 20.515N 000 15.704E</pos>
+	</col>
+	<col>
+		<trigraph>MBO</trigraph>
+		<fullname>Market Bosworth</fullname>
+		<alt>443</alt>
+		<pos>52 37.502N 001 22.613W</pos>
+	</col>
+	<col>
+		<trigraph>MBR</trigraph>
+		<fullname>Montford Bridge</fullname>
+		<alt>240</alt>
+		<pos>52 44.908N 002 50.610W</pos>
+	</col>
+	<col>
+		<trigraph>MBU</trigraph>
+		<fullname>Melbury Bubb</fullname>
+		<alt>541</alt>
+		<pos>50 50.249N 002 34.683W</pos>
+	</col>
+	<col>
+		<trigraph>MBY</trigraph>
+		<fullname>Manby</fullname>
+		<alt>60</alt>
+		<pos>53 21.620N 000 05.380E</pos>
+	</col>
+	<col>
+		<trigraph>MCH</trigraph>
+		<fullname>March</fullname>
+		<alt>7</alt>
+		<pos>52 33.308N 000 06.196E</pos>
+	</col>
+	<col>
+		<trigraph>MDN</trigraph>
+		<fullname>Maidstone North</fullname>
+		<alt>321</alt>
+		<pos>51 19.116N 000 30.497E</pos>
+	</col>
+	<col>
+		<trigraph>MEA</trigraph>
+		<fullname>Measham</fullname>
+		<alt>364</alt>
+		<pos>52 41.335N 001 32.897W</pos>
+	</col>
+	<col>
+		<trigraph>MEE</trigraph>
+		<fullname>East Meon</fullname>
+		<alt>394</alt>
+		<pos>50 59.755N 001 01.889W</pos>
+	</col>
+	<col>
+		<trigraph>MEL</trigraph>
+		<fullname>Melksham</fullname>
+		<alt>112</alt>
+		<pos>51 22.746N 002 08.705W</pos>
+	</col>
+	<col>
+		<trigraph>MEM</trigraph>
+		<fullname>Membury</fullname>
+		<alt>659</alt>
+		<pos>51 28.927N 001 33.385W</pos>
+	</col>
+	<col>
+		<trigraph>MEN</trigraph>
+		<fullname>Mendlesham</fullname>
+		<alt>203</alt>
+		<pos>52 14.071N 001 06.457E</pos>
+	</col>
+	<col>
+		<trigraph>MER</trigraph>
+		<fullname>Mere</fullname>
+		<alt>348</alt>
+		<pos>51 05.360N 002 16.249W</pos>
+	</col>
+	<col>
+		<trigraph>MET</trigraph>
+		<fullname>Melton Mowbray</fullname>
+		<alt>213</alt>
+		<pos>52 45.656N 000 52.983W</pos>
+	</col>
+	<col>
+		<trigraph>MEW</trigraph>
+		<fullname>West Meon Hut</fullname>
+		<alt>338</alt>
+		<pos>51 01.875N 001 04.505W</pos>
+	</col>
+	<col>
+		<trigraph>MEX</trigraph>
+		<fullname>Mexborough S</fullname>
+		<alt>60</alt>
+		<pos>53 29.571N 001 17.711W</pos>
+	</col>
+	<col>
+		<trigraph>MFD</trigraph>
+		<fullname>Mansfield NE</fullname>
+		<alt>220</alt>
+		<pos>53 10.878N 001 05.582W</pos>
+	</col>
+	<col>
+		<trigraph>MGH</trigraph>
+		<fullname>Margery Hill</fullname>
+		<alt>1791</alt>
+		<pos>53 27.460N 001 43.019W</pos>
+	</col>
+	<col>
+		<trigraph>MHT</trigraph>
+		<fullname>Minchinhampton</fullname>
+		<alt>554</alt>
+		<pos>51 42.353N 002 11.175W</pos>
+	</col>
+	<col>
+		<trigraph>MIC</trigraph>
+		<fullname>Micheldever</fullname>
+		<alt>361</alt>
+		<pos>51 10.704N 001 15.655W</pos>
+	</col>
+	<col>
+		<trigraph>MIG</trigraph>
+		<fullname>Mingary Pier</fullname>
+		<alt>10</alt>
+		<pos>56 41.307N 006 05.629W</pos>
+	</col>
+	<col>
+		<trigraph>MIL</trigraph>
+		<fullname>Milfield</fullname>
+		<alt>150</alt>
+		<pos>55 35.335N 002 05.377W</pos>
+	</col>
+	<col>
+		<trigraph>MIM</trigraph>
+		<fullname>Midhurst Mast</fullname>
+		<alt>161</alt>
+		<pos>51 01.028N 000 42.021W</pos>
+	</col>
+	<col>
+		<trigraph>MIN</trigraph>
+		<fullname>Mintlaw</fullname>
+		<alt>66</alt>
+		<pos>57 31.509N 002 00.089W</pos>
+	</col>
+	<col>
+		<trigraph>MIT</trigraph>
+		<fullname>Milnthorpe</fullname>
+		<alt>177</alt>
+		<pos>54 14.181N 002 43.070W</pos>
+	</col>
+	<col>
+		<trigraph>MIW</trigraph>
+		<fullname>Midhurst West</fullname>
+		<alt>75</alt>
+		<pos>50 59.469N 000 45.458W</pos>
+	</col>
+	<col>
+		<trigraph>MLL</trigraph>
+		<fullname>Mellon Charles</fullname>
+		<alt>35</alt>
+		<pos>57 51.534N 005 38.232W</pos>
+	</col>
+	<col>
+		<trigraph>MLM</trigraph>
+		<fullname>Melmerby</fullname>
+		<alt>540</alt>
+		<pos>54 43.818N 002 35.952W</pos>
+	</col>
+	<col>
+		<trigraph>MLN</trigraph>
+		<fullname>Molton</fullname>
+		<alt>207</alt>
+		<pos>51 01.675N 003 49.480W</pos>
+	</col>
+	<col>
+		<trigraph>MLT</trigraph>
+		<fullname>Milton</fullname>
+		<alt>374</alt>
+		<pos>57 20.317N 004 30.825W</pos>
+	</col>
+	<col>
+		<trigraph>MLY</trigraph>
+		<fullname>Madley</fullname>
+		<alt>260</alt>
+		<pos>52 02.671N 002 50.847W</pos>
+	</col>
+	<col>
+		<trigraph>MNE</trigraph>
+		<fullname>Maryport NE</fullname>
+		<alt>36</alt>
+		<pos>54 43.234N 003 28.901W</pos>
+	</col>
+	<col>
+		<trigraph>MNS</trigraph>
+		<fullname>Menai Strait</fullname>
+		<alt>45</alt>
+		<pos>53 12.962N 004 11.140W</pos>
+	</col>
+	<col>
+		<trigraph>MNW</trigraph>
+		<fullname>Millom NW</fullname>
+		<alt>59</alt>
+		<pos>54 13.758N 003 20.110W</pos>
+	</col>
+	<col>
+		<trigraph>MOK</trigraph>
+		<fullname>Monkton</fullname>
+		<alt>240</alt>
+		<pos>51 20.054N 001 15.677E</pos>
+	</col>
+	<col>
+		<trigraph>MOM</trigraph>
+		<fullname>Monmouth</fullname>
+		<alt>236</alt>
+		<pos>51 48.680N 002 42.556W</pos>
+	</col>
+	<col>
+		<trigraph>MON</trigraph>
+		<fullname>Montgomery</fullname>
+		<alt>223</alt>
+		<pos>52 33.765N 003 08.878W</pos>
+	</col>
+	<col>
+		<trigraph>MOO</trigraph>
+		<fullname>Muir of Ord</fullname>
+		<alt>98</alt>
+		<pos>57 31.024N 004 27.603W</pos>
+	</col>
+	<col>
+		<trigraph>MOP</trigraph>
+		<fullname>Morpeth</fullname>
+		<alt>174</alt>
+		<pos>55 11.449N 001 42.922W</pos>
+	</col>
+	<col>
+		<trigraph>MOR</trigraph>
+		<fullname>Moreton-in-marsh</fullname>
+		<alt>440</alt>
+		<pos>51 59.413N 001 41.954W</pos>
+	</col>
+	<col>
+		<trigraph>MOS</trigraph>
+		<fullname>Mossat</fullname>
+		<alt>656</alt>
+		<pos>57 15.801N 002 52.172W</pos>
+	</col>
+	<col>
+		<trigraph>MOT</trigraph>
+		<fullname>Mortimer Church</fullname>
+		<alt>295</alt>
+		<pos>51 22.569N 001 03.706W</pos>
+	</col>
+	<col>
+		<trigraph>MOU</trigraph>
+		<fullname>Moulton Church</fullname>
+		<alt>148</alt>
+		<pos>52 14.953N 000 29.300E</pos>
+	</col>
+	<col>
+		<trigraph>MOY</trigraph>
+		<fullname>Moy Lodge</fullname>
+		<alt>837</alt>
+		<pos>56 54.991N 004 33.750W</pos>
+	</col>
+	<col>
+		<trigraph>MRE</trigraph>
+		<fullname>Margate E</fullname>
+		<alt>98</alt>
+		<pos>51 22.483N 001 26.706E</pos>
+	</col>
+	<col>
+		<trigraph>MRM</trigraph>
+		<fullname>Marham</fullname>
+		<alt>75</alt>
+		<pos>52 38.622N 000 32.367E</pos>
+	</col>
+	<col>
+		<trigraph>MRN</trigraph>
+		<fullname>Market Rasen</fullname>
+		<alt>82</alt>
+		<pos>53 23.229N 000 20.074W</pos>
+	</col>
+	<col>
+		<trigraph>MRY</trigraph>
+		<fullname>Maryport</fullname>
+		<alt>30</alt>
+		<pos>54 42.696N 003 29.824W</pos>
+	</col>
+	<col>
+		<trigraph>MSE</trigraph>
+		<fullname>Mansfield SE</fullname>
+		<alt>384</alt>
+		<pos>53 07.500N 001 08.570W</pos>
+	</col>
+	<col>
+		<trigraph>MTD</trigraph>
+		<fullname>Methwold</fullname>
+		<alt>60</alt>
+		<pos>52 31.352N 000 33.517E</pos>
+	</col>
+	<col>
+		<trigraph>MTF</trigraph>
+		<fullname>Mottisfont Station</fullname>
+		<alt>80</alt>
+		<pos>51 02.037N 001 32.837W</pos>
+	</col>
+	<col>
+		<trigraph>MTH</trigraph>
+		<fullname>Moota Hill</fullname>
+		<alt>656</alt>
+		<pos>54 42.820N 003 19.022W</pos>
+	</col>
+	<col>
+		<trigraph>MTM</trigraph>
+		<fullname>Melton Mast</fullname>
+		<alt>213</alt>
+		<pos>52 48.068N 000 48.035W</pos>
+	</col>
+	<col>
+		<trigraph>MTR</trigraph>
+		<fullname>Montrose</fullname>
+		<alt>66</alt>
+		<pos>56 42.785N 002 28.325W</pos>
+	</col>
+	<col>
+		<trigraph>MUD</trigraph>
+		<fullname>Mudford Gate</fullname>
+		<alt>725</alt>
+		<pos>50 54.236N 003 37.324W</pos>
+	</col>
+	<col>
+		<trigraph>MUM</trigraph>
+		<fullname>Mumbles Head</fullname>
+		<alt>30</alt>
+		<pos>51 34.194N 003 58.447W</pos>
+	</col>
+	<col>
+		<trigraph>MUN</trigraph>
+		<fullname>Mundford</fullname>
+		<alt>98</alt>
+		<pos>52 30.548N 000 39.364E</pos>
+	</col>
+	<col>
+		<trigraph>MUR</trigraph>
+		<fullname>Mursley</fullname>
+		<alt>390</alt>
+		<pos>51 57.346N 000 48.785W</pos>
+	</col>
+	<col>
+		<trigraph>MUT</trigraph>
+		<fullname>Murton</fullname>
+		<alt>853</alt>
+		<pos>54 35.554N 002 25.190W</pos>
+	</col>
+	<col>
+		<trigraph>MVN</trigraph>
+		<fullname>Methven</fullname>
+		<alt>394</alt>
+		<pos>56 24.958N 003 34.868W</pos>
+	</col>
+	<col>
+		<trigraph>MWD</trigraph>
+		<fullname>Mallwyd</fullname>
+		<alt>262</alt>
+		<pos>52 42.010N 003 41.168W</pos>
+	</col>
+	<col>
+		<trigraph>MWP</trigraph>
+		<fullname>Middle Wallop</fullname>
+		<alt>300</alt>
+		<pos>51 08.963N 001 34.173W</pos>
+	</col>
+	<col>
+		<trigraph>MY2</trigraph>
+		<fullname>Mynd S</fullname>
+		<alt>722</alt>
+		<pos>52 26.450N 002 56.000W</pos>
+	</col>
+	<col>
+		<trigraph>MY3</trigraph>
+		<fullname>Mynd N</fullname>
+		<alt>1083</alt>
+		<pos>52 36.188N 002 52.400W</pos>
+	</col>
+	<col>
+		<trigraph>MYN</trigraph>
+		<fullname>Mynd</fullname>
+		<alt>1411</alt>
+		<pos>52 31.119N 002 52.857W</pos>
+	</col>
+	<col>
+		<trigraph>MZI</trigraph>
+		<fullname>Monzie</fullname>
+		<alt>380</alt>
+		<pos>56 24.262N 003 49.142W</pos>
+	</col>
+	<col>
+		<trigraph>NAB</trigraph>
+		<fullname>New Abbey</fullname>
+		<alt>30</alt>
+		<pos>54 58.832N 003 37.384W</pos>
+	</col>
+	<col>
+		<trigraph>NAE</trigraph>
+		<fullname>Naseby East</fullname>
+		<alt>302</alt>
+		<pos>52 23.979N 000 54.978W</pos>
+	</col>
+	<col>
+		<trigraph>NAI</trigraph>
+		<fullname>Nailsworth</fullname>
+		<alt>190</alt>
+		<pos>51 41.719N 002 13.062W</pos>
+	</col>
+	<col>
+		<trigraph>NAN</trigraph>
+		<fullname>Narberth N</fullname>
+		<alt>295</alt>
+		<pos>51 49.002N 004 43.713W</pos>
+	</col>
+	<col>
+		<trigraph>NAW</trigraph>
+		<fullname>Naseby West</fullname>
+		<alt>292</alt>
+		<pos>52 23.791N 001 01.861W</pos>
+	</col>
+	<col>
+		<trigraph>NBR</trigraph>
+		<fullname>Norham Bridge</fullname>
+		<alt>150</alt>
+		<pos>55 43.139N 002 10.549W</pos>
+	</col>
+	<col>
+		<trigraph>NCH</trigraph>
+		<fullname>Newchurch</fullname>
+		<alt>842</alt>
+		<pos>52 08.956N 003 08.827W</pos>
+	</col>
+	<col>
+		<trigraph>NDL</trigraph>
+		<fullname>Needles</fullname>
+		<alt>1</alt>
+		<pos>50 39.740N 001 35.481W</pos>
+	</col>
+	<col>
+		<trigraph>NDU</trigraph>
+		<fullname>North Duffield</fullname>
+		<alt>26</alt>
+		<pos>53 49.411N 000 57.489W</pos>
+	</col>
+	<col>
+		<trigraph>NEC</trigraph>
+		<fullname>New Cumnock</fullname>
+		<alt>656</alt>
+		<pos>55 24.070N 004 10.970W</pos>
+	</col>
+	<col>
+		<trigraph>NED</trigraph>
+		<fullname>New Deer</fullname>
+		<alt>394</alt>
+		<pos>57 30.654N 002 11.596W</pos>
+	</col>
+	<col>
+		<trigraph>NEE</trigraph>
+		<fullname>Needham Market E</fullname>
+		<alt>82</alt>
+		<pos>52 08.775N 001 04.777E</pos>
+	</col>
+	<col>
+		<trigraph>NEF</trigraph>
+		<fullname>Nefyn</fullname>
+		<alt>48</alt>
+		<pos>52 55.483N 004 32.050W</pos>
+	</col>
+	<col>
+		<trigraph>NEG</trigraph>
+		<fullname>New Galloway</fullname>
+		<alt>164</alt>
+		<pos>55 04.872N 004 07.891W</pos>
+	</col>
+	<col>
+		<trigraph>NEM</trigraph>
+		<fullname>Newmill</fullname>
+		<alt>475</alt>
+		<pos>55 23.083N 002 51.753W</pos>
+	</col>
+	<col>
+		<trigraph>NEN</trigraph>
+		<fullname>Newbury N</fullname>
+		<alt>295</alt>
+		<pos>51 25.044N 001 19.392W</pos>
+	</col>
+	<col>
+		<trigraph>NES</trigraph>
+		<fullname>Newbury South</fullname>
+		<alt>289</alt>
+		<pos>51 20.881N 001 20.394W</pos>
+	</col>
+	<col>
+		<trigraph>NET</trigraph>
+		<fullname>Newtown</fullname>
+		<alt>246</alt>
+		<pos>52 30.786N 003 18.438W</pos>
+	</col>
+	<col>
+		<trigraph>NEW</trigraph>
+		<fullname>Newbury Racecourse</fullname>
+		<alt>249</alt>
+		<pos>51 23.832N 001 18.514W</pos>
+	</col>
+	<col>
+		<trigraph>NH2</trigraph>
+		<fullname>North Hill N</fullname>
+		<alt>785</alt>
+		<pos>50 52.542N 003 17.295W</pos>
+	</col>
+	<col>
+		<trigraph>NHL</trigraph>
+		<fullname>North Hill</fullname>
+		<alt>921</alt>
+		<pos>50 51.158N 003 16.076W</pos>
+	</col>
+	<col>
+		<trigraph>NLE</trigraph>
+		<fullname>Northleach</fullname>
+		<alt>213</alt>
+		<pos>51 50.264N 001 50.140W</pos>
+	</col>
+	<col>
+		<trigraph>NMT</trigraph>
+		<fullname>Newmarket</fullname>
+		<alt>115</alt>
+		<pos>52 16.064N 000 23.582E</pos>
+	</col>
+	<col>
+		<trigraph>NOC</trigraph>
+		<fullname>Newcastle on Clun</fullname>
+		<alt>705</alt>
+		<pos>52 26.035N 003 06.574W</pos>
+	</col>
+	<col>
+		<trigraph>NOR</trigraph>
+		<fullname>Norman Cross</fullname>
+		<alt>92</alt>
+		<pos>52 30.147N 000 17.612W</pos>
+	</col>
+	<col>
+		<trigraph>NOS</trigraph>
+		<fullname>Northampton South</fullname>
+		<alt>292</alt>
+		<pos>52 11.150N 000 53.719W</pos>
+	</col>
+	<col>
+		<trigraph>NOW</trigraph>
+		<fullname>Northampton West</fullname>
+		<alt>276</alt>
+		<pos>52 13.804N 001 00.963W</pos>
+	</col>
+	<col>
+		<trigraph>NPT</trigraph>
+		<fullname>Newport Pagnall</fullname>
+		<alt>220</alt>
+		<pos>52 05.004N 000 44.896W</pos>
+	</col>
+	<col>
+		<trigraph>NRA</trigraph>
+		<fullname>Nunraw Abbey</fullname>
+		<alt>640</alt>
+		<pos>55 55.329N 002 39.157W</pos>
+	</col>
+	<col>
+		<trigraph>NRT</trigraph>
+		<fullname>Northallerton</fullname>
+		<alt>125</alt>
+		<pos>54 20.002N 001 26.522W</pos>
+	</col>
+	<col>
+		<trigraph>NST</trigraph>
+		<fullname>Newton Stewart</fullname>
+		<alt>70</alt>
+		<pos>54 57.008N 004 28.805W</pos>
+	</col>
+	<col>
+		<trigraph>NTA</trigraph>
+		<fullname>N Tawton</fullname>
+		<alt>445</alt>
+		<pos>50 47.987N 003 53.859W</pos>
+	</col>
+	<col>
+		<trigraph>NTB</trigraph>
+		<fullname>Nethybridge</fullname>
+		<alt>689</alt>
+		<pos>57 15.891N 003 39.479W</pos>
+	</col>
+	<col>
+		<trigraph>NTN</trigraph>
+		<fullname>Neenton</fullname>
+		<alt>574</alt>
+		<pos>52 29.178N 002 32.142W</pos>
+	</col>
+	<col>
+		<trigraph>NUN</trigraph>
+		<fullname>Nunney</fullname>
+		<alt>469</alt>
+		<pos>51 12.028N 002 22.689W</pos>
+	</col>
+	<col>
+		<trigraph>NWK</trigraph>
+		<fullname>Newark</fullname>
+		<alt>39</alt>
+		<pos>53 05.611N 000 47.190W</pos>
+	</col>
+	<col>
+		<trigraph>NWT</trigraph>
+		<fullname>Newent</fullname>
+		<alt>187</alt>
+		<pos>51 56.025N 002 24.469W</pos>
+	</col>
+	<col>
+		<trigraph>NY1</trigraph>
+		<fullname>Nympsfield Finish East</fullname>
+		<alt>732</alt>
+		<pos>51 43.010N 002 16.517W</pos>
+	</col>
+	<col>
+		<trigraph>NY2</trigraph>
+		<fullname>Nympsfield Finish West</fullname>
+		<alt>745</alt>
+		<pos>51 42.752N 002 17.564W</pos>
+	</col>
+	<col>
+		<trigraph>NYM</trigraph>
+		<fullname>Nympsfield</fullname>
+		<alt>700</alt>
+		<pos>51 42.914N 002 16.881W</pos>
+	</col>
+	<col>
+		<trigraph>OAE</trigraph>
+		<fullname>Oakham E</fullname>
+		<alt>330</alt>
+		<pos>52 40.043N 000 42.814W</pos>
+	</col>
+	<col>
+		<trigraph>OAK</trigraph>
+		<fullname>Oakington</fullname>
+		<alt>148</alt>
+		<pos>52 15.448N 000 01.375E</pos>
+	</col>
+	<col>
+		<trigraph>OBA</trigraph>
+		<fullname>Oban Airfield</fullname>
+		<alt>20</alt>
+		<pos>56 27.911N 005 23.984W</pos>
+	</col>
+	<col>
+		<trigraph>OBN</trigraph>
+		<fullname>Oban Station</fullname>
+		<alt>33</alt>
+		<pos>56 24.728N 005 28.458W</pos>
+	</col>
+	<col>
+		<trigraph>ODI</trigraph>
+		<fullname>Odiham</fullname>
+		<alt>405</alt>
+		<pos>51 14.069N 000 57.063W</pos>
+	</col>
+	<col>
+		<trigraph>OGB</trigraph>
+		<fullname>Ogbourne</fullname>
+		<alt>450</alt>
+		<pos>51 28.040N 001 42.536W</pos>
+	</col>
+	<col>
+		<trigraph>OKE</trigraph>
+		<fullname>Okehampton East</fullname>
+		<alt>394</alt>
+		<pos>50 44.388N 003 57.668W</pos>
+	</col>
+	<col>
+		<trigraph>OLL</trigraph>
+		<fullname>Ollerton</fullname>
+		<alt>197</alt>
+		<pos>53 12.059N 001 01.623W</pos>
+	</col>
+	<col>
+		<trigraph>OLN</trigraph>
+		<fullname>Olney</fullname>
+		<alt>161</alt>
+		<pos>52 08.991N 000 42.061W</pos>
+	</col>
+	<col>
+		<trigraph>ORA</trigraph>
+		<fullname>Old Radnor</fullname>
+		<alt>610</alt>
+		<pos>52 13.823N 003 05.367W</pos>
+	</col>
+	<col>
+		<trigraph>OSB</trigraph>
+		<fullname>Osbournby</fullname>
+		<alt>240</alt>
+		<pos>52 55.104N 000 24.388W</pos>
+	</col>
+	<col>
+		<trigraph>OSW</trigraph>
+		<fullname>Oswestry</fullname>
+		<alt>479</alt>
+		<pos>52 52.369N 003 00.614W</pos>
+	</col>
+	<col>
+		<trigraph>OTM</trigraph>
+		<fullname>Ottercops Moss</fullname>
+		<alt>1083</alt>
+		<pos>55 12.039N 002 05.268W</pos>
+	</col>
+	<col>
+		<trigraph>OUN</trigraph>
+		<fullname>Oundle</fullname>
+		<alt>249</alt>
+		<pos>52 29.285N 000 27.551W</pos>
+	</col>
+	<col>
+		<trigraph>OUS</trigraph>
+		<fullname>Ousby E</fullname>
+		<alt>623</alt>
+		<pos>54 42.351N 002 34.758W</pos>
+	</col>
+	<col>
+		<trigraph>OVE</trigraph>
+		<fullname>Overton</fullname>
+		<alt>360</alt>
+		<pos>51 15.195N 001 15.841W</pos>
+	</col>
+	<col>
+		<trigraph>OXF</trigraph>
+		<fullname>Oxford East</fullname>
+		<alt>269</alt>
+		<pos>51 45.780N 001 11.824W</pos>
+	</col>
+	<col>
+		<trigraph>OXM</trigraph>
+		<fullname>Oxford M40 Services</fullname>
+		<alt>213</alt>
+		<pos>51 44.403N 001 05.726W</pos>
+	</col>
+	<col>
+		<trigraph>OXN</trigraph>
+		<fullname>Oxford North</fullname>
+		<alt>299</alt>
+		<pos>51 47.675N 001 17.159W</pos>
+	</col>
+	<col>
+		<trigraph>OXS</trigraph>
+		<fullname>Oxford South</fullname>
+		<alt>289</alt>
+		<pos>51 43.499N 001 14.488W</pos>
+	</col>
+	<col>
+		<trigraph>OXT</trigraph>
+		<fullname>Oxton</fullname>
+		<alt>82</alt>
+		<pos>55 46.275N 002 47.282W</pos>
+	</col>
+	<col>
+		<trigraph>PA2</trigraph>
+		<fullname>Pateley SE</fullname>
+		<alt>365</alt>
+		<pos>54 04.465N 001 44.407W</pos>
+	</col>
+	<col>
+		<trigraph>PAD</trigraph>
+		<fullname>Paddock Wood</fullname>
+		<alt>367</alt>
+		<pos>51 10.954N 000 23.197E</pos>
+	</col>
+	<col>
+		<trigraph>PAN</trigraph>
+		<fullname>Pangbourne</fullname>
+		<alt>140</alt>
+		<pos>51 29.217N 001 05.133W</pos>
+	</col>
+	<col>
+		<trigraph>PAP</trigraph>
+		<fullname>Papworth</fullname>
+		<alt>115</alt>
+		<pos>52 15.394N 000 07.392W</pos>
+	</col>
+	<col>
+		<trigraph>PAR</trigraph>
+		<fullname>Parham</fullname>
+		<alt>110</alt>
+		<pos>50 55.317N 000 28.436W</pos>
+	</col>
+	<col>
+		<trigraph>PAT</trigraph>
+		<fullname>Pateley Bridge</fullname>
+		<alt>360</alt>
+		<pos>54 05.117N 001 45.690W</pos>
+	</col>
+	<col>
+		<trigraph>PCM</trigraph>
+		<fullname>Pencombe</fullname>
+		<alt>486</alt>
+		<pos>52 10.278N 002 35.250W</pos>
+	</col>
+	<col>
+		<trigraph>PCN</trigraph>
+		<fullname>Porthcawl North</fullname>
+		<alt>85</alt>
+		<pos>51 30.968N 003 41.644W</pos>
+	</col>
+	<col>
+		<trigraph>PCS</trigraph>
+		<fullname>Portmoak Caravan Site</fullname>
+		<alt>360</alt>
+		<pos>56 11.558N 003 19.957W</pos>
+	</col>
+	<col>
+		<trigraph>PCT</trigraph>
+		<fullname>Pontefract</fullname>
+		<alt>30</alt>
+		<pos>53 41.750N 001 16.071W</pos>
+	</col>
+	<col>
+		<trigraph>PEB</trigraph>
+		<fullname>Porthmadog East Bridge</fullname>
+		<alt>20</alt>
+		<pos>52 55.477N 004 03.332W</pos>
+	</col>
+	<col>
+		<trigraph>PEE</trigraph>
+		<fullname>Peebles</fullname>
+		<alt>30</alt>
+		<pos>55 39.075N 003 11.565W</pos>
+	</col>
+	<col>
+		<trigraph>PEI</trigraph>
+		<fullname>Penrith</fullname>
+		<alt>144</alt>
+		<pos>54 39.191N 002 45.612W</pos>
+	</col>
+	<col>
+		<trigraph>PEM</trigraph>
+		<fullname>Pembroke Dock</fullname>
+		<alt>65</alt>
+		<pos>51 42.406N 004 56.016W</pos>
+	</col>
+	<col>
+		<trigraph>PEN</trigraph>
+		<fullname>Pendock</fullname>
+		<alt>200</alt>
+		<pos>51 59.723N 002 19.074W</pos>
+	</col>
+	<col>
+		<trigraph>PET</trigraph>
+		<fullname>Peterborough</fullname>
+		<alt>33</alt>
+		<pos>52 34.408N 000 14.949W</pos>
+	</col>
+	<col>
+		<trigraph>PEV</trigraph>
+		<fullname>Peveril Castle</fullname>
+		<alt>1050</alt>
+		<pos>53 20.393N 001 46.655W</pos>
+	</col>
+	<col>
+		<trigraph>PEW</trigraph>
+		<fullname>Pewsey</fullname>
+		<alt>420</alt>
+		<pos>51 20.558N 001 46.215W</pos>
+	</col>
+	<col>
+		<trigraph>PGO</trigraph>
+		<fullname>Pitsligo</fullname>
+		<alt>525</alt>
+		<pos>57 35.290N 002 11.289W</pos>
+	</col>
+	<col>
+		<trigraph>PIC</trigraph>
+		<fullname>Pickenham</fullname>
+		<alt>131</alt>
+		<pos>52 38.080N 000 43.394E</pos>
+	</col>
+	<col>
+		<trigraph>PIE</trigraph>
+		<fullname>Penrith East</fullname>
+		<alt>354</alt>
+		<pos>54 40.088N 002 41.712W</pos>
+	</col>
+	<col>
+		<trigraph>PIT</trigraph>
+		<fullname>Pitsford</fullname>
+		<alt>299</alt>
+		<pos>52 19.452N 000 51.374W</pos>
+	</col>
+	<col>
+		<trigraph>PKG</trigraph>
+		<fullname>Pickering</fullname>
+		<alt>348</alt>
+		<pos>54 14.648N 000 46.505W</pos>
+	</col>
+	<col>
+		<trigraph>PLE</trigraph>
+		<fullname>Peterlee</fullname>
+		<alt>102</alt>
+		<pos>54 44.276N 001 21.838W</pos>
+	</col>
+	<col>
+		<trigraph>PLM</trigraph>
+		<fullname>Plumpton</fullname>
+		<alt>453</alt>
+		<pos>54 43.576N 002 46.837W</pos>
+	</col>
+	<col>
+		<trigraph>PLU</trigraph>
+		<fullname>Pluckley</fullname>
+		<alt>302</alt>
+		<pos>51 09.383N 000 44.852E</pos>
+	</col>
+	<col>
+		<trigraph>PLY</trigraph>
+		<fullname>Pitlochry</fullname>
+		<alt>197</alt>
+		<pos>56 41.964N 003 44.429W</pos>
+	</col>
+	<col>
+		<trigraph>PNS</trigraph>
+		<fullname>Pontsticill Reservoir</fullname>
+		<alt>1079</alt>
+		<pos>51 47.868N 003 21.959W</pos>
+	</col>
+	<col>
+		<trigraph>PNT</trigraph>
+		<fullname>Portsmouth N</fullname>
+		<alt>280</alt>
+		<pos>50 51.205N 001 03.181W</pos>
+	</col>
+	<col>
+		<trigraph>PNW</trigraph>
+		<fullname>Parham NW</fullname>
+		<alt>110</alt>
+		<pos>50 55.670N 000 28.640W</pos>
+	</col>
+	<col>
+		<trigraph>PO1</trigraph>
+		<fullname>Portmoak NW</fullname>
+		<alt>360</alt>
+		<pos>56 12.052N 003 23.521W</pos>
+	</col>
+	<col>
+		<trigraph>PO2</trigraph>
+		<fullname>Portmoak W</fullname>
+		<alt>360</alt>
+		<pos>56 11.477N 003 20.995W</pos>
+	</col>
+	<col>
+		<trigraph>POA</trigraph>
+		<fullname>Potarch Bridge</fullname>
+		<alt>330</alt>
+		<pos>57 03.905N 002 38.932W</pos>
+	</col>
+	<col>
+		<trigraph>POC</trigraph>
+		<fullname>Pocklington</fullname>
+		<alt>87</alt>
+		<pos>53 55.559N 000 47.687W</pos>
+	</col>
+	<col>
+		<trigraph>POF</trigraph>
+		<fullname>Pontypool Folly</fullname>
+		<alt>958</alt>
+		<pos>51 43.008N 003 01.289W</pos>
+	</col>
+	<col>
+		<trigraph>POH</trigraph>
+		<fullname>Pontesbury Hill</fullname>
+		<alt>1049</alt>
+		<pos>52 38.283N 002 52.444W</pos>
+	</col>
+	<col>
+		<trigraph>POL</trigraph>
+		<fullname>Polegate</fullname>
+		<alt>125</alt>
+		<pos>50 49.276N 000 14.276E</pos>
+	</col>
+	<col>
+		<trigraph>POP</trigraph>
+		<fullname>Popham</fullname>
+		<alt>499</alt>
+		<pos>51 12.063N 001 11.459W</pos>
+	</col>
+	<col>
+		<trigraph>POR</trigraph>
+		<fullname>Portmoak Clubhouse</fullname>
+		<alt>360</alt>
+		<pos>56 11.328N 003 19.311W</pos>
+	</col>
+	<col>
+		<trigraph>POT</trigraph>
+		<fullname>Potton</fullname>
+		<alt>174</alt>
+		<pos>52 07.810N 000 14.514W</pos>
+	</col>
+	<col>
+		<trigraph>POW</trigraph>
+		<fullname>Powburn</fullname>
+		<alt>49</alt>
+		<pos>55 26.881N 001 54.544W</pos>
+	</col>
+	<col>
+		<trigraph>PPE</trigraph>
+		<fullname>Pontypool E</fullname>
+		<alt>249</alt>
+		<pos>51 40.903N 002 58.750W</pos>
+	</col>
+	<col>
+		<trigraph>PPN</trigraph>
+		<fullname>Pontypool N</fullname>
+		<alt>335</alt>
+		<pos>51 43.131N 003 00.692W</pos>
+	</col>
+	<col>
+		<trigraph>PPP</trigraph>
+		<fullname>Port Appin</fullname>
+		<alt>35</alt>
+		<pos>56 33.277N 005 24.621W</pos>
+	</col>
+	<col>
+		<trigraph>PR1</trigraph>
+		<fullname>Park Control Point E</fullname>
+		<alt>656</alt>
+		<pos>51 08.166N 002 09.717W</pos>
+	</col>
+	<col>
+		<trigraph>PRE</trigraph>
+		<fullname>Presteigne</fullname>
+		<alt>308</alt>
+		<pos>52 16.527N 003 00.189W</pos>
+	</col>
+	<col>
+		<trigraph>PRI</trigraph>
+		<fullname>Prince's Risborough</fullname>
+		<alt>377</alt>
+		<pos>51 43.203N 000 50.676W</pos>
+	</col>
+	<col>
+		<trigraph>PRK</trigraph>
+		<fullname>Park, the</fullname>
+		<alt>697</alt>
+		<pos>51 07.830N 002 14.420W</pos>
+	</col>
+	<col>
+		<trigraph>PRN</trigraph>
+		<fullname>Preston North</fullname>
+		<alt>80</alt>
+		<pos>53 50.235N 002 44.364W</pos>
+	</col>
+	<col>
+		<trigraph>PRT</trigraph>
+		<fullname>Portree</fullname>
+		<alt>70</alt>
+		<pos>57 24.644N 006 11.479W</pos>
+	</col>
+	<col>
+		<trigraph>PSE</trigraph>
+		<fullname>Pershore se</fullname>
+		<alt>167</alt>
+		<pos>52 06.243N 002 04.281W</pos>
+	</col>
+	<col>
+		<trigraph>PSH</trigraph>
+		<fullname>Portesham</fullname>
+		<alt>220</alt>
+		<pos>50 40.171N 002 33.879W</pos>
+	</col>
+	<col>
+		<trigraph>PTD</trigraph>
+		<fullname>Pontardulais</fullname>
+		<alt>98</alt>
+		<pos>51 42.562N 004 03.615W</pos>
+	</col>
+	<col>
+		<trigraph>PTE</trigraph>
+		<fullname>Port Eynon</fullname>
+		<alt>20</alt>
+		<pos>51 32.659N 004 12.617W</pos>
+	</col>
+	<col>
+		<trigraph>PTF</trigraph>
+		<fullname>Petersfield South</fullname>
+		<alt>246</alt>
+		<pos>50 59.095N 000 57.487W</pos>
+	</col>
+	<col>
+		<trigraph>PTH</trigraph>
+		<fullname>Perth</fullname>
+		<alt>108</alt>
+		<pos>56 22.797N 003 24.527W</pos>
+	</col>
+	<col>
+		<trigraph>PTM</trigraph>
+		<fullname>Porthmadog</fullname>
+		<alt>36</alt>
+		<pos>52 56.366N 004 08.513W</pos>
+	</col>
+	<col>
+		<trigraph>PTN</trigraph>
+		<fullname>Pirton</fullname>
+		<alt>130</alt>
+		<pos>52 07.500N 002 10.662W</pos>
+	</col>
+	<col>
+		<trigraph>PTR</trigraph>
+		<fullname>Portsmouth Tower</fullname>
+		<alt>380</alt>
+		<pos>50 47.735N 001 06.512W</pos>
+	</col>
+	<col>
+		<trigraph>PTW</trigraph>
+		<fullname>Petersfield West</fullname>
+		<alt>243</alt>
+		<pos>51 00.496N 000 57.190W</pos>
+	</col>
+	<col>
+		<trigraph>PWN</trigraph>
+		<fullname>Penwhirn Reservoir</fullname>
+		<alt>33</alt>
+		<pos>54 59.023N 004 55.506W</pos>
+	</col>
+	<col>
+		<trigraph>PWW</trigraph>
+		<fullname>Pwllheli West</fullname>
+		<alt>46</alt>
+		<pos>52 53.749N 004 27.162W</pos>
+	</col>
+	<col>
+		<trigraph>PYE</trigraph>
+		<fullname>Plymouth E</fullname>
+		<alt>60</alt>
+		<pos>50 23.477N 004 05.210W</pos>
+	</col>
+	<col>
+		<trigraph>PYF</trigraph>
+		<fullname>Pen-y-Fan</fullname>
+		<alt>2907</alt>
+		<pos>51 53.051N 003 26.212W</pos>
+	</col>
+	<col>
+		<trigraph>PYS</trigraph>
+		<fullname>Prestatyn S</fullname>
+		<alt>280</alt>
+		<pos>53 19.409N 003 23.958W</pos>
+	</col>
+	<col>
+		<trigraph>PYW</trigraph>
+		<fullname>Plymouth W</fullname>
+		<alt>164</alt>
+		<pos>50 25.137N 004 14.049W</pos>
+	</col>
+	<col>
+		<trigraph>RAB</trigraph>
+		<fullname>Ramsbury</fullname>
+		<alt>360</alt>
+		<pos>51 26.514N 001 36.067W</pos>
+	</col>
+	<col>
+		<trigraph>RAD</trigraph>
+		<fullname>Radstock</fullname>
+		<alt>433</alt>
+		<pos>51 16.747N 002 24.600W</pos>
+	</col>
+	<col>
+		<trigraph>RAG</trigraph>
+		<fullname>Raglan</fullname>
+		<alt>279</alt>
+		<pos>51 46.025N 002 50.070W</pos>
+	</col>
+	<col>
+		<trigraph>RAM</trigraph>
+		<fullname>Ramsey</fullname>
+		<alt>108</alt>
+		<pos>52 26.906N 000 06.356W</pos>
+	</col>
+	<col>
+		<trigraph>RAN</trigraph>
+		<fullname>Rannoch Station</fullname>
+		<alt>968</alt>
+		<pos>56 41.153N 004 34.601W</pos>
+	</col>
+	<col>
+		<trigraph>RAR</trigraph>
+		<fullname>Ravensthorpe Reservoir</fullname>
+		<alt>351</alt>
+		<pos>52 20.024N 001 00.660W</pos>
+	</col>
+	<col>
+		<trigraph>RAV</trigraph>
+		<fullname>Ravenglass N</fullname>
+		<alt>26</alt>
+		<pos>54 21.984N 003 23.735W</pos>
+	</col>
+	<col>
+		<trigraph>RBR</trigraph>
+		<fullname>Roybridge</fullname>
+		<alt>312</alt>
+		<pos>56 53.443N 004 50.462W</pos>
+	</col>
+	<col>
+		<trigraph>RBS</trigraph>
+		<fullname>Rosebush</fullname>
+		<alt>815</alt>
+		<pos>51 56.135N 004 49.309W</pos>
+	</col>
+	<col>
+		<trigraph>RBY</trigraph>
+		<fullname>Rothbury</fullname>
+		<alt>118</alt>
+		<pos>55 18.600N 001 54.610W</pos>
+	</col>
+	<col>
+		<trigraph>RDN</trigraph>
+		<fullname>Rattlesden A/F Centre</fullname>
+		<alt>284</alt>
+		<pos>52 10.083N 000 51.903E</pos>
+	</col>
+	<col>
+		<trigraph>RDW</trigraph>
+		<fullname>Radway</fullname>
+		<alt>650</alt>
+		<pos>52 07.863N 001 26.696W</pos>
+	</col>
+	<col>
+		<trigraph>REA</trigraph>
+		<fullname>Reading West</fullname>
+		<alt>165</alt>
+		<pos>51 26.337N 001 03.939W</pos>
+	</col>
+	<col>
+		<trigraph>REE</trigraph>
+		<fullname>Reedham</fullname>
+		<alt>118</alt>
+		<pos>52 33.821N 001 34.204E</pos>
+	</col>
+	<col>
+		<trigraph>RHD</trigraph>
+		<fullname>Rattray Head</fullname>
+		<alt>98</alt>
+		<pos>57 36.616N 001 48.994W</pos>
+	</col>
+	<col>
+		<trigraph>RHI</trigraph>
+		<fullname>Rhigos</fullname>
+		<alt>780</alt>
+		<pos>51 44.770N 003 34.910W</pos>
+	</col>
+	<col>
+		<trigraph>RHO</trigraph>
+		<fullname>Rhossdhu House</fullname>
+		<alt>49</alt>
+		<pos>56 04.234N 004 37.989W</pos>
+	</col>
+	<col>
+		<trigraph>RHU</trigraph>
+		<fullname>Rhuddlan</fullname>
+		<alt>108</alt>
+		<pos>53 17.484N 003 28.417W</pos>
+	</col>
+	<col>
+		<trigraph>RHY</trigraph>
+		<fullname>Rhayader</fullname>
+		<alt>289</alt>
+		<pos>52 17.961N 003 30.836W</pos>
+	</col>
+	<col>
+		<trigraph>RI2</trigraph>
+		<fullname>Rivar Hill North</fullname>
+		<alt>453</alt>
+		<pos>51 21.832N 001 33.056W</pos>
+	</col>
+	<col>
+		<trigraph>RIC</trigraph>
+		<fullname>Richmond</fullname>
+		<alt>130</alt>
+		<pos>54 24.237N 001 43.848W</pos>
+	</col>
+	<col>
+		<trigraph>RID</trigraph>
+		<fullname>Ridgewell Church</fullname>
+		<alt>273</alt>
+		<pos>52 02.331N 000 32.121E</pos>
+	</col>
+	<col>
+		<trigraph>RIN</trigraph>
+		<fullname>Ringmer</fullname>
+		<alt>72</alt>
+		<pos>50 54.575N 000 06.430E</pos>
+	</col>
+	<col>
+		<trigraph>RIP</trigraph>
+		<fullname>Ripon</fullname>
+		<alt>102</alt>
+		<pos>54 08.105N 001 31.237W</pos>
+	</col>
+	<col>
+		<trigraph>RIV</trigraph>
+		<fullname>Rivar Hill</fullname>
+		<alt>682</alt>
+		<pos>51 20.500N 001 32.566W</pos>
+	</col>
+	<col>
+		<trigraph>RIW</trigraph>
+		<fullname>Ridgewell Field</fullname>
+		<alt>273</alt>
+		<pos>52 02.846N 000 33.533E</pos>
+	</col>
+	<col>
+		<trigraph>RNE</trigraph>
+		<fullname>Rugby Northeast</fullname>
+		<alt>279</alt>
+		<pos>52 24.224N 001 10.592W</pos>
+	</col>
+	<col>
+		<trigraph>RNI</trigraph>
+		<fullname>Rhynie</fullname>
+		<alt>492</alt>
+		<pos>57 19.923N 002 50.027W</pos>
+	</col>
+	<col>
+		<trigraph>ROA</trigraph>
+		<fullname>Roadford</fullname>
+		<alt>463</alt>
+		<pos>50 41.345N 004 14.140W</pos>
+	</col>
+	<col>
+		<trigraph>ROC</trigraph>
+		<fullname>Rochester</fullname>
+		<alt>417</alt>
+		<pos>51 20.167N 000 35.089E</pos>
+	</col>
+	<col>
+		<trigraph>ROD</trigraph>
+		<fullname>Rodney's Pillar</fullname>
+		<alt>1198</alt>
+		<pos>52 43.365N 003 02.709W</pos>
+	</col>
+	<col>
+		<trigraph>ROH</trigraph>
+		<fullname>Rothes</fullname>
+		<alt>131</alt>
+		<pos>57 31.890N 003 12.505W</pos>
+	</col>
+	<col>
+		<trigraph>ROS</trigraph>
+		<fullname>Ross-on-wye</fullname>
+		<alt>141</alt>
+		<pos>51 54.965N 002 36.054W</pos>
+	</col>
+	<col>
+		<trigraph>ROT</trigraph>
+		<fullname>Rotherham</fullname>
+		<alt>135</alt>
+		<pos>53 25.419N 001 15.079W</pos>
+	</col>
+	<col>
+		<trigraph>ROU</trigraph>
+		<fullname>Rougham Field</fullname>
+		<alt>184</alt>
+		<pos>52 14.912N 000 46.000E</pos>
+	</col>
+	<col>
+		<trigraph>ROY</trigraph>
+		<fullname>Royston</fullname>
+		<alt>112</alt>
+		<pos>52 03.192N 000 01.586W</pos>
+	</col>
+	<col>
+		<trigraph>RSE</trigraph>
+		<fullname>Redruth SE</fullname>
+		<alt>180</alt>
+		<pos>50 12.921N 005 10.609W</pos>
+	</col>
+	<col>
+		<trigraph>RSN</trigraph>
+		<fullname>Rosneath</fullname>
+		<alt>49</alt>
+		<pos>56 00.338N 004 47.629W</pos>
+	</col>
+	<col>
+		<trigraph>RSY</trigraph>
+		<fullname>Rothesay</fullname>
+		<alt>43</alt>
+		<pos>55 50.253N 005 03.255W</pos>
+	</col>
+	<col>
+		<trigraph>RTH</trigraph>
+		<fullname>Rosthwaite</fullname>
+		<alt>312</alt>
+		<pos>54 31.549N 003 08.962W</pos>
+	</col>
+	<col>
+		<trigraph>RU1</trigraph>
+		<fullname>Rufforth South</fullname>
+		<alt>101</alt>
+		<pos>53 54.959N 001 10.524W</pos>
+	</col>
+	<col>
+		<trigraph>RUB</trigraph>
+		<fullname>Rubha Reidh</fullname>
+		<alt>150</alt>
+		<pos>57 51.523N 005 48.704W</pos>
+	</col>
+	<col>
+		<trigraph>RUF</trigraph>
+		<fullname>Rufforth</fullname>
+		<alt>65</alt>
+		<pos>53 57.100N 001 11.332W</pos>
+	</col>
+	<col>
+		<trigraph>RUG</trigraph>
+		<fullname>Rugby</fullname>
+		<alt>262</alt>
+		<pos>52 20.014N 001 17.697W</pos>
+	</col>
+	<col>
+		<trigraph>RUN</trigraph>
+		<fullname>Ruthin NE</fullname>
+		<alt>1818</alt>
+		<pos>53 09.267N 003 15.357W</pos>
+	</col>
+	<col>
+		<trigraph>RUS</trigraph>
+		<fullname>Rushden</fullname>
+		<alt>226</alt>
+		<pos>52 19.458N 000 35.905W</pos>
+	</col>
+	<col>
+		<trigraph>RUW</trigraph>
+		<fullname>Ruthin West</fullname>
+		<alt>197</alt>
+		<pos>53 06.653N 003 19.226W</pos>
+	</col>
+	<col>
+		<trigraph>RVN</trigraph>
+		<fullname>Ruthven</fullname>
+		<alt>780</alt>
+		<pos>57 04.320N 004 02.360W</pos>
+	</col>
+	<col>
+		<trigraph>RWD</trigraph>
+		<fullname>Rutland Water Dam</fullname>
+		<alt>281</alt>
+		<pos>52 39.837N 000 36.730W</pos>
+	</col>
+	<col>
+		<trigraph>RYB</trigraph>
+		<fullname>Rydal Bridge</fullname>
+		<alt>220</alt>
+		<pos>54 26.910N 003 00.414W</pos>
+	</col>
+	<col>
+		<trigraph>RYD</trigraph>
+		<fullname>Ryde</fullname>
+		<alt>10</alt>
+		<pos>50 43.886N 001 09.374W</pos>
+	</col>
+	<col>
+		<trigraph>RYE</trigraph>
+		<fullname>Rye</fullname>
+		<alt>33</alt>
+		<pos>50 57.323N 000 44.327E</pos>
+	</col>
+	<col>
+		<trigraph>SAC</trigraph>
+		<fullname>Sackville</fullname>
+		<alt>250</alt>
+		<pos>52 15.867N 000 29.090W</pos>
+	</col>
+	<col>
+		<trigraph>SAL</trigraph>
+		<fullname>Salisbury Cathedral</fullname>
+		<alt>151</alt>
+		<pos>51 03.885N 001 47.839W</pos>
+	</col>
+	<col>
+		<trigraph>SAN</trigraph>
+		<fullname>Sandhill Farm</fullname>
+		<alt>350</alt>
+		<pos>51 36.234N 001 40.591W</pos>
+	</col>
+	<col>
+		<trigraph>SAP</trigraph>
+		<fullname>Shap</fullname>
+		<alt>880</alt>
+		<pos>54 32.111N 002 40.730W</pos>
+	</col>
+	<col>
+		<trigraph>SAR</trigraph>
+		<fullname>Sarnesfield</fullname>
+		<alt>312</alt>
+		<pos>52 09.092N 002 55.227W</pos>
+	</col>
+	<col>
+		<trigraph>SAS</trigraph>
+		<fullname>Salisbury South</fullname>
+		<alt>322</alt>
+		<pos>51 02.348N 001 45.364W</pos>
+	</col>
+	<col>
+		<trigraph>SAW</trigraph>
+		<fullname>Sandwich</fullname>
+		<alt>240</alt>
+		<pos>51 16.763N 001 19.290E</pos>
+	</col>
+	<col>
+		<trigraph>SAX</trigraph>
+		<fullname>Saxthorpe</fullname>
+		<alt>135</alt>
+		<pos>52 49.825N 001 08.350E</pos>
+	</col>
+	<col>
+		<trigraph>SB2</trigraph>
+		<fullname>Saltby NW</fullname>
+		<alt>490</alt>
+		<pos>52 51.208N 000 45.463W</pos>
+	</col>
+	<col>
+		<trigraph>SBB</trigraph>
+		<fullname>Strubby</fullname>
+		<alt>47</alt>
+		<pos>53 18.457N 000 10.043E</pos>
+	</col>
+	<col>
+		<trigraph>SBR</trigraph>
+		<fullname>Santon Bridge</fullname>
+		<alt>85</alt>
+		<pos>54 24.119N 003 22.332W</pos>
+	</col>
+	<col>
+		<trigraph>SBY</trigraph>
+		<fullname>Saltby</fullname>
+		<alt>480</alt>
+		<pos>52 49.718N 000 42.860W</pos>
+	</col>
+	<col>
+		<trigraph>SCB</trigraph>
+		<fullname>Scarborough</fullname>
+		<alt>131</alt>
+		<pos>54 16.916N 000 23.351W</pos>
+	</col>
+	<col>
+		<trigraph>SCF</trigraph>
+		<fullname>Scalford Church</fullname>
+		<alt>379</alt>
+		<pos>52 48.558N 000 52.183W</pos>
+	</col>
+	<col>
+		<trigraph>SCL</trigraph>
+		<fullname>Scoulton</fullname>
+		<alt>167</alt>
+		<pos>52 34.284N 000 56.141E</pos>
+	</col>
+	<col>
+		<trigraph>SCN</trigraph>
+		<fullname>Strathcarron</fullname>
+		<alt>50</alt>
+		<pos>57 25.341N 005 25.736W</pos>
+	</col>
+	<col>
+		<trigraph>SCO</trigraph>
+		<fullname>Scourie</fullname>
+		<alt>20</alt>
+		<pos>58 21.089N 005 09.314W</pos>
+	</col>
+	<col>
+		<trigraph>SCP</trigraph>
+		<fullname>St Catherine's Point</fullname>
+		<alt>30</alt>
+		<pos>50 34.530N 001 17.910W</pos>
+	</col>
+	<col>
+		<trigraph>SCU</trigraph>
+		<fullname>Scunthorpe N</fullname>
+		<alt>131</alt>
+		<pos>53 36.256N 000 39.166W</pos>
+	</col>
+	<col>
+		<trigraph>SDV</trigraph>
+		<fullname>St Davids</fullname>
+		<alt>164</alt>
+		<pos>51 52.902N 005 16.133W</pos>
+	</col>
+	<col>
+		<trigraph>SE2</trigraph>
+		<fullname>Seighford Hangar</fullname>
+		<alt>321</alt>
+		<pos>52 49.666N 002 12.553W</pos>
+	</col>
+	<col>
+		<trigraph>SEA</trigraph>
+		<fullname>Seaford East</fullname>
+		<alt>15</alt>
+		<pos>50 46.395N 000 08.760E</pos>
+	</col>
+	<col>
+		<trigraph>SED</trigraph>
+		<fullname>Sedbergh</fullname>
+		<alt>39</alt>
+		<pos>54 19.476N 002 34.066W</pos>
+	</col>
+	<col>
+		<trigraph>SEL</trigraph>
+		<fullname>Selset Reservoir</fullname>
+		<alt>1050</alt>
+		<pos>54 35.362N 002 07.649W</pos>
+	</col>
+	<col>
+		<trigraph>SEN</trigraph>
+		<fullname>Sennybridge</fullname>
+		<alt>625</alt>
+		<pos>51 57.002N 003 33.717W</pos>
+	</col>
+	<col>
+		<trigraph>SET</trigraph>
+		<fullname>Settle</fullname>
+		<alt>75</alt>
+		<pos>54 03.008N 002 17.162W</pos>
+	</col>
+	<col>
+		<trigraph>SEV</trigraph>
+		<fullname>Severn Bridge N</fullname>
+		<alt>243</alt>
+		<pos>51 36.204N 002 37.371W</pos>
+	</col>
+	<col>
+		<trigraph>SEW</trigraph>
+		<fullname>Sheffield West</fullname>
+		<alt>1076</alt>
+		<pos>53 21.941N 001 35.743W</pos>
+	</col>
+	<col>
+		<trigraph>SFB</trigraph>
+		<fullname>Stamford Bridge</fullname>
+		<alt>62</alt>
+		<pos>53 59.473N 000 55.005W</pos>
+	</col>
+	<col>
+		<trigraph>SFD</trigraph>
+		<fullname>Sleaford</fullname>
+		<alt>207</alt>
+		<pos>52 59.626N 000 23.301W</pos>
+	</col>
+	<col>
+		<trigraph>SFE</trigraph>
+		<fullname>Sheffield East</fullname>
+		<alt>174</alt>
+		<pos>53 21.731N 001 17.010W</pos>
+	</col>
+	<col>
+		<trigraph>SFW</trigraph>
+		<fullname>Stratford West</fullname>
+		<alt>148</alt>
+		<pos>52 10.548N 001 47.380W</pos>
+	</col>
+	<col>
+		<trigraph>SGW</trigraph>
+		<fullname>Stelling Windmill</fullname>
+		<alt>476</alt>
+		<pos>51 10.640N 001 04.156E</pos>
+	</col>
+	<col>
+		<trigraph>SH2</trigraph>
+		<fullname>Shobdon NW</fullname>
+		<alt>475</alt>
+		<pos>52 15.681N 002 55.530W</pos>
+	</col>
+	<col>
+		<trigraph>SH3</trigraph>
+		<fullname>Shobdon E</fullname>
+		<alt>290</alt>
+		<pos>52 16.265N 002 46.822W</pos>
+	</col>
+	<col>
+		<trigraph>SH4</trigraph>
+		<fullname>Shobdon West</fullname>
+		<alt>250</alt>
+		<pos>52 14.450N 002 58.490W</pos>
+	</col>
+	<col>
+		<trigraph>SHA</trigraph>
+		<fullname>Shaftesbury</fullname>
+		<alt>650</alt>
+		<pos>51 00.120N 002 11.079W</pos>
+	</col>
+	<col>
+		<trigraph>SHB</trigraph>
+		<fullname>Sherborne</fullname>
+		<alt>161</alt>
+		<pos>50 56.428N 002 31.244W</pos>
+	</col>
+	<col>
+		<trigraph>SHD</trigraph>
+		<fullname>Stoer Head</fullname>
+		<alt>92</alt>
+		<pos>58 14.402N 005 24.162W</pos>
+	</col>
+	<col>
+		<trigraph>SHE</trigraph>
+		<fullname>Sheffield North</fullname>
+		<alt>135</alt>
+		<pos>53 27.354N 001 26.728W</pos>
+	</col>
+	<col>
+		<trigraph>SHI</trigraph>
+		<fullname>Shirebrook Station</fullname>
+		<alt>223</alt>
+		<pos>53 12.198N 001 12.170W</pos>
+	</col>
+	<col>
+		<trigraph>SHL</trigraph>
+		<fullname>Salt Hill Mast</fullname>
+		<alt>240</alt>
+		<pos>50 58.409N 001 02.425W</pos>
+	</col>
+	<col>
+		<trigraph>SHM</trigraph>
+		<fullname>Shepton Mallett</fullname>
+		<alt>489</alt>
+		<pos>51 11.261N 002 32.166W</pos>
+	</col>
+	<col>
+		<trigraph>SHO</trigraph>
+		<fullname>Shobdon</fullname>
+		<alt>328</alt>
+		<pos>52 14.524N 002 52.466W</pos>
+	</col>
+	<col>
+		<trigraph>SHP</trigraph>
+		<fullname>Shipston-on-stour</fullname>
+		<alt>171</alt>
+		<pos>52 05.831N 001 37.742W</pos>
+	</col>
+	<col>
+		<trigraph>SHS</trigraph>
+		<fullname>Shrewsbury</fullname>
+		<alt>171</alt>
+		<pos>52 42.626N 002 44.882W</pos>
+	</col>
+	<col>
+		<trigraph>SHT</trigraph>
+		<fullname>Shottaton</fullname>
+		<alt>303</alt>
+		<pos>52 47.911N 002 57.028W</pos>
+	</col>
+	<col>
+		<trigraph>SHV</trigraph>
+		<fullname>Shrivenham N</fullname>
+		<alt>335</alt>
+		<pos>51 36.934N 001 38.195W</pos>
+	</col>
+	<col>
+		<trigraph>SHW</trigraph>
+		<fullname>Shrewsbury NW</fullname>
+		<alt>272</alt>
+		<pos>52 42.986N 002 47.624W</pos>
+	</col>
+	<col>
+		<trigraph>SHY</trigraph>
+		<fullname>Shawbury</fullname>
+		<alt>240</alt>
+		<pos>52 47.876N 002 40.080W</pos>
+	</col>
+	<col>
+		<trigraph>SID</trigraph>
+		<fullname>Sidmouth</fullname>
+		<alt>30</alt>
+		<pos>50 40.745N 003 14.054W</pos>
+	</col>
+	<col>
+		<trigraph>SIL</trigraph>
+		<fullname>Silverstone</fullname>
+		<alt>502</alt>
+		<pos>52 04.376N 001 00.496W</pos>
+	</col>
+	<col>
+		<trigraph>SIS</trigraph>
+		<fullname>Stirling South</fullname>
+		<alt>118</alt>
+		<pos>56 04.651N 003 55.216W</pos>
+	</col>
+	<col>
+		<trigraph>SIT</trigraph>
+		<fullname>Sittingbourne</fullname>
+		<alt>407</alt>
+		<pos>51 19.770N 000 39.804E</pos>
+	</col>
+	<col>
+		<trigraph>SIW</trigraph>
+		<fullname>Stirling Northwest</fullname>
+		<alt>105</alt>
+		<pos>56 08.070N 003 58.273W</pos>
+	</col>
+	<col>
+		<trigraph>SIX</trigraph>
+		<fullname>Sixpenny Handley</fullname>
+		<alt>390</alt>
+		<pos>50 56.946N 001 59.160W</pos>
+	</col>
+	<col>
+		<trigraph>SKB</trigraph>
+		<fullname>Stickney Bridge</fullname>
+		<alt>10</alt>
+		<pos>53 04.022N 000 00.929E</pos>
+	</col>
+	<col>
+		<trigraph>SKE</trigraph>
+		<fullname>Skeffington</fullname>
+		<alt>384</alt>
+		<pos>52 37.155N 000 55.336W</pos>
+	</col>
+	<col>
+		<trigraph>SKF</trigraph>
+		<fullname>Skelling Farm</fullname>
+		<alt>597</alt>
+		<pos>54 41.876N 002 35.002W</pos>
+	</col>
+	<col>
+		<trigraph>SKS</trigraph>
+		<fullname>Stocks Reservoir South West</fullname>
+		<alt>625</alt>
+		<pos>53 59.208N 002 25.728W</pos>
+	</col>
+	<col>
+		<trigraph>SKW</trigraph>
+		<fullname>Selkirk W</fullname>
+		<alt>492</alt>
+		<pos>55 32.628N 002 54.020W</pos>
+	</col>
+	<col>
+		<trigraph>SLE</trigraph>
+		<fullname>Sleap</fullname>
+		<alt>275</alt>
+		<pos>52 50.072N 002 46.221W</pos>
+	</col>
+	<col>
+		<trigraph>SLL</trigraph>
+		<fullname>Silloth</fullname>
+		<alt>23</alt>
+		<pos>54 51.618N 003 23.085W</pos>
+	</col>
+	<col>
+		<trigraph>SLS</trigraph>
+		<fullname>Selsey Bill</fullname>
+		<alt>30</alt>
+		<pos>50 43.634N 000 46.732W</pos>
+	</col>
+	<col>
+		<trigraph>SMA</trigraph>
+		<fullname>Smailholm Tower</fullname>
+		<alt>680</alt>
+		<pos>55 36.256N 002 34.559W</pos>
+	</col>
+	<col>
+		<trigraph>SMB</trigraph>
+		<fullname>Six Mile Bottom</fullname>
+		<alt>98</alt>
+		<pos>52 11.147N 000 17.936E</pos>
+	</col>
+	<col>
+		<trigraph>SML</trigraph>
+		<fullname>St Mary's Loch</fullname>
+		<alt>30</alt>
+		<pos>55 29.541N 003 12.283W</pos>
+	</col>
+	<col>
+		<trigraph>SN2</trigraph>
+		<fullname>Snitterfield SW</fullname>
+		<alt>280</alt>
+		<pos>52 13.374N 001 44.126W</pos>
+	</col>
+	<col>
+		<trigraph>SNA</trigraph>
+		<fullname>Snainton</fullname>
+		<alt>220</alt>
+		<pos>54 13.716N 000 35.718W</pos>
+	</col>
+	<col>
+		<trigraph>SNI</trigraph>
+		<fullname>Snitterfield</fullname>
+		<alt>375</alt>
+		<pos>52 14.136N 001 42.645W</pos>
+	</col>
+	<col>
+		<trigraph>SNO</trigraph>
+		<fullname>Swindon N</fullname>
+		<alt>480</alt>
+		<pos>51 36.535N 001 47.269W</pos>
+	</col>
+	<col>
+		<trigraph>SNP</trigraph>
+		<fullname>Staindrop</fullname>
+		<alt>95</alt>
+		<pos>54 34.881N 001 47.902W</pos>
+	</col>
+	<col>
+		<trigraph>SNS</trigraph>
+		<fullname>St Neots S</fullname>
+		<alt>72</alt>
+		<pos>52 11.074N 000 18.321W</pos>
+	</col>
+	<col>
+		<trigraph>SNW</trigraph>
+		<fullname>Stratford NW</fullname>
+		<alt>195</alt>
+		<pos>52 13.215N 001 45.699W</pos>
+	</col>
+	<col>
+		<trigraph>SOA</trigraph>
+		<fullname>Stratford</fullname>
+		<alt>121</alt>
+		<pos>52 11.481N 001 42.004W</pos>
+	</col>
+	<col>
+		<trigraph>SOF</trigraph>
+		<fullname>Sutton-on-forest</fullname>
+		<alt>72</alt>
+		<pos>54 04.510N 001 06.089W</pos>
+	</col>
+	<col>
+		<trigraph>SOH</trigraph>
+		<fullname>Soham</fullname>
+		<alt>102</alt>
+		<pos>52 18.943N 000 20.453E</pos>
+	</col>
+	<col>
+		<trigraph>SOS</trigraph>
+		<fullname>Stokenchurch South</fullname>
+		<alt>690</alt>
+		<pos>51 38.822N 000 53.433W</pos>
+	</col>
+	<col>
+		<trigraph>SOU</trigraph>
+		<fullname>Southam</fullname>
+		<alt>217</alt>
+		<pos>52 14.769N 001 23.461W</pos>
+	</col>
+	<col>
+		<trigraph>SPA</trigraph>
+		<fullname>Spalding</fullname>
+		<alt>23</alt>
+		<pos>52 47.187N 000 09.561W</pos>
+	</col>
+	<col>
+		<trigraph>SPB</trigraph>
+		<fullname>Sharperton Bridge</fullname>
+		<alt>417</alt>
+		<pos>55 19.685N 002 04.363W</pos>
+	</col>
+	<col>
+		<trigraph>SPD</trigraph>
+		<fullname>Spey Dam</fullname>
+		<alt>886</alt>
+		<pos>57 00.670N 004 20.186W</pos>
+	</col>
+	<col>
+		<trigraph>SPE</trigraph>
+		<fullname>Spean Bridge</fullname>
+		<alt>617</alt>
+		<pos>56 53.582N 004 55.202W</pos>
+	</col>
+	<col>
+		<trigraph>SPH</trigraph>
+		<fullname>Staplehurst</fullname>
+		<alt>121</alt>
+		<pos>51 10.275N 000 33.119E</pos>
+	</col>
+	<col>
+		<trigraph>SPI</trigraph>
+		<fullname>Spilsby</fullname>
+		<alt>46</alt>
+		<pos>53 11.385N 000 06.148E</pos>
+	</col>
+	<col>
+		<trigraph>SPL</trigraph>
+		<fullname>Spittal of Glenshee</fullname>
+		<alt>1100</alt>
+		<pos>56 48.742N 003 27.455W</pos>
+	</col>
+	<col>
+		<trigraph>SPN</trigraph>
+		<fullname>Spinningdale Bridge</fullname>
+		<alt>30</alt>
+		<pos>57 52.623N 004 14.190W</pos>
+	</col>
+	<col>
+		<trigraph>SPP</trigraph>
+		<fullname>Sheppey E</fullname>
+		<alt>16</alt>
+		<pos>51 22.389N 000 57.028E</pos>
+	</col>
+	<col>
+		<trigraph>SPS</trigraph>
+		<fullname>Shap S</fullname>
+		<alt>920</alt>
+		<pos>54 29.871N 002 41.542W</pos>
+	</col>
+	<col>
+		<trigraph>SPT</trigraph>
+		<fullname>Shipton</fullname>
+		<alt>269</alt>
+		<pos>52 31.177N 002 38.993W</pos>
+	</col>
+	<col>
+		<trigraph>SPU</trigraph>
+		<fullname>Spurn Head North</fullname>
+		<alt>5</alt>
+		<pos>53 37.194N 000 07.763E</pos>
+	</col>
+	<col>
+		<trigraph>SRE</trigraph>
+		<fullname>Stroud E</fullname>
+		<alt>656</alt>
+		<pos>51 44.698N 002 11.425W</pos>
+	</col>
+	<col>
+		<trigraph>SRN</trigraph>
+		<fullname>Strontian</fullname>
+		<alt>30</alt>
+		<pos>56 41.755N 005 34.281W</pos>
+	</col>
+	<col>
+		<trigraph>SRR</trigraph>
+		<fullname>Storrington SW</fullname>
+		<alt>558</alt>
+		<pos>50 54.123N 000 28.687W</pos>
+	</col>
+	<col>
+		<trigraph>SSO</trigraph>
+		<fullname>Sheffield South</fullname>
+		<alt>591</alt>
+		<pos>53 19.601N 001 28.410W</pos>
+	</col>
+	<col>
+		<trigraph>SSW</trigraph>
+		<fullname>Stoke SW</fullname>
+		<alt>518</alt>
+		<pos>52 59.623N 002 17.366W</pos>
+	</col>
+	<col>
+		<trigraph>STA</trigraph>
+		<fullname>Stafford</fullname>
+		<alt>259</alt>
+		<pos>52 49.585N 002 08.751W</pos>
+	</col>
+	<col>
+		<trigraph>STB</trigraph>
+		<fullname>St Boswells</fullname>
+		<alt>43</alt>
+		<pos>55 33.967N 002 38.872W</pos>
+	</col>
+	<col>
+		<trigraph>STC</trigraph>
+		<fullname>Stokenchurch Tower</fullname>
+		<alt>794</alt>
+		<pos>51 39.914N 000 55.480W</pos>
+	</col>
+	<col>
+		<trigraph>STD</trigraph>
+		<fullname>Stradishall</fullname>
+		<alt>184</alt>
+		<pos>52 08.886N 000 33.186E</pos>
+	</col>
+	<col>
+		<trigraph>STE</trigraph>
+		<fullname>Steyning</fullname>
+		<alt>59</alt>
+		<pos>50 53.398N 000 19.498W</pos>
+	</col>
+	<col>
+		<trigraph>STF</trigraph>
+		<fullname>St Fillans</fullname>
+		<alt>66</alt>
+		<pos>56 23.489N 004 06.253W</pos>
+	</col>
+	<col>
+		<trigraph>STH</trigraph>
+		<fullname>Stanhope</fullname>
+		<alt>690</alt>
+		<pos>54 44.802N 002 01.489W</pos>
+	</col>
+	<col>
+		<trigraph>STI</trigraph>
+		<fullname>Stirling</fullname>
+		<alt>92</alt>
+		<pos>56 08.314N 003 55.070W</pos>
+	</col>
+	<col>
+		<trigraph>STK</trigraph>
+		<fullname>Stockbridge</fullname>
+		<alt>121</alt>
+		<pos>51 06.884N 001 29.876W</pos>
+	</col>
+	<col>
+		<trigraph>STN</trigraph>
+		<fullname>St Neots</fullname>
+		<alt>79</alt>
+		<pos>52 12.575N 000 15.704W</pos>
+	</col>
+	<col>
+		<trigraph>STO</trigraph>
+		<fullname>Stone</fullname>
+		<alt>249</alt>
+		<pos>52 54.493N 002 09.311W</pos>
+	</col>
+	<col>
+		<trigraph>STP</trigraph>
+		<fullname>Stourport</fullname>
+		<alt>144</alt>
+		<pos>52 20.216N 002 17.011W</pos>
+	</col>
+	<col>
+		<trigraph>STR</trigraph>
+		<fullname>Strachan</fullname>
+		<alt>131</alt>
+		<pos>57 01.226N 002 32.195W</pos>
+	</col>
+	<col>
+		<trigraph>STS</trigraph>
+		<fullname>Stony Stratford</fullname>
+		<alt>420</alt>
+		<pos>52 03.982N 000 52.172W</pos>
+	</col>
+	<col>
+		<trigraph>STT</trigraph>
+		<fullname>Stretton</fullname>
+		<alt>338</alt>
+		<pos>52 44.061N 000 36.011W</pos>
+	</col>
+	<col>
+		<trigraph>STU</trigraph>
+		<fullname>Sturminster Newton</fullname>
+		<alt>151</alt>
+		<pos>50 55.254N 002 18.486W</pos>
+	</col>
+	<col>
+		<trigraph>STW</trigraph>
+		<fullname>Stow-on-the-wold</fullname>
+		<alt>217</alt>
+		<pos>51 55.754N 001 43.479W</pos>
+	</col>
+	<col>
+		<trigraph>SU1</trigraph>
+		<fullname>Sutton Bank Start S</fullname>
+		<alt>223</alt>
+		<pos>54 10.996N 001 10.389W</pos>
+	</col>
+	<col>
+		<trigraph>SU2</trigraph>
+		<fullname>Sutton Bank Start W</fullname>
+		<alt>226</alt>
+		<pos>54 13.889N 001 17.550W</pos>
+	</col>
+	<col>
+		<trigraph>SU3</trigraph>
+		<fullname>Sutton Bank Control Point N</fullname>
+		<alt>869</alt>
+		<pos>54 16.147N 001 11.786W</pos>
+	</col>
+	<col>
+		<trigraph>SU4</trigraph>
+		<fullname>Sutton Bank Control Point S</fullname>
+		<alt>138</alt>
+		<pos>54 11.463N 001 14.438W</pos>
+	</col>
+	<col>
+		<trigraph>SUD</trigraph>
+		<fullname>Sudbury</fullname>
+		<alt>174</alt>
+		<pos>52 02.104N 000 43.263E</pos>
+	</col>
+	<col>
+		<trigraph>SUT</trigraph>
+		<fullname>Sutton Bank</fullname>
+		<alt>920</alt>
+		<pos>54 13.728N 001 12.580W</pos>
+	</col>
+	<col>
+		<trigraph>SUW</trigraph>
+		<fullname>Shipton under Wychwood</fullname>
+		<alt>330</alt>
+		<pos>51 51.696N 001 35.619W</pos>
+	</col>
+	<col>
+		<trigraph>SVN</trigraph>
+		<fullname>Strathaven</fullname>
+		<alt>95</alt>
+		<pos>55 40.521N 004 03.869W</pos>
+	</col>
+	<col>
+		<trigraph>SWD</trigraph>
+		<fullname>Snowdon</fullname>
+		<alt>3480</alt>
+		<pos>53 04.078N 004 04.695W</pos>
+	</col>
+	<col>
+		<trigraph>SWE</trigraph>
+		<fullname>Swindon East</fullname>
+		<alt>331</alt>
+		<pos>51 34.673N 001 44.100W</pos>
+	</col>
+	<col>
+		<trigraph>SWH</trigraph>
+		<fullname>Shawhead</fullname>
+		<alt>331</alt>
+		<pos>55 03.904N 003 46.135W</pos>
+	</col>
+	<col>
+		<trigraph>SWL</trigraph>
+		<fullname>Swalcliffe</fullname>
+		<alt>427</alt>
+		<pos>52 02.297N 001 27.148W</pos>
+	</col>
+	<col>
+		<trigraph>SWM</trigraph>
+		<fullname>Southwell Minster</fullname>
+		<alt>197</alt>
+		<pos>53 04.606N 000 57.250W</pos>
+	</col>
+	<col>
+		<trigraph>SWS</trigraph>
+		<fullname>Swindon South</fullname>
+		<alt>390</alt>
+		<pos>51 31.596N 001 43.513W</pos>
+	</col>
+	<col>
+		<trigraph>SWT</trigraph>
+		<fullname>Swainsthorpe</fullname>
+		<alt>64</alt>
+		<pos>52 33.754N 001 16.235E</pos>
+	</col>
+	<col>
+		<trigraph>SWW</trigraph>
+		<fullname>Swindon W</fullname>
+		<alt>361</alt>
+		<pos>51 32.717N 001 51.228W</pos>
+	</col>
+	<col>
+		<trigraph>SXB</trigraph>
+		<fullname>Saxby Church</fullname>
+		<alt>346</alt>
+		<pos>52 46.328N 000 47.186W</pos>
+	</col>
+	<col>
+		<trigraph>SYB</trigraph>
+		<fullname>Syre Bridge</fullname>
+		<alt>161</alt>
+		<pos>58 22.288N 004 13.919W</pos>
+	</col>
+	<col>
+		<trigraph>TA1</trigraph>
+		<fullname>Talgarth NW</fullname>
+		<alt>420</alt>
+		<pos>52 00.275N 003 14.686W</pos>
+	</col>
+	<col>
+		<trigraph>TA2</trigraph>
+		<fullname>Talgarth W</fullname>
+		<alt>482</alt>
+		<pos>51 59.910N 003 17.050W</pos>
+	</col>
+	<col>
+		<trigraph>TA3</trigraph>
+		<fullname>Talgarth S</fullname>
+		<alt>590</alt>
+		<pos>51 55.748N 003 11.326W</pos>
+	</col>
+	<col>
+		<trigraph>TAD</trigraph>
+		<fullname>Tarland</fullname>
+		<alt>525</alt>
+		<pos>57 07.809N 002 51.171W</pos>
+	</col>
+	<col>
+		<trigraph>TAL</trigraph>
+		<fullname>Talgarth</fullname>
+		<alt>970</alt>
+		<pos>51 58.774N 003 12.366W</pos>
+	</col>
+	<col>
+		<trigraph>TAR</trigraph>
+		<fullname>Tarbert</fullname>
+		<alt>36</alt>
+		<pos>55 51.935N 005 23.829W</pos>
+	</col>
+	<col>
+		<trigraph>TAU</trigraph>
+		<fullname>Taunton</fullname>
+		<alt>276</alt>
+		<pos>51 01.074N 003 03.827W</pos>
+	</col>
+	<col>
+		<trigraph>TAV</trigraph>
+		<fullname>Tavistock</fullname>
+		<alt>295</alt>
+		<pos>50 32.616N 004 09.072W</pos>
+	</col>
+	<col>
+		<trigraph>TB1</trigraph>
+		<fullname>Tibenham Start SE</fullname>
+		<alt>174</alt>
+		<pos>52 26.824N 001 10.481E</pos>
+	</col>
+	<col>
+		<trigraph>TBK</trigraph>
+		<fullname>Troutbeck</fullname>
+		<alt>919</alt>
+		<pos>54 38.176N 002 56.941W</pos>
+	</col>
+	<col>
+		<trigraph>TBN</trigraph>
+		<fullname>Tetbury North</fullname>
+		<alt>405</alt>
+		<pos>51 38.866N 002 08.628W</pos>
+	</col>
+	<col>
+		<trigraph>TBS</trigraph>
+		<fullname>Tetbury South</fullname>
+		<alt>484</alt>
+		<pos>51 35.136N 002 15.474W</pos>
+	</col>
+	<col>
+		<trigraph>TBW</trigraph>
+		<fullname>Tetbury West</fullname>
+		<alt>489</alt>
+		<pos>51 39.322N 002 11.189W</pos>
+	</col>
+	<col>
+		<trigraph>TBY</trigraph>
+		<fullname>Tenby</fullname>
+		<alt>157</alt>
+		<pos>51 40.659N 004 42.829W</pos>
+	</col>
+	<col>
+		<trigraph>TCM</trigraph>
+		<fullname>The Camp</fullname>
+		<alt>863</alt>
+		<pos>51 46.724N 002 07.538W</pos>
+	</col>
+	<col>
+		<trigraph>TDL</trigraph>
+		<fullname>Tindale</fullname>
+		<alt>623</alt>
+		<pos>54 55.852N 002 36.075W</pos>
+	</col>
+	<col>
+		<trigraph>TEB</trigraph>
+		<fullname>Tebay</fullname>
+		<alt>541</alt>
+		<pos>54 26.197N 002 35.861W</pos>
+	</col>
+	<col>
+		<trigraph>TED</trigraph>
+		<fullname>Tenterden</fullname>
+		<alt>174</alt>
+		<pos>51 03.855N 000 39.574E</pos>
+	</col>
+	<col>
+		<trigraph>TEE</trigraph>
+		<fullname>Telford East</fullname>
+		<alt>331</alt>
+		<pos>52 41.717N 002 19.200W</pos>
+	</col>
+	<col>
+		<trigraph>TEL</trigraph>
+		<fullname>Telford</fullname>
+		<alt>240</alt>
+		<pos>52 41.441N 002 32.594W</pos>
+	</col>
+	<col>
+		<trigraph>TEN</trigraph>
+		<fullname>Tenbury Wells</fullname>
+		<alt>266</alt>
+		<pos>52 18.836N 002 35.696W</pos>
+	</col>
+	<col>
+		<trigraph>TES</trigraph>
+		<fullname>Telford South</fullname>
+		<alt>98</alt>
+		<pos>52 36.941N 002 26.530W</pos>
+	</col>
+	<col>
+		<trigraph>TEV</trigraph>
+		<fullname>Teviothead</fullname>
+		<alt>560</alt>
+		<pos>55 20.522N 002 56.144W</pos>
+	</col>
+	<col>
+		<trigraph>TEW</trigraph>
+		<fullname>Tewkesbury North</fullname>
+		<alt>174</alt>
+		<pos>52 02.868N 002 08.117W</pos>
+	</col>
+	<col>
+		<trigraph>TFS</trigraph>
+		<fullname>Tarfside</fullname>
+		<alt>689</alt>
+		<pos>56 54.368N 002 50.155W</pos>
+	</col>
+	<col>
+		<trigraph>THA</trigraph>
+		<fullname>Thame Church</fullname>
+		<alt>377</alt>
+		<pos>51 45.054N 000 58.860W</pos>
+	</col>
+	<col>
+		<trigraph>THD</trigraph>
+		<fullname>Todhead</fullname>
+		<alt>262</alt>
+		<pos>56 53.015N 002 12.917W</pos>
+	</col>
+	<col>
+		<trigraph>THE</trigraph>
+		<fullname>Thetford</fullname>
+		<alt>128</alt>
+		<pos>52 24.703N 000 45.771E</pos>
+	</col>
+	<col>
+		<trigraph>THG</trigraph>
+		<fullname>Thorngumbald</fullname>
+		<alt>10</alt>
+		<pos>53 43.258N 000 10.265W</pos>
+	</col>
+	<col>
+		<trigraph>THI</trigraph>
+		<fullname>Thirsk</fullname>
+		<alt>108</alt>
+		<pos>54 14.067N 001 19.579W</pos>
+	</col>
+	<col>
+		<trigraph>THM</trigraph>
+		<fullname>Thame Rail Bridge</fullname>
+		<alt>289</alt>
+		<pos>51 46.542N 000 57.009W</pos>
+	</col>
+	<col>
+		<trigraph>THN</trigraph>
+		<fullname>Thornhill</fullname>
+		<alt>20</alt>
+		<pos>55 14.418N 003 46.648W</pos>
+	</col>
+	<col>
+		<trigraph>THO</trigraph>
+		<fullname>Thornton</fullname>
+		<alt>351</alt>
+		<pos>56 09.777N 003 08.273W</pos>
+	</col>
+	<col>
+		<trigraph>THP</trigraph>
+		<fullname>Thrapston</fullname>
+		<alt>266</alt>
+		<pos>52 23.476N 000 31.431W</pos>
+	</col>
+	<col>
+		<trigraph>TIA</trigraph>
+		<fullname>Tintern Abbey</fullname>
+		<alt>35</alt>
+		<pos>51 41.805N 002 40.615W</pos>
+	</col>
+	<col>
+		<trigraph>TIB</trigraph>
+		<fullname>Tibenham</fullname>
+		<alt>186</alt>
+		<pos>52 27.449N 001 09.695E</pos>
+	</col>
+	<col>
+		<trigraph>TID</trigraph>
+		<fullname>Tideswell Church</fullname>
+		<alt>978</alt>
+		<pos>53 16.720N 001 46.350W</pos>
+	</col>
+	<col>
+		<trigraph>TIE</trigraph>
+		<fullname>Tiverton East</fullname>
+		<alt>502</alt>
+		<pos>50 55.049N 003 21.367W</pos>
+	</col>
+	<col>
+		<trigraph>TIN</trigraph>
+		<fullname>Tomatin</fullname>
+		<alt>984</alt>
+		<pos>57 20.150N 003 58.867W</pos>
+	</col>
+	<col>
+		<trigraph>TIP</trigraph>
+		<fullname>Tiptree</fullname>
+		<alt>220</alt>
+		<pos>51 49.008N 000 44.675E</pos>
+	</col>
+	<col>
+		<trigraph>TIS</trigraph>
+		<fullname>Tisbury</fullname>
+		<alt>318</alt>
+		<pos>51 03.537N 002 04.886W</pos>
+	</col>
+	<col>
+		<trigraph>TIV</trigraph>
+		<fullname>Tiverton</fullname>
+		<alt>407</alt>
+		<pos>50 54.830N 003 29.546W</pos>
+	</col>
+	<col>
+		<trigraph>TNE</trigraph>
+		<fullname>Thornbury Northeast</fullname>
+		<alt>384</alt>
+		<pos>51 38.253N 002 27.126W</pos>
+	</col>
+	<col>
+		<trigraph>TNW</trigraph>
+		<fullname>Telford NW</fullname>
+		<alt>177</alt>
+		<pos>52 45.550N 002 32.947W</pos>
+	</col>
+	<col>
+		<trigraph>TOC</trigraph>
+		<fullname>Tockwith</fullname>
+		<alt>75</alt>
+		<pos>53 57.918N 001 17.463W</pos>
+	</col>
+	<col>
+		<trigraph>TOD</trigraph>
+		<fullname>Toddington</fullname>
+		<alt>299</alt>
+		<pos>51 56.853N 000 30.142W</pos>
+	</col>
+	<col>
+		<trigraph>TOG</trigraph>
+		<fullname>Tongue</fullname>
+		<alt>150</alt>
+		<pos>58 28.565N 004 25.061W</pos>
+	</col>
+	<col>
+		<trigraph>TOK</trigraph>
+		<fullname>Torksey Viaduct</fullname>
+		<alt>13</alt>
+		<pos>53 18.171N 000 44.839W</pos>
+	</col>
+	<col>
+		<trigraph>TOM</trigraph>
+		<fullname>Tomintoul</fullname>
+		<alt>1312</alt>
+		<pos>57 15.182N 003 22.360W</pos>
+	</col>
+	<col>
+		<trigraph>TON</trigraph>
+		<fullname>Tontine Inn</fullname>
+		<alt>180</alt>
+		<pos>54 23.415N 001 19.140W</pos>
+	</col>
+	<col>
+		<trigraph>TOR</trigraph>
+		<fullname>Torver</fullname>
+		<alt>351</alt>
+		<pos>54 20.284N 003 06.146W</pos>
+	</col>
+	<col>
+		<trigraph>TOW</trigraph>
+		<fullname>Towcester</fullname>
+		<alt>289</alt>
+		<pos>52 08.378N 000 59.811W</pos>
+	</col>
+	<col>
+		<trigraph>TRE</trigraph>
+		<fullname>Tregaron</fullname>
+		<alt>574</alt>
+		<pos>52 13.195N 003 56.051W</pos>
+	</col>
+	<col>
+		<trigraph>TRF</trigraph>
+		<fullname>Turriff</fullname>
+		<alt>197</alt>
+		<pos>57 31.998N 002 27.686W</pos>
+	</col>
+	<col>
+		<trigraph>TRO</trigraph>
+		<fullname>Trowbridge</fullname>
+		<alt>121</alt>
+		<pos>51 19.147N 002 12.809W</pos>
+	</col>
+	<col>
+		<trigraph>TRR</trigraph>
+		<fullname>Truro NE</fullname>
+		<alt>245</alt>
+		<pos>50 16.334N 005 02.077W</pos>
+	</col>
+	<col>
+		<trigraph>TRU</trigraph>
+		<fullname>Truleigh</fullname>
+		<alt>708</alt>
+		<pos>50 53.007N 000 15.614W</pos>
+	</col>
+	<col>
+		<trigraph>TRW</trigraph>
+		<fullname>Truro West</fullname>
+		<alt>15</alt>
+		<pos>50 15.489N 005 04.457W</pos>
+	</col>
+	<col>
+		<trigraph>TRY</trigraph>
+		<fullname>Treyford</fullname>
+		<alt>194</alt>
+		<pos>50 57.558N 000 49.617W</pos>
+	</col>
+	<col>
+		<trigraph>TSW</trigraph>
+		<fullname>Telford SW</fullname>
+		<alt>180</alt>
+		<pos>52 38.183N 002 31.552W</pos>
+	</col>
+	<col>
+		<trigraph>TUJ</trigraph>
+		<fullname>Tuxford Rail Junction</fullname>
+		<alt>154</alt>
+		<pos>53 13.534N 000 52.656W</pos>
+	</col>
+	<col>
+		<trigraph>TUL</trigraph>
+		<fullname>Tulla Loch East</fullname>
+		<alt>361</alt>
+		<pos>56 33.290N 004 44.944W</pos>
+	</col>
+	<col>
+		<trigraph>TUM</trigraph>
+		<fullname>Tummel Bridge</fullname>
+		<alt>492</alt>
+		<pos>56 42.472N 004 01.410W</pos>
+	</col>
+	<col>
+		<trigraph>TUW</trigraph>
+		<fullname>Tulla Loch West</fullname>
+		<alt>558</alt>
+		<pos>56 32.384N 004 48.812W</pos>
+	</col>
+	<col>
+		<trigraph>ULL</trigraph>
+		<fullname>Ullswater</fullname>
+		<alt>66</alt>
+		<pos>54 36.677N 002 49.931W</pos>
+	</col>
+	<col>
+		<trigraph>ULP</trigraph>
+		<fullname>Ulpha</fullname>
+		<alt>213</alt>
+		<pos>54 19.585N 003 14.228W</pos>
+	</col>
+	<col>
+		<trigraph>ULV</trigraph>
+		<fullname>Ulverston</fullname>
+		<alt>62</alt>
+		<pos>54 12.152N 003 04.973W</pos>
+	</col>
+	<col>
+		<trigraph>UPA</trigraph>
+		<fullname>Upavon Hangar W</fullname>
+		<alt>575</alt>
+		<pos>51 17.419N 001 46.738W</pos>
+	</col>
+	<col>
+		<trigraph>UPL</trigraph>
+		<fullname>Ullapool</fullname>
+		<alt>65</alt>
+		<pos>57 54.275N 005 09.624W</pos>
+	</col>
+	<col>
+		<trigraph>UPP</trigraph>
+		<fullname>Uppingham N</fullname>
+		<alt>410</alt>
+		<pos>52 35.780N 000 43.502W</pos>
+	</col>
+	<col>
+		<trigraph>UPS</trigraph>
+		<fullname>Upper Sapey</fullname>
+		<alt>546</alt>
+		<pos>52 16.038N 002 27.726W</pos>
+	</col>
+	<col>
+		<trigraph>UPW</trigraph>
+		<fullname>Upwood Hangar</fullname>
+		<alt>75</alt>
+		<pos>52 25.947N 000 08.851W</pos>
+	</col>
+	<col>
+		<trigraph>USK</trigraph>
+		<fullname>Usk</fullname>
+		<alt>80</alt>
+		<pos>51 43.096N 002 50.776W</pos>
+	</col>
+	<col>
+		<trigraph>UTT</trigraph>
+		<fullname>Uttoxeter</fullname>
+		<alt>236</alt>
+		<pos>52 53.782N 001 51.587W</pos>
+	</col>
+	<col>
+		<trigraph>UWH</trigraph>
+		<fullname>Uffington White Horse</fullname>
+		<alt>785</alt>
+		<pos>51 34.670N 001 33.987W</pos>
+	</col>
+	<col>
+		<trigraph>VRY</trigraph>
+		<fullname>Vyrnwy</fullname>
+		<alt>167</alt>
+		<pos>52 45.766N 003 27.245W</pos>
+	</col>
+	<col>
+		<trigraph>WAB</trigraph>
+		<fullname>Waterbeck</fullname>
+		<alt>355</alt>
+		<pos>55 05.117N 003 11.096W</pos>
+	</col>
+	<col>
+		<trigraph>WAL</trigraph>
+		<fullname>Walford</fullname>
+		<alt>299</alt>
+		<pos>52 20.912N 002 53.702W</pos>
+	</col>
+	<col>
+		<trigraph>WAN</trigraph>
+		<fullname>Wantage</fullname>
+		<alt>322</alt>
+		<pos>51 35.852N 001 25.374W</pos>
+	</col>
+	<col>
+		<trigraph>WAO</trigraph>
+		<fullname>Watton</fullname>
+		<alt>207</alt>
+		<pos>52 33.845N 000 50.932E</pos>
+	</col>
+	<col>
+		<trigraph>WAR</trigraph>
+		<fullname>Warcop</fullname>
+		<alt>475</alt>
+		<pos>54 31.832N 002 23.909W</pos>
+	</col>
+	<col>
+		<trigraph>WAS</trigraph>
+		<fullname>Washington</fullname>
+		<alt>102</alt>
+		<pos>50 54.574N 000 24.483W</pos>
+	</col>
+	<col>
+		<trigraph>WAT</trigraph>
+		<fullname>Watford Gap</fullname>
+		<alt>276</alt>
+		<pos>52 18.537N 001 07.432W</pos>
+	</col>
+	<col>
+		<trigraph>WAW</trigraph>
+		<fullname>Watch Water Reservoir</fullname>
+		<alt>896</alt>
+		<pos>55 48.170N 002 32.459W</pos>
+	</col>
+	<col>
+		<trigraph>WBN</trigraph>
+		<fullname>Whiteburn</fullname>
+		<alt>690</alt>
+		<pos>55 43.140N 002 39.116W</pos>
+	</col>
+	<col>
+		<trigraph>WBR</trigraph>
+		<fullname>Weldon Bridge</fullname>
+		<alt>164</alt>
+		<pos>55 16.881N 001 46.971W</pos>
+	</col>
+	<col>
+		<trigraph>WBS</trigraph>
+		<fullname>Wetherby South</fullname>
+		<alt>52</alt>
+		<pos>53 51.359N 001 20.647W</pos>
+	</col>
+	<col>
+		<trigraph>WBY</trigraph>
+		<fullname>Whitby Bridge</fullname>
+		<alt>50</alt>
+		<pos>54 28.726N 000 36.825W</pos>
+	</col>
+	<col>
+		<trigraph>WCB</trigraph>
+		<fullname>Winchcombe</fullname>
+		<alt>161</alt>
+		<pos>51 57.947N 001 57.316W</pos>
+	</col>
+	<col>
+		<trigraph>WCH</trigraph>
+		<fullname>Woodchurch Farm</fullname>
+		<alt>140</alt>
+		<pos>51 06.000N 000 46.720E</pos>
+	</col>
+	<col>
+		<trigraph>WDD</trigraph>
+		<fullname>Widdrington Station</fullname>
+		<alt>157</alt>
+		<pos>55 14.488N 001 37.007W</pos>
+	</col>
+	<col>
+		<trigraph>WDG</trigraph>
+		<fullname>Witheridge</fullname>
+		<alt>663</alt>
+		<pos>50 54.668N 003 41.812W</pos>
+	</col>
+	<col>
+		<trigraph>WDM</trigraph>
+		<fullname>Windermere</fullname>
+		<alt>148</alt>
+		<pos>54 21.853N 002 55.190W</pos>
+	</col>
+	<col>
+		<trigraph>WDP</trigraph>
+		<fullname>Waldershare Park</fullname>
+		<alt>375</alt>
+		<pos>51 10.310N 001 16.559E</pos>
+	</col>
+	<col>
+		<trigraph>WEB</trigraph>
+		<fullname>Westbury NE</fullname>
+		<alt>220</alt>
+		<pos>51 16.406N 002 09.545W</pos>
+	</col>
+	<col>
+		<trigraph>WEC</trigraph>
+		<fullname>Westcott</fullname>
+		<alt>374</alt>
+		<pos>51 51.424N 000 58.699W</pos>
+	</col>
+	<col>
+		<trigraph>WEG</trigraph>
+		<fullname>Wellington</fullname>
+		<alt>469</alt>
+		<pos>50 59.087N 003 14.381W</pos>
+	</col>
+	<col>
+		<trigraph>WEL</trigraph>
+		<fullname>Welford</fullname>
+		<alt>285</alt>
+		<pos>51 27.341N 001 24.782W</pos>
+	</col>
+	<col>
+		<trigraph>WEN</trigraph>
+		<fullname>Wendling</fullname>
+		<alt>236</alt>
+		<pos>52 41.950N 000 50.897E</pos>
+	</col>
+	<col>
+		<trigraph>WES</trigraph>
+		<fullname>Westbury</fullname>
+		<alt>200</alt>
+		<pos>51 16.327N 002 11.652W</pos>
+	</col>
+	<col>
+		<trigraph>WET</trigraph>
+		<fullname>Wetherby</fullname>
+		<alt>43</alt>
+		<pos>53 55.351N 001 22.941W</pos>
+	</col>
+	<col>
+		<trigraph>WEY</trigraph>
+		<fullname>Weymouth</fullname>
+		<alt>30</alt>
+		<pos>50 36.812N 002 27.503W</pos>
+	</col>
+	<col>
+		<trigraph>WGT</trigraph>
+		<fullname>Wigton</fullname>
+		<alt>98</alt>
+		<pos>54 49.762N 003 09.852W</pos>
+	</col>
+	<col>
+		<trigraph>WGW</trigraph>
+		<fullname>Wing W</fullname>
+		<alt>460</alt>
+		<pos>51 54.046N 000 45.851W</pos>
+	</col>
+	<col>
+		<trigraph>WH2</trigraph>
+		<fullname>Whitchurch Hants</fullname>
+		<alt>360</alt>
+		<pos>51 14.290N 001 20.754W</pos>
+	</col>
+	<col>
+		<trigraph>WHD</trigraph>
+		<fullname>Whiddon Down</fullname>
+		<alt>361</alt>
+		<pos>50 43.257N 003 50.939W</pos>
+	</col>
+	<col>
+		<trigraph>WHI</trigraph>
+		<fullname>Whitchurch Shropshire</fullname>
+		<alt>331</alt>
+		<pos>52 58.031N 002 40.306W</pos>
+	</col>
+	<col>
+		<trigraph>WHM</trigraph>
+		<fullname>Whitehaven Marina</fullname>
+		<alt>10</alt>
+		<pos>54 32.994N 003 35.365W</pos>
+	</col>
+	<col>
+		<trigraph>WHN</trigraph>
+		<fullname>Whittington</fullname>
+		<alt>75</alt>
+		<pos>52 33.900N 000 31.643E</pos>
+	</col>
+	<col>
+		<trigraph>WHR</trigraph>
+		<fullname>Whiteadder Reservoir</fullname>
+		<alt>95</alt>
+		<pos>55 52.164N 002 34.035W</pos>
+	</col>
+	<col>
+		<trigraph>WHT</trigraph>
+		<fullname>Whitstable</fullname>
+		<alt>289</alt>
+		<pos>51 21.458N 001 02.011E</pos>
+	</col>
+	<col>
+		<trigraph>WHW</trigraph>
+		<fullname>Whitchurch Shropshire West</fullname>
+		<alt>223</alt>
+		<pos>52 57.823N 002 47.735W</pos>
+	</col>
+	<col>
+		<trigraph>WIC</trigraph>
+		<fullname>Whickham</fullname>
+		<alt>105</alt>
+		<pos>54 55.333N 001 40.564W</pos>
+	</col>
+	<col>
+		<trigraph>WIG</trigraph>
+		<fullname>Wingham</fullname>
+		<alt>276</alt>
+		<pos>51 16.329N 001 12.789E</pos>
+	</col>
+	<col>
+		<trigraph>WIK</trigraph>
+		<fullname>Wick West</fullname>
+		<alt>70</alt>
+		<pos>58 28.281N 003 18.073W</pos>
+	</col>
+	<col>
+		<trigraph>WIM</trigraph>
+		<fullname>Wimbleball</fullname>
+		<alt>351</alt>
+		<pos>51 04.539N 003 27.708W</pos>
+	</col>
+	<col>
+		<trigraph>WIN</trigraph>
+		<fullname>Wincanton</fullname>
+		<alt>371</alt>
+		<pos>51 03.943N 002 24.846W</pos>
+	</col>
+	<col>
+		<trigraph>WIS</trigraph>
+		<fullname>Wisbech</fullname>
+		<alt>7</alt>
+		<pos>52 40.034N 000 09.571E</pos>
+	</col>
+	<col>
+		<trigraph>WIW</trigraph>
+		<fullname>Wilton West</fullname>
+		<alt>305</alt>
+		<pos>51 04.768N 001 56.023W</pos>
+	</col>
+	<col>
+		<trigraph>WKB</trigraph>
+		<fullname>Warkworth Bridge</fullname>
+		<alt>32</alt>
+		<pos>55 20.972N 001 36.578W</pos>
+	</col>
+	<col>
+		<trigraph>WKW</trigraph>
+		<fullname>Wickwar</fullname>
+		<alt>275</alt>
+		<pos>51 35.345N 002 23.891W</pos>
+	</col>
+	<col>
+		<trigraph>WLD</trigraph>
+		<fullname>West Lomond Hill</fullname>
+		<alt>1713</alt>
+		<pos>56 14.730N 003 17.811W</pos>
+	</col>
+	<col>
+		<trigraph>WLL</trigraph>
+		<fullname>Willersley</fullname>
+		<alt>223</alt>
+		<pos>52 07.340N 003 00.052W</pos>
+	</col>
+	<col>
+		<trigraph>WLS</trigraph>
+		<fullname>Wells</fullname>
+		<alt>151</alt>
+		<pos>51 12.616N 002 38.590W</pos>
+	</col>
+	<col>
+		<trigraph>WLT</trigraph>
+		<fullname>Waternish Point</fullname>
+		<alt>33</alt>
+		<pos>57 36.464N 006 38.048W</pos>
+	</col>
+	<col>
+		<trigraph>WLW</trigraph>
+		<fullname>Worlingworth</fullname>
+		<alt>197</alt>
+		<pos>52 15.654N 001 15.638E</pos>
+	</col>
+	<col>
+		<trigraph>WLY</trigraph>
+		<fullname>Woolley Down</fullname>
+		<alt>459</alt>
+		<pos>51 31.369N 001 25.508W</pos>
+	</col>
+	<col>
+		<trigraph>WME</trigraph>
+		<fullname>Wormingford East</fullname>
+		<alt>125</alt>
+		<pos>51 57.360N 000 52.617E</pos>
+	</col>
+	<col>
+		<trigraph>WML</trigraph>
+		<fullname>Wormelow</fullname>
+		<alt>387</alt>
+		<pos>51 58.127N 002 44.444W</pos>
+	</col>
+	<col>
+		<trigraph>WMW</trigraph>
+		<fullname>Wormingford West</fullname>
+		<alt>220</alt>
+		<pos>51 56.771N 000 42.843E</pos>
+	</col>
+	<col>
+		<trigraph>WNE</trigraph>
+		<fullname>Welshpool NE</fullname>
+		<alt>215</alt>
+		<pos>52 40.317N 003 06.912W</pos>
+	</col>
+	<col>
+		<trigraph>WNW</trigraph>
+		<fullname>Wantage Northwest</fullname>
+		<alt>249</alt>
+		<pos>51 36.766N 001 29.305W</pos>
+	</col>
+	<col>
+		<trigraph>WO2</trigraph>
+		<fullname>Weston Finish Point</fullname>
+		<alt>225</alt>
+		<pos>51 52.136N 001 11.929W</pos>
+	</col>
+	<col>
+		<trigraph>WOB</trigraph>
+		<fullname>Woburn Abbey</fullname>
+		<alt>348</alt>
+		<pos>51 59.002N 000 35.977W</pos>
+	</col>
+	<col>
+		<trigraph>WOC</trigraph>
+		<fullname>Worcester Racecourse</fullname>
+		<alt>167</alt>
+		<pos>52 11.775N 002 13.999W</pos>
+	</col>
+	<col>
+		<trigraph>WOD</trigraph>
+		<fullname>Woodall Services</fullname>
+		<alt>410</alt>
+		<pos>53 18.915N 001 16.940W</pos>
+	</col>
+	<col>
+		<trigraph>WOE</trigraph>
+		<fullname>Woore</fullname>
+		<alt>253</alt>
+		<pos>52 58.633N 002 24.177W</pos>
+	</col>
+	<col>
+		<trigraph>WOG</trigraph>
+		<fullname>Weston-on-the-green</fullname>
+		<alt>282</alt>
+		<pos>51 52.829N 001 13.189W</pos>
+	</col>
+	<col>
+		<trigraph>WOL</trigraph>
+		<fullname>Wooler East</fullname>
+		<alt>66</alt>
+		<pos>55 31.907N 001 50.084W</pos>
+	</col>
+	<col>
+		<trigraph>WOM</trigraph>
+		<fullname>Woburn</fullname>
+		<alt>305</alt>
+		<pos>52 01.589N 000 36.237W</pos>
+	</col>
+	<col>
+		<trigraph>WON</trigraph>
+		<fullname>Walton on Naze Pier</fullname>
+		<alt>20</alt>
+		<pos>51 50.799N 001 16.279E</pos>
+	</col>
+	<col>
+		<trigraph>WOO</trigraph>
+		<fullname>Wooler</fullname>
+		<alt>59</alt>
+		<pos>55 32.862N 002 00.721W</pos>
+	</col>
+	<col>
+		<trigraph>WOR</trigraph>
+		<fullname>Worcester</fullname>
+		<alt>157</alt>
+		<pos>52 12.759N 002 09.508W</pos>
+	</col>
+	<col>
+		<trigraph>WRA</trigraph>
+		<fullname>Wragby</fullname>
+		<alt>79</alt>
+		<pos>53 17.251N 000 18.085W</pos>
+	</col>
+	<col>
+		<trigraph>WRK</trigraph>
+		<fullname>Workington</fullname>
+		<alt>30</alt>
+		<pos>54 38.950N 003 33.427W</pos>
+	</col>
+	<col>
+		<trigraph>WRM</trigraph>
+		<fullname>Wormingford</fullname>
+		<alt>236</alt>
+		<pos>51 56.646N 000 48.197E</pos>
+	</col>
+	<col>
+		<trigraph>WRO</trigraph>
+		<fullname>Wroughton</fullname>
+		<alt>643</alt>
+		<pos>51 30.402N 001 48.106W</pos>
+	</col>
+	<col>
+		<trigraph>WSL</trigraph>
+		<fullname>Winslow</fullname>
+		<alt>381</alt>
+		<pos>51 56.908N 000 53.162W</pos>
+	</col>
+	<col>
+		<trigraph>WSM</trigraph>
+		<fullname>Wattisham</fullname>
+		<alt>284</alt>
+		<pos>52 07.646N 000 57.356E</pos>
+	</col>
+	<col>
+		<trigraph>WTB</trigraph>
+		<fullname>Waterbeach N</fullname>
+		<alt>15</alt>
+		<pos>52 17.849N 000 10.963E</pos>
+	</col>
+	<col>
+		<trigraph>WTH</trigraph>
+		<fullname>Worthing</fullname>
+		<alt>62</alt>
+		<pos>50 50.331N 000 23.588W</pos>
+	</col>
+	<col>
+		<trigraph>WTM</trigraph>
+		<fullname>Worthen</fullname>
+		<alt>338</alt>
+		<pos>52 38.163N 002 59.672W</pos>
+	</col>
+	<col>
+		<trigraph>WTN</trigraph>
+		<fullname>Watlington</fullname>
+		<alt>360</alt>
+		<pos>51 38.598N 001 00.384W</pos>
+	</col>
+	<col>
+		<trigraph>WWE</trigraph>
+		<fullname>Wast Water E</fullname>
+		<alt>246</alt>
+		<pos>54 27.409N 003 15.870W</pos>
+	</col>
+	<col>
+		<trigraph>WWW</trigraph>
+		<fullname>Wast Water W</fullname>
+		<alt>190</alt>
+		<pos>54 25.297N 003 20.697W</pos>
+	</col>
+	<col>
+		<trigraph>WYL</trigraph>
+		<fullname>Wylye</fullname>
+		<alt>367</alt>
+		<pos>51 08.298N 001 59.997W</pos>
+	</col>
+	<col>
+		<trigraph>WYM</trigraph>
+		<fullname>Wymondham</fullname>
+		<alt>148</alt>
+		<pos>52 34.210N 001 06.444E</pos>
+	</col>
+	<col>
+		<trigraph>YAT</trigraph>
+		<fullname>Yate</fullname>
+		<alt>600</alt>
+		<pos>51 30.106N 002 21.020W</pos>
+	</col>
+	<col>
+		<trigraph>YEO</trigraph>
+		<fullname>Yeovil Reservoir</fullname>
+		<alt>213</alt>
+		<pos>50 54.039N 002 38.700W</pos>
+	</col>
+	<col>
+		<trigraph>YET</trigraph>
+		<fullname>Yetholm</fullname>
+		<alt>331</alt>
+		<pos>55 32.761N 002 16.930W</pos>
+	</col>
+	<col>
+		<trigraph>YOE</trigraph>
+		<fullname>York East</fullname>
+		<alt>33</alt>
+		<pos>53 57.414N 001 00.719W</pos>
+	</col>
+	<col>
+		<trigraph>YOR</trigraph>
+		<fullname>York</fullname>
+		<alt>260</alt>
+		<pos>53 57.728N 001 04.918W</pos>
+	</col>
+	<col>
+		<trigraph>YTN</trigraph>
+		<fullname>Yeovilton</fullname>
+		<alt>75</alt>
+		<pos>51 00.639N 002 38.467W</pos>
+	</col>
+	<col>
+		<trigraph>YTT</trigraph>
+		<fullname>Yattendon</fullname>
+		<alt>395</alt>
+		<pos>51 27.553N 001 12.231W</pos>
+	</col>
+</data-set>
