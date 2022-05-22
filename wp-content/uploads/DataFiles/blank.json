@@ -1,1 +1,7 @@
-[{}]
+[{
+	"name":"Demo Glider",
+	"cn":"OW",
+	"comp":"Club",
+	"hc":true,
+	"flarm":["000AA0"]
+}]

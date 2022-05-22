@@ -1,13 +1,18 @@
 [{
-	"name": "HusBos K21",
-	"comp": "Club",
-	"flarm": ["404FE0"]
+	"name":"HusBos K21",
+	"cn":"KGX",
+	"comp":"Club",
+	"hc":true,
+	"flarm":["404FE0"]
 },{
-	"name": "Another HusBos K21",
-	"comp": "Club",
-	"flarm": ["407A1A"]
+	"name":"HusBos K21",
+	"cn":"LZB",
+	"comp":"Club",
+	"hc":true,
+	"flarm":["407A1A"]
 },{
-	"name": "Ollie Wheeler",
-	"comp": "Club",
-	"flarm": ["405934"]
+	"name":"Ollie Wheeler",
+	"cn":"OW",
+	"comp":"Club",
+	"flarm":["405934"]
 }]
