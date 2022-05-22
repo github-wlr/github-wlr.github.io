@@ -216,7 +216,7 @@ flexibility(document.documentElement);
 
 
 
-<p>To generate a task please search the list of BGA turnpoints below. You must select a start, finish and at least one turnpoint.</p>
+<p>To generate a task please search the list of BGA turnpoints below. You must select a start, finish and at least one turnpoint. Currently waypoints are setup as FAI turn sectors, with a 5km start line and a 1km finish ring.</p>
 
 
 
@@ -318,7 +318,7 @@ button:hover{
 
 
 
-<div class="wp-container-6 wp-block-group" style="padding-top:20px;padding-right:0px;padding-bottom:0px;padding-left:0px"><div class="wp-block-group__inner-container">
+<div class="wp-container-6 wp-block-group" style="padding-top:20px;padding-right:0px;padding-bottom:20px;padding-left:0px"><div class="wp-block-group__inner-container">
 <h6>Finish Point</h6>
 
 
@@ -329,6 +329,14 @@ button:hover{
       </ul>
 </div>
 </div></div>
+
+
+
+<div class="wp-block-button is-style-fill">
+<a id="Generate" class="wp-block-button__link has-ast-global-color-0-color has-ast-global-color-2-background-color has-text-color has-background">
+Generate
+</a>
+</div>
 </div>
 
 
@@ -350,11 +358,34 @@ button:hover{
             dataType: "xml",
             complete: function(xml){
                 var values=[]
+                
+                function convert(str){
+                    var str=str.trim()
+                    var length=str.length
+                    var let=str.substring(length-1,length).trim()
+                    var str=str.substring(0,length-1)
+                    
+                    var deg=Number(str.substring(0,length-8));
+                    var min=Number(str.substring(length-7,length-1));
+                    var str=deg+(min/60);
+                    if ((let=='S') || (let=='W')){
+                          return -str
+                    }else{
+                          return str
+                    }
+                }
+                
                 $(xml.responseXML).find('col').each(function(){
                     var tri=$(this).find("trigraph").text();
                     var name=$(this).find("fullname").text()+" ("+tri+")";
-                    var alt=$(this).find("alt").text();
-                    values.push({tri:tri, name: name,alt: alt})
+                    var alt=Number($(this).find("alt").text())*.3048; // Convert from ft to m (G&S requires this)
+                    // Setup TP Positional Array
+                    var pos=$(this).find("pos").text()
+                    // Get Lat
+                    var lat=convert(pos.substring(0,10))
+                    // Get Long
+                    var lng=convert(pos.substring(11))
+                    values.push({tri:tri,name:name,alt:alt,lat:lat,lng:lng})
                 });
                 var options={
                     valueNames: ['name'],
@@ -394,24 +425,63 @@ button:hover{
                       })
                  }
                  
+                 var startTP
+                 var turnpoint1
+                 var turnpoint2
+                 var turnpoint3
+                 var turnpoint4
+                 var finishTP
+                 
                  createDropdown("start",function(i){  // Function requires (Element ID, on selected function)
-                       console.log(i)
+                       startTP=i
                  })
                  createDropdown("tp1",function(i){  // Function requires (Element ID, on selected function)
-                       console.log(i)
+                       turnpoint1=i
                  })
                  createDropdown("tp2",function(i){  // Function requires (Element ID, on selected function)
-                       console.log(i)
+                       turnpoint2=i
                  })
                  createDropdown("tp3",function(i){  // Function requires (Element ID, on selected function)
-                       console.log(i)
+                       turnpoint3=i
                  })
                  createDropdown("tp4",function(i){  // Function requires (Element ID, on selected function)
-                       console.log(i)
+                       turnpoint4=i
                  })
                  createDropdown("finish",function(i){  // Function requires (Element ID, on selected function)
-                       console.log(i)
+                       finishTP=i
                  })
+                 
+                 document.getElementById("Generate").onclick=function(){
+                       if ((startTP) && (finishTP) && (turnpoint1)){
+                             console.log("Generate")
+                             // Build .json file
+                             var data={}
+                             data["type"]="RT"
+                             var points=[]
+                             function createPoint(data,type,radius,angle){
+                                   var array={
+                                               "type":type,
+                                               "name":data.name,
+                                               "altitude":data.alt,
+                                               "lat":data.lat,
+                                               "lng":data.lng,
+                                               "radius":radius,
+                                               "angle":angle
+                                              }
+                                   points.push(array)
+                             }
+                             createPoint(startTP,'Line',5000,90)
+                             createPoint(turnpoint1,'Symmetric',5000,90)
+                             //createPoint(turnpoint2,'Symmetric',5000,90)
+                             //createPoint(turnpoint3,'Symmetric',5000,90)
+                             createPoint(finishTP,'Cylinder',3000,0)
+                             
+                             data["points"]={points}
+                             console.log(data)
+                       }else{
+                             alert("Unable to generate. Please select start, finish and at least 1 turnpoint.");
+                       }
+                 }
             }
         });
 </script>
