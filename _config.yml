@@ -1,4 +1,0 @@
-comments:
-  provider: "staticman_v2"
-  staticman:
-    endpoint: "https://staticman-wlr.herokuapp.com/v3/entry/github/"
